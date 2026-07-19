@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pacific Coast Road Trip · Seattle → LA · Aug 8–13</title>
+<meta name="description" content="Seattle to Los Angeles Pacific Coast road trip — 6 days, 5 nights, 3 guys. Interactive map, day-by-day itinerary, and budget.">
+<style>
+  :root{
+    --ink:#0b1f2a; --sea:#0d6e8c; --sea-deep:#0a4a5e; --teal:#12a5b8;
+    --sand:#f3ead8; --sand-line:#e4d7bd; --sun:#e88a3c; --paper:#fbf8f1;
+    --card:#ffffff; --muted:#5b7078;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink);background:var(--paper);line-height:1.55;-webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--sea)}
+  .wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+
+  /* Hero */
+  .hero{
+    background:linear-gradient(160deg,var(--sea-deep) 0%,var(--sea) 55%,var(--teal) 100%);
+    color:#fff;padding:56px 0 64px;position:relative;overflow:hidden;
+  }
+  .hero::after{
+    content:"";position:absolute;left:0;right:0;bottom:-1px;height:60px;
+    background:radial-gradient(120% 100% at 50% 0,transparent 60%,var(--paper) 61%);
+  }
+  .eyebrow{letter-spacing:.18em;text-transform:uppercase;font-size:12px;font-weight:700;opacity:.85;margin:0 0 10px}
+  h1{font-size:clamp(30px,6vw,52px);line-height:1.05;margin:0 0 14px;font-weight:800}
+  .lede{font-size:clamp(16px,2.4vw,20px);max-width:640px;opacity:.95;margin:0}
+  .facts{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+  .chip{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.28);
+    padding:7px 13px;border-radius:999px;font-size:13.5px;font-weight:600;backdrop-filter:blur(2px)}
+
+  /* Buttons */
+  .cta{display:flex;flex-wrap:wrap;gap:14px;margin:-32px auto 0;position:relative;z-index:2}
+  .btn{
+    flex:1 1 260px;display:flex;align-items:center;gap:14px;text-decoration:none;
+    background:var(--card);border:1px solid var(--sand-line);border-radius:16px;padding:18px 20px;
+    box-shadow:0 10px 30px rgba(11,31,42,.10);transition:transform .12s ease,box-shadow .12s ease;color:var(--ink);
+  }
+  .btn:hover{transform:translateY(-3px);box-shadow:0 16px 40px rgba(11,31,42,.16)}
+  .btn .ico{font-size:30px;line-height:1}
+  .btn b{display:block;font-size:17px}
+  .btn span{font-size:13.5px;color:var(--muted)}
+  .btn.primary{background:linear-gradient(160deg,var(--sun),#d9702a);border-color:#d9702a;color:#fff}
+  .btn.primary span{color:rgba(255,255,255,.9)}
+
+  section{padding:38px 0}
+  h2{font-size:22px;margin:0 0 6px;display:flex;align-items:center;gap:9px}
+  .sub{color:var(--muted);margin:0 0 20px;font-size:14.5px}
+
+  /* Budget */
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px}
+  .stat{background:var(--card);border:1px solid var(--sand-line);border-radius:14px;padding:16px 18px}
+  .stat .n{font-size:26px;font-weight:800;color:var(--sea-deep)}
+  .stat .l{font-size:13px;color:var(--muted);margin-top:2px}
+
+  /* Days */
+  .days{display:grid;gap:10px}
+  .day{display:grid;grid-template-columns:64px 1fr auto;gap:14px;align-items:center;
+    background:var(--card);border:1px solid var(--sand-line);border-radius:14px;padding:14px 16px}
+  .day .badge{background:var(--sand);border-radius:10px;text-align:center;padding:8px 0;font-weight:800;color:var(--sea-deep)}
+  .day .badge small{display:block;font-size:10.5px;font-weight:700;color:var(--muted);letter-spacing:.04em}
+  .day .route{font-weight:600;font-size:15px}
+  .day .meta{font-size:12.5px;color:var(--muted);margin-top:2px}
+  .day .drive{font-size:12.5px;color:var(--muted);white-space:nowrap;text-align:right}
+
+  /* Water safety */
+  .warn{background:#fff5ee;border:1px solid #f3cdae;border-left:5px solid var(--sun);
+    border-radius:12px;padding:18px 20px}
+  .warn h2{color:#b5561c}
+  .warn ul{margin:10px 0 0;padding-left:20px}
+  .warn li{margin:4px 0}
+
+  footer{padding:30px 0 50px;color:var(--muted);font-size:13px;text-align:center;border-top:1px solid var(--sand-line);margin-top:20px}
+  .files{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;margin-top:10px}
+  @media (max-width:560px){
+    .day{grid-template-columns:56px 1fr;} .day .drive{grid-column:2;text-align:left}
+  }
+</style>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">🌲 Seattle → 🌊 → 🌴 Los Angeles</p>
+      <h1>Pacific Coast Road Trip</h1>
+      <p class="lede">Six days down Highway 101 &amp; Highway 1 — Oregon coast, the Redwoods, Big Sur, and a real water day in SoCal. Three of us, one car, every night in a bed.</p>
+      <div class="facts">
+        <span class="chip">📅 Aug 8–13, 2026</span>
+        <span class="chip">🌙 6 days · 5 nights</span>
+        <span class="chip">🚗 ~1,200 miles</span>
+        <span class="chip">👥 3 travelers</span>
+        <span class="chip">💵 ≈ $1,360 / person</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div class="cta">
+      <a class="btn primary" href="map.html">
+        <span class="ico">🗺️</span>
+        <span class="txt"><b>Open the Interactive Map</b><span>43 stops, real driving routes, tap any pin</span></span>
+      </a>
+      <a class="btn" href="itinerary.html">
+        <span class="ico">📋</span>
+        <span class="txt"><b>Day-by-Day Itinerary</b><span>Hour-by-hour plan, costs &amp; booking list</span></span>
+      </a>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <h2>💰 The budget</h2>
+      <p class="sub">6 days · 5 nights · 3 people · one room split three ways. Range: $3,800 frugal → $4,500.</p>
+      <div class="grid">
+        <div class="stat"><div class="n">≈ $4,080</div><div class="l">Total, all three</div></div>
+        <div class="stat"><div class="n">≈ $1,360</div><div class="l">Per person</div></div>
+        <div class="stat"><div class="n">~$798</div><div class="l">Rental car (Hertz)</div></div>
+        <div class="stat"><div class="n">~$700</div><div class="l">Lodging · 5 nights</div></div>
+        <div class="stat"><div class="n">~$990</div><div class="l">Food · 6 days</div></div>
+        <div class="stat"><div class="n">~$230</div><div class="l">Gas</div></div>
+      </div>
+    </section>
+
+    <section>
+      <h2>🛣️ The route</h2>
+      <p class="sub">One continuous southbound drive. Full timings on the <a href="itinerary.html">itinerary page</a>.</p>
+      <div class="days">
+        <div class="day"><div class="badge"><small>SAT</small>1</div><div><div class="route">Seattle on foot → the Oregon coast</div><div class="meta">Land SEA · Pike Place, Great Wheel, water taxi · car at 5 PM · Astoria dinner</div></div><div class="drive">~4 hr<br>185 mi</div></div>
+        <div class="day"><div class="badge"><small>SUN</small>2</div><div><div class="route">The Oregon Coast</div><div class="meta">Ecola · Cannon Beach · Cape Kiwanda · Cape Perpetua · Heceta Head</div></div><div class="drive">~4.5 hr<br>230 mi</div></div>
+        <div class="day"><div class="badge"><small>MON</small>3</div><div><div class="route">Redwoods</div><div class="meta">Samuel Boardman · Klamath Overlook · Fern Canyon · Avenue of the Giants</div></div><div class="drive">~5 hr<br>250 mi</div></div>
+        <div class="day"><div class="badge"><small>TUE</small>4</div><div><div class="route">Bay Area → 🌊 otter kayak → Salinas</div><div class="meta">Golden Gate in daylight · Elkhorn Slough sea-otter kayak</div></div><div class="drive">~6 hr<br>300 mi</div></div>
+        <div class="day"><div class="badge"><small>WED</small>5</div><div><div class="route">Big Sur</div><div class="meta">Point Lobos · Bixby Bridge · Pfeiffer · McWay Falls · elephant seals · Morro Bay</div></div><div class="drive">~5.5 hr<br>250 mi</div></div>
+        <div class="day"><div class="badge"><small>THU</small>6</div><div><div class="route">🌊 Surf, swim → LAX</div><div class="meta">Malibu surf lesson · El Matador · Point Dume · Santa Monica swim · fly home</div></div><div class="drive">~3 hr<br>180 mi</div></div>
+      </div>
+    </section>
+
+    <section>
+      <div class="warn">
+        <h2>🌊 Water safety — read before you get in anything</h2>
+        <p style="margin:6px 0 0">The <b>northern half of this trip is not swimmable.</b> August water: Oregon coast 52–59°F, San Francisco ~58°F, Big Sur ~59°F — wetsuit only. <b>Sneaker waves</b> on the Oregon/NorCal coast surge 150+ ft up the beach with no warning and have killed 24+ people on the West Coast since 2012.</p>
+        <ul>
+          <li>Never turn your back on the ocean</li>
+          <li>Stay off and away from beach logs — they roll and pin people</li>
+          <li>Keep well up the sand at Cannon Beach, Boardman &amp; the Redwood beaches — wading OK, swimming no</li>
+          <li><b>Swimming happens only in SoCal</b> — Santa Monica/Malibu ~69°F, lifeguarded (Day 6)</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>✅ Before we go</h2>
+      <p class="sub">Full checklist on the itinerary page. The time-sensitive ones:</p>
+      <div class="grid">
+        <div class="stat"><div class="n">✈️</div><div class="l">Rebook the return to Aug 13 — <b>check fare class first</b></div></div>
+        <div class="stat"><div class="n">🅿️</div><div class="l">Reserve Fern Canyon, Elkhorn kayak, Malibu surf</div></div>
+        <div class="stat"><div class="n">💵</div><div class="l">Cash: Fern Canyon $12, Pfeiffer Beach $12 (no cards)</div></div>
+        <div class="stat"><div class="n">🚗</div><div class="l">All three drivers on the Hertz contract</div></div>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <div class="wrap">
+      Planned for three first-timers on the coast · prices verified mid-July 2026, reverify before each leg.
+      <div class="files">
+        <a href="map.html">Interactive map</a>
+        <a href="itinerary.html">Itinerary</a>
+        <a href="trip_data.json">Trip data (JSON)</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

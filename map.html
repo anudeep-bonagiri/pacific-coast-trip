@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Pacific Coast Road Trip — Seattle → LA (Aug 8–13)</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<style>
+  :root { --panel: 360px; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  #app { display: flex; height: 100vh; overflow: hidden; }
+  #sidebar { width: var(--panel); flex: 0 0 var(--panel); height: 100%; overflow-y: auto; background: #0f2b3d; color: #e8eef2; padding: 18px 16px 40px; }
+  #map { flex: 1; height: 100%; }
+  h1 { font-size: 19px; margin: 0 0 2px; color: #fff; }
+  .sub { font-size: 12px; color: #9fc3d6; margin: 0 0 3px; }
+  .meta { font-size: 11px; color: #c98a3a; margin: 0 0 12px; }
+  .box { background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); border-radius: 8px; padding: 10px 11px; margin-bottom: 12px; font-size: 11.5px; line-height: 1.5; color: #cdd9e1; }
+  .box h3 { margin: 0 0 6px; font-size: 12px; color: #fff; cursor: pointer; display:flex; justify-content:space-between; }
+  .box h3 .ar { color:#7ba0b3; font-weight:400; }
+  .box.collapsed .body { display:none; }
+  .box b { color: #fff; }
+  .warn { border-color:#c98a3a; background: rgba(201,138,58,.12); }
+  .danger { border-color:#d9534f; background: rgba(217,83,79,.14); }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .chip { display:inline-flex; align-items:center; gap:6px; cursor:pointer; font-size:11.5px; padding:5px 9px; border-radius:20px; border:1px solid rgba(255,255,255,.18); background:rgba(255,255,255,.05); user-select:none; transition:.15s; }
+  .chip .dot { width:11px; height:11px; border-radius:50%; flex:0 0 11px; }
+  .chip.off { opacity:.35; }
+  .chip:hover { border-color:rgba(255,255,255,.5); }
+  .daygroup { margin-bottom:4px; border-top:1px solid rgba(255,255,255,.08); }
+  .dayhdr { font-size:13px; font-weight:600; color:#fff; padding:9px 4px 5px; display:flex; align-items:center; gap:8px; }
+  .dayhdr .dot { width:12px; height:12px; border-radius:50%; flex:0 0 12px; }
+  .dayhdr .drive { font-size:10px; color:#9fc3d6; font-weight:400; margin-left:auto; text-align:right; }
+  .navlink { display:inline-block; font-size:10.5px; margin:2px 4px 8px 24px; padding:3px 10px; border-radius:12px; background:#2e8b57; color:#fff !important; text-decoration:none; }
+  .navlink:hover { filter:brightness(1.12); }
+  .stop { font-size:12px; padding:5px 4px 6px 24px; color:#cdd9e1; cursor:pointer; border-left:2px solid transparent; }
+  .stop:hover { color:#fff; border-left-color:#fff; background:rgba(255,255,255,.04); }
+  .stop b { color:#fff; font-weight:600; }
+  .stop.sleep { color:#9fc3d6; font-style:italic; }
+  .stop .t { color:#8fb6c9; font-size:11px; }
+  .foot { font-size:10.5px; color:#7ba0b3; margin-top:14px; line-height:1.5; }
+  .leaflet-popup-content { font-size:12.5px; line-height:1.45; margin:12px 14px; max-width:250px; }
+  .leaflet-popup-content b { display:block; font-size:13.5px; margin-bottom:3px; }
+  .leaflet-popup-content .badge { display:inline-block; font-size:10px; color:#fff; padding:1px 7px; border-radius:10px; margin-bottom:6px; }
+  .poplinks { margin-top:9px; display:flex; flex-wrap:wrap; gap:6px; }
+  .poplinks a { font-size:11px; text-decoration:none; padding:4px 9px; border-radius:14px; color:#fff !important; background:#3a6f8f; white-space:nowrap; }
+  .poplinks a.alt { background:#5a6270; }
+  .poplinks a.book { background:#2e8b57; }
+  .poplinks a:hover { filter:brightness(1.12); }
+  .num-icon { display:flex; align-items:center; justify-content:center; color:#fff; font-weight:700; font-size:12px; border-radius:50%; border:2px solid #fff; box-shadow:0 1px 4px rgba(0,0,0,.4); width:26px; height:26px; }
+  .bed-icon { display:flex; align-items:center; justify-content:center; font-size:13px; border-radius:6px; border:2px solid #fff; box-shadow:0 1px 4px rgba(0,0,0,.4); width:24px; height:24px; background:#20394a; }
+  .gem-icon { display:flex; align-items:center; justify-content:center; font-size:14px; color:#fff; border-radius:50%; border:2px solid #fff; box-shadow:0 1px 5px rgba(0,0,0,.5); width:24px; height:24px; }
+  .air-icon { display:flex; align-items:center; justify-content:center; font-size:14px; border-radius:6px; border:2px solid #fff; box-shadow:0 1px 5px rgba(0,0,0,.5); width:26px; height:26px; background:#1c2a36; }
+  .water-icon { display:flex; align-items:center; justify-content:center; font-size:14px; border-radius:50%; border:2px solid #fff; box-shadow:0 1px 5px rgba(0,0,0,.5); width:27px; height:27px; background:#0aa4c4; }
+  .bonus-icon { display:flex; align-items:center; justify-content:center; font-size:16px; font-weight:700; background:#fff; border-radius:50%; border:2px dashed; box-shadow:0 1px 4px rgba(0,0,0,.35); width:22px; height:22px; }
+  @media (max-width: 720px){ #app{flex-direction:column;} #sidebar{width:100%;flex:none;height:46%;} #map{height:54%;} :root{--panel:100%;} }
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="sidebar">
+    <h1>Pacific Coast Road Trip</h1>
+    <p class="sub">Seattle → LA · 6 days, 5 nights · no overnight driving</p>
+    <p class="meta">Aug 8–13 · ~1,200 mi · SEA lands 12:27 PM · LAX out Aug 13</p>
+
+    <div class="box danger" id="box-water">
+      <h3 onclick="tog('box-water')">🌊 Water safety — READ THIS <span class="ar">▼</span></h3>
+      <div class="body">
+        <b>You cannot swim the northern half of this trip.</b> August water: Oregon coast <b>52–59°F</b>, San Francisco ~58°F. Wetsuit-only.<br>
+        <b>Sneaker waves</b> on the OR/N-CA coast surge 150+ ft up the beach with no warning and have killed 24+ people on the West Coast since 2012. Cold water takes your limb control in seconds.<br>
+        <b>Rules:</b> never turn your back on the ocean · stay off and away from beach logs · keep well up the sand at Cannon Beach, Boardman & the Redwood beaches. Wading OK, swimming no.<br>
+        <b>Swimmable water starts in SoCal</b> — Santa Monica/Malibu ~<b>69°F</b> with lifeguards (Day 6).
+      </div>
+    </div>
+
+    <div class="box warn" id="box-fl">
+      <h3 onclick="tog('box-fl')">✈ Flights & the clock <span class="ar">▼</span></h3>
+      <div class="body">
+        <b>OUT · Sat Aug 8:</b> SAT 7:30 AM → LAX → <b>land SEA 12:27 PM</b>. Car pickup <b>5 PM</b> — the gap is a walking afternoon downtown via Link light rail.<br>
+        <b>BACK · Thu Aug 13 (rebook):</b> your original was LAX 6:59 PM Aug 12. <b>⚠ Check your fare class first</b> — Delta <b>Basic Economy usually can't be changed</b>; Main Cabin has no change fee (fare difference only).<br>
+        <b>Book the return as late as you can</b> — an 8–9 PM departure buys you the Griffith/Hollywood Sign sunset finale on Day 6.<br>
+        <b>Daylight:</b> sunrise ~6:10 AM, sunset ~8:30 PM (OR) / ~7:50 PM (LA).
+      </div>
+    </div>
+
+    <div class="box warn" id="box-cw">
+      <h3 onclick="tog('box-cw')">⚠ Monterey Car Week — Aug 7–16 <span class="ar">▼</span></h3>
+      <div class="body">Your trip sits inside Car Week. <b>Don't book Monterey/Carmel/Big Sur</b> — sold out, $500+/night. You sleep in <b>Salinas</b> (cheap, 20 min inland). Expect heavy Hwy 1 traffic near Monterey.</div>
+    </div>
+
+    <div class="box warn" id="box-rd">
+      <h3 onclick="tog('box-rd')">⚠ Big Sur road control <span class="ar">▼</span></h3>
+      <div class="body">Hwy 1 is fully open, but <b>Rocky Creek Bridge has 24/7 one-way signal control through Aug 31</b> — delays up to 15 min. Check the <b>Caltrans QuickMap</b> the morning of Day 5.</div>
+    </div>
+
+    <div class="box" id="box-wx">
+      <h3 onclick="tog('box-wx')">🌤 August weather by leg <span class="ar">▼</span></h3>
+      <div class="body">
+        <b>Seattle:</b> warm & dry, ~78°F.<br>
+        <b>Oregon Coast:</b> 60–70°F, foggy mornings, ~3% rain. Layers + windbreaker.<br>
+        <b>Redwoods:</b> damp, foggy, low 60s.<br>
+        <b>Big Sur:</b> marine layer AM, highs ~69°F. Clears by afternoon.<br>
+        <b>Pismo → LA:</b> warm & sunny, 78–85°F. Actual beach weather.
+      </div>
+    </div>
+
+    <div class="box" id="box-tips">
+      <h3 onclick="tog('box-tips')">🚗 Rental & driving notes <span class="ar">▼</span></h3>
+      <div class="body">
+        <b>Under-25 Hertz:</b> young-driver surcharge applies — put <b>all three of you on the contract</b> so you can legally rotate.<br>
+        <b>Fuel:</b> top off above half a tank — the OR coast and Big Sur are sparse. OR ~$4.56/gal, CA ~$5.37.<br>
+        <b>Cash needed:</b> Fern Canyon ($12) and Pfeiffer Beach ($12) don't take cards.
+      </div>
+    </div>
+
+    <div class="legend" id="legend"></div>
+    <div id="list"></div>
+    <p class="foot">✈ airports · 🌊 water activities · numbered = core sights · ★ = hidden gems/best views · + = optional squeeze-ins · 🛏 = where you sleep. Every popup has Maps/Directions links; each day has a "Navigate this day" button. Route lines follow real roads.</p>
+  </div>
+  <div id="map"></div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+function tog(id){ document.getElementById(id).classList.toggle('collapsed'); }
+
+const DAYS = [
+  { day:1, title:"Aug 8 · Land SEA → Coast", drive:"car @ 5 PM → Seaside ~9 PM · 185 mi", color:"#e6194B" },
+  { day:2, title:"Aug 9 · The Oregon Coast", drive:"8 AM–7 PM · ~4.5 hr · 230 mi", color:"#f58231" },
+  { day:3, title:"Aug 10 · Redwoods", drive:"8 AM–7 PM · ~5 hr · 250 mi", color:"#ffb000" },
+  { day:4, title:"Aug 11 · Bay → Otter kayak → Salinas", drive:"7:30 AM–6 PM · ~6 hr · 300 mi", color:"#3cb44b" },
+  { day:5, title:"Aug 12 · Big Sur", drive:"8:30 AM–7 PM · ~5.5 hr · 250 mi", color:"#4363d8" },
+  { day:6, title:"Aug 13 · Surf, swim → LAX", drive:"7 AM–4 PM · ~3 hr · 180 mi", color:"#911eb4" },
+];
+
+// kind: sight(numbered) · gem(★) · water(🌊) · bonus(+) · sleep(🛏) · air(✈)
+const STOPS = [
+  // DAY 1 · Aug 8 — Seattle on foot, then drive to the coast
+  {d:1, kind:"air", n:"SEA — Seattle-Tacoma Airport", t:"✈ land 12:27 PM · car 5 PM", ll:[47.4502,-122.3088], desc:"Land 12:27 PM. ★ BEST FIX: move the Hertz pickup earlier if you can (most reservations change free) — grab it ~1:30 PM and you get a real half-day. Otherwise ride the Link light rail downtown (~$3, ~40 min) and back for 5 PM."},
+  {d:1, kind:"sight", n:"Pike Place Market", t:"~1:45 PM · by Link train", ll:[47.6097,-122.3422], desc:"Link to Westlake, walk down to the market. Chowder, Piroshky Piroshky, the gum wall. Everything below is walkable from here — no car needed."},
+  {d:1, kind:"bonus", n:"Waterfront + Seattle Great Wheel", t:"+ Pier 57 · ~$20", ll:[47.6062,-122.3425], desc:"Straight downhill from Pike Place on the rebuilt waterfront promenade. 175-ft Ferris wheel out over Elliott Bay, enclosed gondolas, ~12 min, big Sound + skyline views."},
+  {d:1, kind:"bonus", n:"Seattle Water Taxi (Pier 50)", t:"+ ~$6 · 10 min · best view", ll:[47.6017,-122.3384], desc:"Cheapest great thing in Seattle: passenger ferry to West Seattle. Best skyline-and-Rainier view in the city, Alki Beach on the far side. ~1 hr round trip."},
+  {d:1, kind:"bonus", n:"Space Needle + Chihuly Garden", t:"+ Monorail hop · ~$40", ll:[47.6205,-122.3493], desc:"One Monorail hop from downtown. Go up the Needle, or (better value) the Chihuly Garden & Glass next door. MoPOP — music/sci-fi/gaming — is right there too."},
+  {d:1, kind:"sleep", n:"Sleep: Seaside / Cannon Beach", t:"🛏 Night 1 · arrive ~9 PM", ll:[45.9932,-123.9226], desc:"Car @ 5 PM → depart ~5:30 → dinner in Astoria (Fort George) ~7:30 → Seaside ~9 PM. ~3.5–4 hr, 185 mi. Last stretch is dark, just cruising."},
+  // DAY 2 · Aug 9 — Oregon Coast
+  {d:2, kind:"gem", n:"Ecola State Park", t:"★ 8:00 AM · Goonies overlook", ll:[45.9284,-123.9762], desc:"THE cliff view of Haystack Rock, best in morning light. Reopened Apr 2026 after landslide repairs — check advisories."},
+  {d:2, kind:"sight", n:"Cannon Beach — Haystack Rock", t:"9:15 AM · ~1 hr", ll:[45.8846,-123.9684], desc:"235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."},
+  {d:2, kind:"bonus", n:"Hug Point", t:"+ 15 min · free", ll:[45.8264,-123.9612], desc:"At low tide, walk around the point to a hidden waterfall on the sand, sea caves, and an old wagon road carved into the cliff."},
+  {d:2, kind:"gem", n:"Neahkahnie Mountain Viewpoint", t:"★ 10:45 AM · pullout", ll:[45.7527,-123.9585], desc:"Roadside pullout in Oswald West SP with a near-180° view — one of the highest on the coast. Easy to miss the turnout."},
+  {d:2, kind:"sight", n:"Cape Kiwanda", t:"12:15 PM · lunch", ll:[45.2185,-123.9740], desc:"Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."},
+  {d:2, kind:"sight", n:"Cape Perpetua — Thor's Well", t:"3:15 PM · ~1.5 hr", ll:[44.2807,-124.1073], desc:"Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."},
+  {d:2, kind:"sight", n:"Heceta Head Lighthouse", t:"5:00 PM · roadside", ll:[44.1373,-124.1283], desc:"Most-photographed lighthouse in Oregon, on a cliff over a cove."},
+  {d:2, kind:"bonus", n:"Sea Lion Caves", t:"+ 45 min · $16", ll:[44.1219,-124.1281], desc:"Elevator down to the largest sea cave in the U.S. — ~200 wild sea lions inside. Right on 101 just south of Heceta Head."},
+  {d:2, kind:"bonus", n:"Sandboarding — Sand Master Park", t:"+ 1–2 hr · Florence · ~$16", ll:[43.9998,-124.1069], desc:"World's first sandboard park, in the Oregon Dunes. Rent a board and ride 40+ ft dunes. The most fun thing on Day 2 if you're on schedule."},
+  {d:2, kind:"sleep", n:"Sleep: Bandon / Coos Bay", t:"🛏 Night 2 · arrive ~7 PM", ll:[43.3665,-124.2179], desc:"Sunset at Bandon's Face Rock ~8:25 PM. Cheap motels in Coos Bay; Bandon is prettier."},
+  // DAY 3 · Aug 10 — Redwoods (no more night drive!)
+  {d:3, kind:"sight", n:"Bandon / Face Rock", t:"8:00 AM · morning walk", ll:[43.1190,-124.4084], desc:"Sea stacks and wide beach before the drive south."},
+  {d:3, kind:"sight", n:"Samuel Boardman Scenic Corridor", t:"★ 10:30 AM · best pullouts", ll:[42.2984,-124.3800], desc:"North of Brookings — the best cliff pullouts in Oregon. Natural Bridges & Secret Beach. Lunch in Brookings before crossing into CA."},
+  {d:3, kind:"gem", n:"Klamath River Overlook", t:"★ 1:00 PM · whales", ll:[41.5461,-124.0782], desc:"High bluff over the Klamath river-mouth — the least-crowded great overlook on the coast. Gray whales offshore."},
+  {d:3, kind:"sight", n:"Prairie Creek Redwoods — Fern Canyon", t:"2:00 PM · 2.5 hr", ll:[41.4000,-124.0637], desc:"World's tallest trees. Fern Canyon's 50-ft fern walls are the showstopper — needs a free day-use reservation + $12 cash. Rough access road. Watch for Roosevelt elk."},
+  {d:3, kind:"sight", n:"Avenue of the Giants", t:"5:00 PM · Founders Grove", ll:[40.3540,-123.9260], desc:"31-mile old-growth scenic alternate to 101. Walk among the giants at Founders Grove."},
+  {d:3, kind:"bonus", n:"Shrine Drive-Thru Tree", t:"+ 10 min · $15/car", ll:[40.2647,-123.8875], desc:"Roadside classic on the Avenue: drive your car THROUGH a living redwood. Cheesy, quick, great photo."},
+  {d:3, kind:"sleep", n:"Sleep: Garberville", t:"🛏 Night 3 · arrive ~6:30 PM", ll:[40.1018,-123.7930], desc:"Just south of Avenue of the Giants — cheap motels, no backtracking. THIS is the night the extra day bought you: no more overnight-split drive. Sleep properly, fuel up for Day 4."},
+  // DAY 4 · Aug 11 — Bay Area → otter kayak → Salinas
+  {d:4, kind:"gem", n:"Golden Gate — Battery Spencer", t:"★ ~12:30 PM · in daylight!", ll:[37.8329,-122.4795], desc:"Marin Headlands overlook for the classic bridge-and-city shot. You now hit this in DAYLIGHT instead of 11 PM — the other big win from the extra day."},
+  {d:4, kind:"water", n:"Elkhorn Slough kayak — sea otters", t:"🌊 3:00–5:00 PM · ~$50", ll:[36.8044,-121.7869], desc:"MAIN EVENT: Moss Landing has the densest sea otter population in California. Flat, calm, protected water — no surf, no cold-shock risk, otters/seals/pelicans within feet of the kayak. Book ahead; leave Garberville by 7:30 AM to make the launch window."},
+  {d:4, kind:"sleep", n:"Sleep: Salinas (NOT Monterey)", t:"🛏 Night 4 · arrive ~6 PM", ll:[36.6777,-121.6555], desc:"20 min inland and cheap — Monterey is sold out for Car Week. Rest up; Big Sur is tomorrow."},
+  // DAY 5 · Aug 12 — Big Sur
+  {d:5, kind:"sight", n:"Point Lobos", t:"8:30 AM · arrive early", ll:[36.5158,-121.9430], desc:"Cypress Grove / Bird Island loops at the north gateway to Big Sur. Small lot fills fast — get there early. China Cove is stunning."},
+  {d:5, kind:"gem", n:"Garrapata State Park — Soberanes Point", t:"★ 10:15 AM · hidden bluffs", ll:[36.4593,-121.9268], desc:"Unmarked turnouts (numbered gates 13–19), empty bluff trails. The Big Sur hardly anyone stops for."},
+  {d:5, kind:"sight", n:"Bixby Creek Bridge", t:"11:00 AM · check QuickMap", ll:[36.3714,-121.9018], desc:"The most photographed bridge on the coast. Use marked turnouts. Expect the Rocky Creek one-way delay (≤15 min)."},
+  {d:5, kind:"sight", n:"Pfeiffer Beach", t:"12:00 PM · keyhole arch", ll:[36.2384,-121.8172], desc:"Purple-tinged sand & the keyhole arch. Narrow access road, $12 cash."},
+  {d:5, kind:"gem", n:"Nepenthe", t:"★ 1:30 PM · best lunch view", ll:[36.2233,-121.7597], desc:"Cliffside patio 800 ft above the ocean. Café Kevah below is cheaper."},
+  {d:5, kind:"sight", n:"McWay Falls", t:"2:45 PM · roadside", ll:[36.1577,-121.6716], desc:"80-ft waterfall onto a cove beach. Overlook trail closed through 2026 — view from the roadside."},
+  {d:5, kind:"bonus", n:"Sand Dollar Beach & Jade Cove", t:"+ 30 min · free", ll:[35.9209,-121.4726], desc:"Big Sur's longest beach + the cove where you can find washed-up jade in the rocks at low tide."},
+  {d:5, kind:"bonus", n:"Ragged Point", t:"+ 20 min · free", ll:[35.7830,-121.3253], desc:"Last big pullout at the south end of Big Sur — short trail to a sweeping cliff view, plus café/gas/restrooms."},
+  {d:5, kind:"sight", n:"Piedras Blancas Elephant Seals", t:"3:45 PM · free", ll:[35.6628,-121.2558], desc:"Hundreds of elephant seals on the beach, free boardwalk. Better value than a Hearst Castle tour."},
+  {d:5, kind:"sight", n:"Morro Bay — Morro Rock", t:"5:30 PM · dinner", ll:[35.3658,-120.8499], desc:"Giant volcanic plug rising from the bay. Fish & chips on the Embarcadero. (Backup otter-kayak spot if Elkhorn didn't work out.)"},
+  {d:5, kind:"sleep", n:"Sleep: Pismo Beach", t:"🛏 Night 5 · arrive ~7 PM", ll:[35.1428,-120.6413], desc:"Beach town, cheap motels, and it shortens tomorrow's run to Malibu. Walk the pier at sunset (~7:55 PM)."},
+  // DAY 6 · Aug 13 — Surf, swim, LAX
+  {d:6, kind:"water", n:"Surf lesson — Malibu (Surfrider)", t:"🌊 10:00 AM–12 PM · ~$90", ll:[34.0381,-118.6770], desc:"Leave Pismo ~7 AM (~2.5 hr). Wetsuit included — water's ~69°F here, the warmest of the trip. Surfrider is a long, gentle, forgiving break: the classic first-timer wave. Book ahead."},
+  {d:6, kind:"sight", n:"El Matador State Beach", t:"12:30 PM · sea stacks", ll:[34.0369,-118.8790], desc:"Sea-stack photos, steep stairs to the sand. Quick stop after surfing (it's just west of Surfrider — grab it on the way in if easier)."},
+  {d:6, kind:"gem", n:"Point Dume", t:"★ 1:00 PM · Malibu view", ll:[34.0006,-118.8065], desc:"Short climb to a headland with a sweeping Malibu view; sea lions below."},
+  {d:6, kind:"water", n:"Santa Monica — swim + beach", t:"🌊 2:00 PM · free · lifeguards", ll:[34.0089,-118.4973], desc:"THE swim stop: ~69°F water, lifeguarded, gentle. Pier, Route 66 sign, Venice boardwalk & canals a short walk south. Actually get in the water here."},
+  {d:6, kind:"bonus", n:"Griffith Observatory / Hollywood Sign", t:"+ only if late flight", ll:[34.1184,-118.3004], desc:"The Hollywood Sign view. Fits ONLY if you rebooked a late (8–9 PM) departure — Griffith is inland, opposite LAX. If your flight is early evening, skip it and keep the beach."},
+  {d:6, kind:"air", n:"LAX — Los Angeles Airport", t:"✈ car back ~3:30 PM", ll:[33.9416,-118.4085], desc:"Return the Hertz car, be airside ~3 hrs before departure. Budget generously for LA traffic. Book the latest departure you can to squeeze in Griffith."},
+];
+
+const map = L.map('map', { scrollWheelZoom:true });
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', { attribution:'&copy; OpenStreetMap &copy; CARTO', maxZoom:19 }).addTo(map);
+
+const dayColor = d => DAYS.find(x=>x.day===d).color;
+const layers = {}; const routeLayers = {};
+DAYS.forEach(dd => { layers[dd.day] = L.layerGroup().addTo(map); routeLayers[dd.day] = L.layerGroup().addTo(map); });
+
+// Main line follows only committed stops — optional "+" bonuses don't pull it off course.
+const routeStops = STOPS.filter(s => s.kind !== 'bonus');
+for (let i=0;i<routeStops.length-1;i++){
+  const a=routeStops[i], b=routeStops[i+1];
+  routeLayers[b.d].addLayer(L.polyline([a.ll,b.ll], { color:dayColor(b.d), weight:3, opacity:.55 }));
+}
+
+// Replace straight lines with real road geometry (falls back silently if offline).
+async function routeByRoad(){
+  for (const dd of DAYS){
+    const prev = routeStops.filter(s=>s.d===dd.day-1).slice(-1);
+    const pts = prev.concat(routeStops.filter(s=>s.d===dd.day));
+    if (pts.length < 2) continue;
+    const coords = pts.map(s=>`${s.ll[1]},${s.ll[0]}`).join(';');
+    try {
+      const res = await fetch(`https://router.project-osrm.org/route/v1/driving/${coords}?overview=full&geometries=geojson`);
+      const j = await res.json();
+      if (!j.routes || !j.routes[0]) continue;
+      const line = j.routes[0].geometry.coordinates.map(c=>[c[1],c[0]]);
+      routeLayers[dd.day].clearLayers();
+      routeLayers[dd.day].addLayer(L.polyline(line, { color:dayColor(dd.day), weight:4, opacity:.8 }));
+    } catch(e){ /* keep straight fallback */ }
+  }
+}
+routeByRoad();
+
+let num = 0;
+STOPS.forEach(s => {
+  const c = dayColor(s.d);
+  let icon;
+  if (s.kind === "sleep")      icon = L.divIcon({ className:'', iconSize:[24,24], iconAnchor:[12,12], popupAnchor:[0,-12], html:`<div class="bed-icon" style="border-color:${c}">🛏</div>` });
+  else if (s.kind === "gem")   icon = L.divIcon({ className:'', iconSize:[24,24], iconAnchor:[12,12], popupAnchor:[0,-13], html:`<div class="gem-icon" style="background:${c}">★</div>` });
+  else if (s.kind === "air")   icon = L.divIcon({ className:'', iconSize:[26,26], iconAnchor:[13,13], popupAnchor:[0,-14], html:`<div class="air-icon" style="border-color:${c}">✈</div>` });
+  else if (s.kind === "water") icon = L.divIcon({ className:'', iconSize:[27,27], iconAnchor:[13,13], popupAnchor:[0,-14], html:`<div class="water-icon">🌊</div>` });
+  else if (s.kind === "bonus") icon = L.divIcon({ className:'', iconSize:[22,22], iconAnchor:[11,11], popupAnchor:[0,-11], html:`<div class="bonus-icon" style="color:${c};border-color:${c}">+</div>` });
+  else { num++; icon = L.divIcon({ className:'', iconSize:[26,26], iconAnchor:[13,13], popupAnchor:[0,-14], html:`<div class="num-icon" style="background:${c}">${num}</div>` }); }
+
+  const m = L.marker(s.ll, { icon });
+  const q = encodeURIComponent(s.n.replace(/^Sleep: /,''));
+  const [la,lo] = s.ll;
+  let links = `<a href="https://www.google.com/maps/search/?api=1&query=${q}" target="_blank" rel="noopener">📍 Maps</a>`
+            + `<a class="alt" href="https://www.google.com/maps/dir/?api=1&destination=${la},${lo}" target="_blank" rel="noopener">🧭 Directions</a>`;
+  if (s.kind === "sleep") {
+    const town = encodeURIComponent(s.n.replace(/^Sleep: /,'').split(' /')[0]);
+    links += `<a class="book" href="https://www.google.com/travel/search?q=cheap%20hotels%20${town}" target="_blank" rel="noopener">🛏 Hotels</a>`;
+  } else {
+    links += `<a class="alt" href="https://www.google.com/search?q=${q}" target="_blank" rel="noopener">🔎 Info</a>`;
+  }
+  m.bindPopup(`<b>${s.n}</b><span class="badge" style="background:${c}">Day ${s.d} · ${s.t}</span>${s.desc}<div class="poplinks">${links}</div>`);
+  layers[s.d].addLayer(m);
+  s._marker = m;
+});
+
+map.fitBounds(L.latLngBounds(STOPS.map(s=>s.ll)), { padding:[40,40] });
+
+const legend = document.getElementById('legend');
+const shown = new Set(DAYS.map(d=>d.day));
+DAYS.forEach(dd => {
+  const chip = document.createElement('div'); chip.className='chip';
+  chip.innerHTML = `<span class="dot" style="background:${dd.color}"></span>Day ${dd.day}`;
+  chip.onclick = () => {
+    if (shown.has(dd.day)) { shown.delete(dd.day); chip.classList.add('off'); map.removeLayer(layers[dd.day]); map.removeLayer(routeLayers[dd.day]); }
+    else { shown.add(dd.day); chip.classList.remove('off'); map.addLayer(layers[dd.day]); map.addLayer(routeLayers[dd.day]); }
+  };
+  legend.appendChild(chip);
+});
+
+const list = document.getElementById('list');
+let idx = 0;
+DAYS.forEach(dd => {
+  const g=document.createElement('div'); g.className='daygroup';
+  const h=document.createElement('div'); h.className='dayhdr';
+  h.innerHTML = `<span class="dot" style="background:${dd.color}"></span>Day ${dd.day} · ${dd.title}<span class="drive">${dd.drive}</span>`;
+  g.appendChild(h);
+  const path = STOPS.filter(s=>s.d===dd.day && s.kind!=='bonus').map(s=>`${s.ll[0]},${s.ll[1]}`).join('/');
+  const nav = document.createElement('a');
+  nav.className='navlink'; nav.target='_blank'; nav.rel='noopener';
+  nav.href = `https://www.google.com/maps/dir/${path}`;
+  nav.textContent = '🧭 Navigate this day in Google Maps';
+  g.appendChild(nav);
+  STOPS.filter(s=>s.d===dd.day).forEach(s=>{
+    let label;
+    if (s.kind==="sleep")      label=`<b>🛏 ${s.n.replace('Sleep: ','')}</b> <span class="t">${s.t}</span>`;
+    else if (s.kind==="air")   label=`<b>✈ ${s.n}</b> <span class="t">${s.t}</span>`;
+    else if (s.kind==="water") label=`<b>🌊 ${s.n}</b> <span class="t">${s.t.replace('🌊 ','')}</span>`;
+    else if (s.kind==="bonus") label=`<b>+ ${s.n}</b> <span class="t">${s.t}</span>`;
+    else if (s.kind==="gem")   label=`<b>★ ${s.n}</b> <span class="t">${s.t.replace('★ ','')}</span>`;
+    else { idx++; label=`<b>${idx}. ${s.n}</b> <span class="t">${s.t}</span>`; }
+    const el=document.createElement('div'); el.className='stop'+(s.kind==="sleep"?" sleep":"");
+    el.innerHTML=label;
+    el.onclick=()=>{ if(!shown.has(s.d)) return; map.setView(s.ll, 11, {animate:true}); s._marker.openPopup(); };
+    g.appendChild(el);
+  });
+  list.appendChild(g);
+});
+</script>
+</body>
+</html>
