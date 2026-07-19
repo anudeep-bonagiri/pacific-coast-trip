@@ -13,6 +13,7 @@ Once deployed, share the Vercel link. Pages:
 | `index.html` | Landing page — route overview, budget, water-safety, booking checklist |
 | `map.html` | **Interactive Leaflet map** — 43 stops with real driving routes, tap any pin |
 | `itinerary.html` | Hour-by-hour day-by-day plan, costs, booking list |
+| `food.html` | **Food along the way** — dietary-safe orders, public-menu prices, and cheap backups for four travelers |
 
 ## 📂 Source files
 

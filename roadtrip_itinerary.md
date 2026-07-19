@@ -25,6 +25,26 @@ Seattle → LA, skipping the Olympic Peninsula. Three of you, Hertz car, cheap l
 
 ---
 
+## 🍽️ Food along the way — 2 vegetarians + 2 chicken/seafood/mutton eaters
+
+This meal plan is for **four travelers**: two vegetarians, plus two non-vegetarians who eat only **chicken, shrimp, fish, or mutton**. The original trip budget below is still calculated for three travelers; do not use it as a four-person total until flights, car, lodging, and activities are reconciled.
+
+**Vegetarian order wording:** “No meat, fish, shellfish, fish sauce, oyster sauce, shrimp paste, animal broth, or lard.” At Mexican restaurants, confirm the beans and rice are not made with lard or chicken stock. At Thai restaurants, saying only “vegetarian” may not exclude fish sauce or shrimp paste.
+
+| Day | Stop | Vegetarian order | Chicken / shrimp / fish order | Expected price |
+|---|---|---|---|---|
+| 1 · Seattle | **Pike Place Chowder** | Vegan Lime & Coconut Chowder | Smoked Salmon Chowder or Seafood Bisque; avoid bacon/chorizo chowders | **$10–20 pp** |
+| 1 · late Astoria backup | **Astoria Co+op deli** | Vegan/vegetarian hot bar, soup, burrito, or wrap | Check the rotating case for chicken/fish; vegetarian food is the safe fallback | **$7–16 pp** |
+| 2 · Cape Kiwanda | **Doryland Pizza** | Share a 14-inch Vegetarian pizza ($26) | Share a 10-inch BBQ Chicken pizza ($19); no Chicken Bacon Artichoke | **~$12–16 pp** |
+| 3 · Brookings | **Khun Thai** | Tofu/vegetable curry; explicitly remove fish/oyster sauce and shrimp paste | Chicken Pad Thai/curry or a shrimp dish | **$15–25 pp** |
+| 4 · Garberville takeout | **Eel River Cafe** | Grilled cheese/mushroom sandwich, vegetarian omelet, or pancakes | Grilled chicken sandwich, tuna melt, or fish and chips | **est. $12–18 pp** |
+| 5 · pack in Salinas | **El Charrito** | Bean-and-cheese or chile relleno burrito; confirm no lard/stock | Pollo guisado burrito | **est. $8–14 pp** |
+| 6 · Malibu | **Malibu Seafood** | Veggie burger and fries ($13.95) | Fish/shrimp sandwich ($10.95), tacos ($14.95), or chicken sandwich ($19.95) | **$11–20 pp** |
+
+**Six-lunch estimate for all four:** **$272–440 before tax and tip**. See [`food.html`](food.html) for exact safe orders, hours, public-menu links, backups, and per-day cost controls. Recheck ingredients and prices 24–48 hours before each stop.
+
+---
+
 ## Day-by-day
 
 ### DAY 1 — Sat Aug 8 · Seattle on foot → the coast
@@ -32,43 +52,46 @@ Seattle → LA, skipping the Olympic Peninsula. Three of you, Hertz car, cheap l
 |---|---|
 | 12:27 PM | Land SEA, bags by ~1:00 |
 | 1:00 PM | **Link light rail** → downtown (~40 min, ~$3) |
-| 1:45 PM | **Pike Place Market** — chowder, gum wall |
+| 1:45 PM | **Pike Place Chowder** — vegan Lime & Coconut for the vegetarians; Smoked Salmon or Seafood Bisque for the other two. Preorder to protect the walking schedule |
 | 2:45 PM | Walk down to the **waterfront** → **Seattle Great Wheel** (Pier 57, ~$20) |
 | 3:15 PM | **Water taxi** from Pier 50 to West Seattle (~$6) — best skyline view in the city |
 | 4:15 PM | Link back to SEA |
 | 5:00 PM | **Hertz pickup** → depart ~5:30 |
-| 7:30 PM | Dinner in Astoria (Fort George) |
-| ~9:00 PM | **Seaside / Cannon Beach** — sleep |
+| ~6:45 PM | Driver/restroom break at **Maytown I-5 southbound rest area** if needed; check WSDOT status that day |
+| ~8:30 PM | Astoria dinner; use **Astoria Co+op** before its 9 PM close if restaurant kitchens are too slow |
+| ~9:45 PM | **Seaside / Cannon Beach** — sleep |
 
 ★ **Best upgrade:** move the Hertz pickup earlier (usually free to change). Pick up ~1:30 PM and you get Seattle Center (Space Needle/Chihuly/MoPOP) too, and reach the coast in daylight.
 
 ### DAY 2 — Sun Aug 9 · The Oregon Coast
-8:00 **Ecola SP** (Goonies overlook) → 9:15 **Cannon Beach/Haystack** → *+Hug Point* → 10:45 **Neahkahnie viewpoint** → 12:15 **Cape Kiwanda** + lunch → 3:15 **Cape Perpetua/Thor's Well** (~1 hr before high tide) → 5:00 **Heceta Head** → *+Sea Lion Caves ($16), +sandboarding at Sand Master Park (~$16)* → ~7:00 **Bandon/Coos Bay** — sleep
+8:00 **Ecola SP** (Goonies overlook) → 9:15 **Cannon Beach/Haystack** → *+Hug Point* → 10:45 **Neahkahnie viewpoint** → ~11:30 **Tillamook River Rest Area** → 12:15 **Cape Kiwanda** + **Doryland Pizza** (vegetarian + BBQ chicken pizzas) → 3:15 **Cape Perpetua/Thor's Well** (~1 hr before high tide; restrooms) → 5:00 **Heceta Head** → *+Sea Lion Caves ($16), +sandboarding at Sand Master Park (~$16)* → ~7:00 **Bandon/Coos Bay** — sleep
 
 ### DAY 3 — Mon Aug 10 · Redwoods
-8:00 **Bandon/Face Rock** → 10:30 **Samuel Boardman** (Natural Bridges, Secret Beach) → 1:00 **Klamath River Overlook** → 2:00 **Fern Canyon** (free reservation + $12 cash) → 5:00 **Avenue of the Giants** → *+Shrine Drive-Thru Tree ($15)* → ~6:30 **Garberville** — sleep
+8:00 **Bandon/Face Rock** → 10:30 **Samuel Boardman** (Natural Bridges, Secret Beach) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep
 
 *This is the night the extra day bought you. No night driving.*
 
 ### DAY 4 — Tue Aug 11 · Bay Area → 🌊 otter kayak → Salinas
 | Time | Plan |
 |---|---|
-| 7:30 AM | Depart Garberville |
-| ~12:30 PM | **Golden Gate / Battery Spencer** — *in daylight now* |
+| 7:00 AM | Pick up **Eel River Cafe takeout** for lunch; depart Garberville ~7:15 |
+| ~8:15 AM | Optional **Moss Cove southbound rest area** driver swap; skip if nobody needs it |
+| ~11:30 AM | **H. Dana Bower/Vista Point** — restrooms, water, and packed lunch |
+| ~12:00 PM | **Golden Gate / Battery Spencer** — cap the stop at ~20 min and leave Marin by ~12:20 |
 | 3:00–5:00 PM | 🌊 **Elkhorn Slough kayak, Moss Landing (~$50pp)** — densest sea otter population in California. Flat protected water, no surf, otters and seals within feet. **Book ahead.** |
 | ~6:00 PM | **Salinas** — sleep (Monterey sold out for Car Week) |
 
 ### DAY 5 — Wed Aug 12 · Big Sur
-8:30 **Point Lobos** → 10:15 **Garrapata/Soberanes** → 11:00 **Bixby Bridge** (check QuickMap) → 12:00 **Pfeiffer Beach** ($12 cash) → 1:30 **Nepenthe** lunch → 2:45 **McWay Falls** → *+Sand Dollar Beach & Jade Cove, +Ragged Point* → 3:45 **Elephant seals** → 5:30 **Morro Bay** dinner → ~7:00 **Pismo Beach** — sleep
+6:45 **El Charrito, Salinas** — collect four packed burritos (vegetarian bean/chile relleno + pollo guisado) → 8:30 **Point Lobos** → 10:15 **Garrapata/Soberanes** → 11:00 **Bixby Bridge** (check QuickMap) → 12:00 **Pfeiffer Beach** ($12 cash) → 1:15 **picnic lunch** → *Café Kevah only as a $18–25 pp scenic backup* → 2:45 **McWay Falls** → *+Sand Dollar Beach & Jade Cove* → **Ragged Point** (restrooms/fuel) → ~4:30 **Elephant seals** → 5:45 **Morro Bay** dinner → ~7:15 **Pismo Beach** — sleep
 
 ### DAY 6 — Thu Aug 13 · 🌊 Surf, swim → LAX
 | Time | Plan |
 |---|---|
-| 7:00 AM | Depart Pismo (~2.5 hr) |
+| 6:00 AM | Depart Pismo; the **Gaviota US-101 roadside rest area is closed through Oct 1**. If a break is essential, use paid Gaviota State Park and drop the pre-surf photo stops |
+| 8:45–9:30 AM | *Only if ahead of schedule:* **El Matador**, then **Point Dume**, traveling west-to-east toward Surfrider |
 | 10:00–12:00 | 🌊 **Surf lesson, Malibu/Surfrider (~$90pp)** — wetsuit included, long gentle beginner wave. Book ahead. |
-| 12:30 PM | **El Matador State Beach** — sea stacks |
-| 1:00 PM | **Point Dume** headland view |
-| 2:00 PM | 🌊 **Santa Monica — swim** (~69°F, lifeguarded) + pier, Venice boardwalk |
+| 12:15 PM | **Malibu Seafood lunch** — veggie burgers for two; fish/shrimp tacos, sandwiches, or chicken for two |
+| 1:15 PM | 🌊 **Santa Monica — swim** (~69°F, lifeguarded) + pier, Venice boardwalk |
 | *+optional* | **Griffith Observatory / Hollywood Sign** — only if you rebooked a late (8–9 PM) flight |
 | ~3:30 PM | Return Hertz at LAX, airside ~3 hrs before departure |
 
@@ -100,6 +123,7 @@ Range: **$3,800 (frugal)** to **$4,500**. That's ~$300/person more than the 4-ni
 - **Hertz:** all three drivers on the contract; ask about moving pickup earlier on Aug 8
 - **Cash:** Fern Canyon $12, Pfeiffer Beach $12 (no cards)
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
+- **Food:** order ahead for Days 1, 3, 4, and 5; repeat the dietary restrictions when collecting every order
 
 *Conditions current as of mid-July 2026 — reverify before each leg.*
 
