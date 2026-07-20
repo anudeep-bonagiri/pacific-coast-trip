@@ -17,6 +17,8 @@
   .meta { font-size: 11px; color: #c98a3a; margin: 0 0 12px; }
   .foodtab { display:inline-block; margin:0 0 12px; padding:7px 11px; border-radius:16px; background:#e88a3c; color:#fff !important; text-decoration:none; font-size:12px; font-weight:700; }
   .foodtab:hover { filter:brightness(1.1); }
+  .plantab { background:#168f91; }
+  .navtabs { display:flex;gap:7px;flex-wrap:wrap; }
   .box { background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.12); border-radius: 8px; padding: 10px 11px; margin-bottom: 12px; font-size: 11.5px; line-height: 1.5; color: #cdd9e1; }
   .box h3 { margin: 0 0 6px; font-size: 12px; color: #fff; cursor: pointer; display:flex; justify-content:space-between; }
   .box h3 .ar { color:#7ba0b3; font-weight:400; }
@@ -56,15 +58,19 @@
   .water-icon { display:flex; align-items:center; justify-content:center; font-size:14px; border-radius:50%; border:2px solid #fff; box-shadow:0 1px 5px rgba(0,0,0,.5); width:27px; height:27px; background:#0aa4c4; }
   .bonus-icon { display:flex; align-items:center; justify-content:center; font-size:16px; font-weight:700; background:#fff; border-radius:50%; border:2px dashed; box-shadow:0 1px 4px rgba(0,0,0,.35); width:22px; height:22px; }
   @media (max-width: 720px){ #app{flex-direction:column;} #sidebar{width:100%;flex:none;height:46%;} #map{height:54%;} :root{--panel:100%;} }
+  body.embed #app { display:block; }
+  body.embed #sidebar { display:none; }
+  body.embed #map { width:100%;height:100%; }
 </style>
 </head>
 <body>
+<script>if(new URLSearchParams(location.search).get('embed')==='1')document.body.classList.add('embed');</script>
 <div id="app">
   <div id="sidebar">
     <h1>Pacific Coast Road Trip</h1>
     <p class="sub">Seattle → LA · 6 days, 5 nights · no overnight driving</p>
     <p class="meta">Aug 8–13 · ~1,200 mi · SEA lands 12:27 PM · LAX out Aug 13</p>
-    <a class="foodtab" href="food.html">🍽️ Food along the way</a>
+    <div class="navtabs"><a class="foodtab" href="food.html">🍽️ Food along the way</a><a class="foodtab plantab" href="vishanth-plan.html">📖 Vishanth’s Extensive Plan</a></div>
 
     <div class="box danger" id="box-water">
       <h3 onclick="tog('box-water')">🌊 Water safety — READ THIS <span class="ar">▼</span></h3>

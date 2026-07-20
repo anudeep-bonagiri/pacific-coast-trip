@@ -14,6 +14,7 @@ Once deployed, share the Vercel link. Pages:
 | `map.html` | **Interactive Leaflet map** — 43 stops with real driving routes, tap any pin |
 | `itinerary.html` | Hour-by-hour day-by-day plan, costs, booking list |
 | `food.html` | **Food along the way** — dietary-safe orders, public-menu prices, and cheap backups for four travelers |
+| `vishanth-plan.html` | **Vishanth’s Extensive Plan** — full visual day-by-day plan with route overview, directions, photos, reservations, and cut-if-late rules |
 
 ## 📂 Source files
 

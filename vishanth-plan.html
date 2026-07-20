@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vishanth’s Extensive Plan · Seattle → Los Angeles</title>
+<meta name="description" content="Vishanth’s extensive six-day Pacific Coast road trip plan from Seattle to Los Angeles, with maps, timed stops, reservations, safety notes, and place links.">
+<link rel="preload" as="image" href="assets/vishanth/day-5-1280.webp" imagesrcset="assets/vishanth/day-5-640.webp 640w, assets/vishanth/day-5-1280.webp 1280w" imagesizes="100vw">
+<style>
+  :root{
+    --ink:#102630;--sea:#086d84;--deep:#073f50;--teal:#11a5ad;--sun:#e9853d;
+    --paper:#f8f4eb;--card:#fff;--sand:#f1e4ce;--line:#dfd1ba;--muted:#5d7178;
+    --green:#31745d;--red:#a84827;--blue:#245f8f;--shadow:0 14px 38px rgba(8,51,65,.11)
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth;scroll-padding-top:84px}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.58;-webkit-font-smoothing:antialiased}
+  a{color:var(--sea)}
+  a:hover{text-decoration-thickness:2px}
+  a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid #ffc857;outline-offset:3px;border-radius:5px}
+  .skip{position:absolute;left:12px;top:-60px;background:#fff;color:var(--deep);padding:10px 14px;z-index:20;font-weight:800;border-radius:8px}
+  .skip:focus{top:10px}
+  .wrap{width:min(1100px,calc(100% - 40px));margin:0 auto}
+
+  .topbar{background:var(--deep);color:#fff;padding:12px 0}
+  .topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+  .topbar a{color:#fff;text-decoration:none;font-size:13.5px;font-weight:750}
+  .topbar a:hover{text-decoration:underline}
+  .toplinks{display:flex;gap:13px;align-items:center;flex-wrap:wrap}
+  .toplinks a[aria-current="page"]{color:#ffd9a5}
+
+  .hero{position:relative;overflow:hidden;color:#fff;background:linear-gradient(135deg,rgba(4,47,62,.96),rgba(3,104,120,.89)),url("assets/vishanth/day-5-1280.webp") center 52%/cover;padding:64px 0 72px}
+  .hero::after{content:"";position:absolute;inset:auto 0 0;height:55px;background:linear-gradient(to top,var(--paper),transparent)}
+  .eyebrow{margin:0 0 10px;letter-spacing:.16em;text-transform:uppercase;font-size:12px;font-weight:850;color:#c9f3ef}
+  h1{font-size:clamp(36px,7vw,68px);line-height:.98;max-width:800px;margin:0 0 18px;letter-spacing:-.035em}
+  .hero .lede{font-size:clamp(16px,2.3vw,20px);max-width:760px;margin:0;color:rgba(255,255,255,.92)}
+  .chips{display:flex;flex-wrap:wrap;gap:9px;margin-top:24px}
+  .chip{padding:7px 12px;background:rgba(255,255,255,.15);border:1px solid rgba(255,255,255,.28);border-radius:999px;font-size:13px;font-weight:750;backdrop-filter:blur(3px)}
+
+  .jumpbar{position:sticky;top:0;z-index:10;background:rgba(248,244,235,.96);border-bottom:1px solid var(--line);backdrop-filter:blur(12px)}
+  .jumpbar .wrap{display:flex;gap:8px;align-items:center;padding-top:10px;padding-bottom:10px;overflow-x:auto;scrollbar-width:thin}
+  .jumpbar a,.smallbtn{flex:none;border:1px solid var(--line);background:#fff;color:var(--deep);text-decoration:none;padding:7px 11px;border-radius:999px;font-size:12.5px;font-weight:800}
+  .jumpbar a:hover,.smallbtn:hover{border-color:var(--teal);background:#eefafa}
+  .smallbtn{font:inherit;font-size:12.5px;cursor:pointer}
+
+  main{padding:32px 0 60px}
+  .intro{display:grid;grid-template-columns:1.45fr .8fr;gap:18px;align-items:stretch}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:17px;padding:21px;box-shadow:0 6px 22px rgba(8,51,65,.055)}
+  .panel h2,.section-title{margin:0 0 8px;font-size:clamp(22px,3vw,30px);line-height:1.15}
+  .panel p{margin:0;color:var(--muted)}
+  .facts{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:16px}
+  .fact{border-radius:12px;background:#f8fbfa;border:1px solid #d8e8e2;padding:13px}
+  .fact b{display:block;color:var(--deep);font-size:17px}
+  .fact span{font-size:12.5px;color:var(--muted)}
+  .priority{background:#fff7ec;border-left:5px solid var(--sun)}
+  .priority ul{margin:10px 0 0;padding-left:20px}
+  .priority li{margin:6px 0}
+
+  .section-head{display:flex;align-items:end;justify-content:space-between;gap:16px;margin:38px 0 14px}
+  .section-head p{margin:4px 0 0;color:var(--muted)}
+  .linkbtn{display:inline-flex;align-items:center;justify-content:center;gap:7px;background:var(--sea);color:#fff!important;text-decoration:none;border-radius:10px;padding:10px 14px;font-size:13px;font-weight:800;box-shadow:0 5px 14px rgba(8,109,132,.18)}
+  .linkbtn.secondary{background:#fff;color:var(--sea)!important;border:1px solid var(--line);box-shadow:none}
+  .mapframe{height:520px;border-radius:17px;overflow:hidden;border:1px solid var(--line);background:#dfe9e9;box-shadow:var(--shadow)}
+  .mapframe iframe{width:100%;height:100%;border:0;display:block}
+  .mapfallback{margin:10px 0 0;color:var(--muted);font-size:13px}
+
+  .alert{margin:28px 0;background:#fff2e8;border:1px solid #efc4a4;border-left:6px solid var(--red);border-radius:14px;padding:18px 20px}
+  .alert h2{font-size:20px;margin:0 0 7px;color:var(--red)}
+  .alert p{margin:5px 0}
+  .alert ul{margin:8px 0 0;padding-left:20px}
+
+  .day-controls{display:flex;gap:9px;flex-wrap:wrap}
+  .days{display:grid;gap:18px}
+  details.day{background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 8px 28px rgba(8,51,65,.07)}
+  details.day[open]{box-shadow:var(--shadow)}
+  details.day>summary{list-style:none;cursor:pointer;padding:20px 22px;display:grid;grid-template-columns:auto 1fr auto;gap:16px;align-items:center;background:#fff}
+  details.day>summary::-webkit-details-marker{display:none}
+  details.day>summary::after{content:"＋";font-size:25px;color:var(--sea);font-weight:400}
+  details.day[open]>summary::after{content:"−"}
+  .dayno{width:53px;height:53px;border-radius:14px;display:grid;place-items:center;background:var(--deep);color:#fff;font-size:22px;font-weight:900}
+  .daysummary h2{font-size:clamp(20px,3vw,27px);line-height:1.15;margin:0 0 4px}
+  .daysummary p{margin:0;color:var(--muted);font-size:13.5px}
+  .daybody{border-top:1px solid var(--line);padding:0 22px 24px}
+  .dayphoto{margin:0 -22px 22px;position:relative;background:#dce7e7;overflow:hidden;aspect-ratio:16/6}
+  .dayphoto img{width:100%;height:100%;object-fit:cover;display:block}
+  .dayphoto figcaption{position:absolute;left:12px;bottom:10px;background:rgba(5,38,48,.86);color:#fff;border-radius:8px;padding:6px 9px;font-size:11.5px}
+  .daymeta{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 18px}
+  .tag{border-radius:999px;padding:6px 10px;background:var(--sand);font-size:12px;font-weight:800;color:var(--deep)}
+  .tag.must{background:#e7f5ef;color:var(--green)}
+  .tag.warn{background:#fff0e8;color:var(--red)}
+  .dayactions{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:19px}
+  .reality{background:#eef7f7;border-left:4px solid var(--teal);padding:14px 16px;border-radius:10px;margin:0 0 18px}
+  .reality strong{color:var(--deep)}
+  .reality p{margin:4px 0 0}
+  .timeline{position:relative;margin:0;padding:0;list-style:none}
+  .timeline::before{content:"";position:absolute;left:76px;top:13px;bottom:13px;width:2px;background:#d9e4df}
+  .stop{display:grid;grid-template-columns:62px 1fr;gap:25px;position:relative;padding:0 0 22px}
+  .stop:last-child{padding-bottom:3px}
+  .time{text-align:right;color:var(--sea);font-size:12px;font-weight:850;padding-top:3px}
+  .stopcontent{position:relative}
+  .stopcontent::before{content:"";position:absolute;left:-31px;top:7px;width:10px;height:10px;border-radius:50%;background:var(--sun);box-shadow:0 0 0 4px #fff;border:1px solid var(--sun)}
+  .stop h3{font-size:18px;margin:0 0 4px;line-height:1.25}
+  .stop p{margin:0 0 8px;color:#334b54;font-size:14px}
+  .stop ul{margin:6px 0 8px;padding-left:19px;font-size:14px}
+  .stop li{margin:4px 0}
+  .stoplinks{display:flex;gap:12px;flex-wrap:wrap;font-size:12.5px;font-weight:800}
+  .optional{border:1px dashed #d3bea0;background:#fffaf1;padding:12px 14px;border-radius:10px}
+  .cut{margin-top:18px;padding:13px 15px;border-radius:10px;background:#fff4ee;color:#76371e;font-size:13.5px}
+
+  .logistics{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .checklist{list-style:none;margin:12px 0 0;padding:0}
+  .checklist li{position:relative;padding:9px 0 9px 31px;border-top:1px solid #eee4d4}
+  .checklist li::before{content:"□";position:absolute;left:2px;top:7px;color:var(--sea);font-size:20px}
+  .credits{font-size:12px;color:var(--muted)}
+  .credits li{margin:5px 0}
+  .disclaimer{margin-top:18px;font-size:13px;color:var(--muted)}
+  footer{border-top:1px solid var(--line);padding:27px 0 45px;color:var(--muted);font-size:13px}
+  footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+
+  @media(max-width:760px){
+    .wrap{width:min(100% - 28px,1100px)}
+    .hero{padding:50px 0 60px}
+    .intro,.logistics{grid-template-columns:1fr}
+    .mapframe{height:430px}
+    .section-head{align-items:flex-start;flex-direction:column}
+    details.day>summary{grid-template-columns:auto 1fr;padding:16px;gap:12px}
+    details.day>summary::after{grid-column:2;position:absolute;right:18px}
+    .dayno{width:45px;height:45px;font-size:19px}
+    .daybody{padding:0 16px 20px}
+    .dayphoto{margin:0 -16px 18px;aspect-ratio:16/8}
+  }
+  @media(max-width:480px){
+    .topbar .wrap{align-items:flex-start}
+    .toplinks{gap:8px 11px}
+    .facts{grid-template-columns:1fr}
+    .mapframe{height:390px}
+    .timeline::before{left:8px}
+    .stop{grid-template-columns:1fr;gap:2px;padding-left:28px}
+    .time{text-align:left}
+    .stopcontent::before{left:-25px}
+    .dayphoto{aspect-ratio:4/3}
+  }
+  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main-content">Skip to Vishanth’s plan</a>
+<nav class="topbar" aria-label="Trip pages">
+  <div class="wrap">
+    <a href="index.html">← Trip home</a>
+    <div class="toplinks">
+      <a href="map.html">🗺️ Map</a>
+      <a href="itinerary.html">📋 Shared itinerary</a>
+      <a href="food.html">🍽️ Food</a>
+      <a aria-current="page" href="vishanth-plan.html">📖 Vishanth’s plan</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="eyebrow">A personal, extensive itinerary</p>
+    <h1>Vishanth’s Extensive Plan</h1>
+    <p class="lede">Seattle to Los Angeles, one coast-defining stop at a time—with realistic timing, reservation triggers, safety calls, food ideas, and a clear decision for what to cut when the road runs long.</p>
+    <div class="chips" aria-label="Trip facts">
+      <span class="chip">📅 Aug 8–13, 2026</span>
+      <span class="chip">🚗 ~1,200 miles</span>
+      <span class="chip">🌙 6 days · 5 nights</span>
+      <span class="chip">🌲 Oregon + Redwoods + Big Sur</span>
+      <span class="chip">🌊 Swimming saved for SoCal</span>
+    </div>
+  </div>
+</header>
+
+<nav class="jumpbar" aria-label="Jump to a day">
+  <div class="wrap">
+    <a href="#overview">Overview</a><a href="#day-1">Day 1</a><a href="#day-2">Day 2</a><a href="#day-3">Day 3</a><a href="#day-4">Day 4</a><a href="#day-5">Day 5</a><a href="#day-6">Day 6</a><a href="#logistics">Checklist</a>
+  </div>
+</nav>
+
+<main id="main-content">
+  <div class="wrap">
+    <section class="intro" id="overview" aria-labelledby="overview-title">
+      <div class="panel">
+        <h2 id="overview-title">The plan at a glance</h2>
+        <p>This is Vishanth’s personal, detailed version of the trip. It complements the shared itinerary; where bookings, flight times, or live road conditions differ, the confirmed group booking and same-day official alert should win.</p>
+        <div class="facts">
+          <div class="fact"><b>3 signature days</b><span>Boardman + Redwoods · otter kayak · Big Sur</span></div>
+          <div class="fact"><b>3 advance bookings</b><span>Fern Canyon + Elkhorn Slough + surf lesson</span></div>
+          <div class="fact"><b>~$50 cash</b><span>Park kiosks, parking, and cash-only access</span></div>
+          <div class="fact"><b>One safe swim day</b><span>Malibu and Santa Monica on Day 6</span></div>
+        </div>
+      </div>
+      <aside class="panel priority">
+        <h2>Three timing drivers</h2>
+        <ul>
+          <li><b>Northern water is cold:</b> view and wade only until Southern California.</li>
+          <li><b>Big Sur can slow down:</b> allow at least 15 minutes for active traffic control and verify conditions.</li>
+          <li><b>Reserve ahead:</b> Fern Canyon, Elkhorn Slough, and the surf lesson can shape entire days.</li>
+        </ul>
+      </aside>
+    </section>
+
+    <section aria-labelledby="watch-title">
+      <div class="section-head"><div><h2 class="section-title" id="watch-title">The source plan’s 2026 watchlist</h2><p>These claims shape the schedule but must be verified against the linked official sources before departure.</p></div></div>
+      <div class="logistics">
+        <div class="panel"><h2>Big Sur traffic control</h2><p>The pasted plan says Highway 1 is fully open, with 24/7 one-way control at Rocky Creek Bridge through 6 AM Aug 31 and possible delays up to 15 minutes. Check <a href="https://quickmap.dot.ca.gov/">Caltrans QuickMap</a> that morning.</p></div>
+        <div class="panel"><h2>McWay Falls access</h2><p>The source plan expects the overlook trail to remain closed for retaining-wall work into 2026. Use only the legal viewing area shown by <a href="https://www.parks.ca.gov/?page_id=578">California State Parks</a>.</p></div>
+        <div class="panel"><h2>Monterey Car Week</h2><p>The trip overlaps Aug 7–16, 2026. That is why the plan sleeps in Salinas and clears the Monterey/Carmel area early on Day 5. Verify the <a href="https://whatsupmonterey.com/events/monterey-car-week">event calendar</a>.</p></div>
+        <div class="panel"><h2>Fern Canyon capacity</h2><p>The pasted plan reports 35 morning, 35 afternoon, and 20 all-day permits daily during the May 15–Sep 15 reservation season. Confirm the current release rules with <a href="https://redwoodparksconservancy.org/fern-canyon/">Redwood Parks Conservancy</a>.</p></div>
+      </div>
+    </section>
+
+    <section aria-labelledby="route-title">
+      <div class="section-head">
+        <div><h2 class="section-title" id="route-title">The full route</h2><p>Use the shared interactive map for the geographic overview; each day below has a focused directions link.</p></div>
+        <a class="linkbtn secondary" href="map.html">Open full map ↗</a>
+      </div>
+      <div class="mapframe"><iframe src="map.html?embed=1" title="Interactive overview map of the Seattle to Los Angeles road trip" loading="lazy"></iframe></div>
+      <p class="mapfallback">If the embedded map does not load, <a href="map.html">open the full route map</a> or use the per-day Google Maps links below.</p>
+    </section>
+
+    <aside class="alert" aria-labelledby="water-title">
+      <h2 id="water-title">🌊 Water safety is part of the schedule</h2>
+      <p><b>Do not plan to swim on Days 1–5.</b> Oregon, Northern California, San Francisco, and Big Sur have cold water, rip currents, and sneaker waves. Wading/viewing only; real swimming begins in lifeguarded Southern California on Day 6.</p>
+      <ul><li>Never turn your back on the ocean.</li><li>Stay off beach logs—they can roll and pin people.</li><li>Keep well up the sand at Cannon Beach, Samuel Boardman, and Redwood beaches.</li></ul>
+    </aside>
+
+    <section aria-labelledby="days-title">
+      <div class="section-head">
+        <div><h2 class="section-title" id="days-title">The extended day-by-day plan</h2><p>Open a day for the full timeline, stops, practical notes, and optional cuts.</p></div>
+        <div class="day-controls"><button class="smallbtn" type="button" id="expand-all">Expand all</button><button class="smallbtn" type="button" id="collapse-all">Collapse all</button></div>
+      </div>
+      <div class="days">
+
+        <details class="day" id="day-1" open>
+          <summary><span class="dayno">1</span><span class="daysummary"><h2>Seattle → Cannon Beach / Seaside</h2><p>Sat Aug 8 · downtown without a car, then ~185 miles to the coast</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-1-1280.webp" srcset="assets/vishanth/day-1-640.webp 640w, assets/vishanth/day-1-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="853" alt="The Public Market Center sign and street scene at Pike Place Market in Seattle" loading="lazy"><figcaption>Pike Place Market · Seattle</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Priority: Pike Place</span><span class="tag">Land SEA 12:27 PM</span><span class="tag">Car pickup 5 PM</span><span class="tag warn">Dusk driving</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Seattle-Tacoma+International+Airport&amp;destination=Cannon+Beach,+OR&amp;waypoints=Pike+Place+Market,+Seattle,+WA%7CSeattle-Tacoma+International+Airport" rel="noopener">Day 1 directions ↗</a><a class="linkbtn secondary" href="https://www.soundtransit.org/ride-with-us/routes-schedules/1-line" rel="noopener">Link 1 Line schedule</a></div>
+            <div class="reality"><strong>The reality of the afternoon</strong><p>Airport-to-market takes roughly an hour each way, leaving about 2–2.5 useful downtown hours. Be walking back toward Westlake around 4 PM so the 5 PM rental pickup is not compromised.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">12:27</div><div class="stopcontent"><h3>Land at SEA and take Link downtown</h3><p>Allow time for bags, then ride to Westlake Station for roughly $3. The market is a ten-minute downhill walk.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=SeaTac+Airport+Station" rel="noopener">SeaTac station</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Westlake+Station+Seattle" rel="noopener">Westlake station</a></div></div></li>
+              <li class="stop"><div class="time">1:45–4</div><div class="stopcontent"><h3>Pike Place Market</h3><p>See the Public Market Center sign, flying fish, MarketFront views, the original Starbucks storefront, and Gum Wall. Keep the visit moving.</p><ul><li><b>Quick eats:</b> Pike Place Chowder, Beecher’s mac and cheese (~$6–10), Daily Dozen Doughnuts, or DeLaurenti picnic food.</li><li><b>Sit-down if time allows:</b> Lowell’s or The Pink Door.</li></ul><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Pike+Place+Market+Seattle" rel="noopener">Map</a><a href="https://www.pikeplacemarket.org/" rel="noopener">Official site</a><a href="food.html">Dietary-safe food plan</a></div></div></li>
+              <li class="stop"><div class="time">4–5</div><div class="stopcontent"><h3>Return to SEA for Hertz</h3><p>Collect the car, confirm the under-25 surcharge and rental toll policy, and list every approved driver who will rotate behind the wheel.</p></div></li>
+              <li class="stop"><div class="time">5–9</div><div class="stopcontent"><h3>Drive to the Oregon coast</h3><p>Take I-5 south and US-26 west. This is the trip’s unavoidable interstate/dusk stretch, so skip scenic detours and eat on arrival.</p><div class="optional"><b>Only if ahead:</b> Haystack Rock around the ~8:30 PM sunset. Do not force it; Day 2 returns in daylight.</div></div></li>
+              <li class="stop"><div class="time">Night 1</div><div class="stopcontent"><h3>Sleep in Cannon Beach or Seaside</h3><p>Cannon Beach is prettier and walkable; Seaside usually has cheaper motel inventory.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=hotels+Cannon+Beach+OR" rel="noopener">Cannon Beach stays</a><a href="https://www.google.com/maps/search/?api=1&amp;query=hotels+Seaside+OR" rel="noopener">Seaside stays</a></div></div></li>
+            </ol>
+          </div>
+        </details>
+
+        <details class="day" id="day-2">
+          <summary><span class="dayno">2</span><span class="daysummary"><h2>The Oregon Coast</h2><p>Sun Aug 9 · Cannon Beach → Bandon / Coos Bay · ~230 miles</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-2-1280.webp" srcset="assets/vishanth/day-2-640.webp 640w, assets/vishanth/day-2-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="850" alt="Haystack Rock and Cannon Beach viewed from Ecola State Park" loading="lazy"><figcaption>Haystack Rock from Ecola State Park</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Long, stop-heavy day</span><span class="tag">Start 8 AM</span><span class="tag">Fuel in Newport + Florence</span><span class="tag warn">Check tides</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Cannon+Beach,+OR&amp;destination=Bandon,+OR&amp;waypoints=Ecola+State+Park%7CCape+Kiwanda%7CCape+Perpetua" rel="noopener">Day 2 directions ↗</a><a class="linkbtn secondary" href="https://tidesandcurrents.noaa.gov/" rel="noopener">NOAA tide forecast</a></div>
+            <div class="reality"><strong>Pace rule</strong><p>You have roughly 230 miles plus five or six worthwhile stops. Fuel before leaving the north coast, then top off around Newport and Florence.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">8–9</div><div class="stopcontent"><h3>Ecola State Park · source estimate $10/vehicle</h3><p>Drive to Ecola Point for the Goonies/Point Break/Twilight overlook, Haystack Rock, Crescent Beach, and the Tillamook Rock Lighthouse view. The narrow road and small lots favor an early arrival.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Ecola+Point+Oregon" rel="noopener">Map</a><a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=136" rel="noopener">Park information</a></div></div></li>
+              <li class="stop"><div class="time">9:15–10</div><div class="stopcontent"><h3>Cannon Beach and Haystack Rock</h3><p>Park near Hemlock and Gower. Visit tide pools only when tides safely permit; August is normally too late for nesting puffins.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Haystack+Rock+Cannon+Beach" rel="noopener">Map</a></div></div></li>
+              <li class="stop"><div class="time">10:15–11:15</div><div class="stopcontent"><h3>Hug Point + Neahkahnie Viewpoint</h3><p>Hug Point’s caves, waterfall, and carved stagecoach route require a safe lower tide. Neahkahnie is the quick, high-payoff roadside panorama.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Hug+Point+State+Recreation+Site" rel="noopener">Hug Point</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Neahkahnie+Viewpoint+Oregon" rel="noopener">Neahkahnie</a></div></div></li>
+              <li class="stop"><div class="time">Noon–1:30</div><div class="stopcontent"><h3>Cape Kiwanda + lunch</h3><p>Climb the giant sandstone dune for dory-boat and offshore-rock views. Pelican Brewing has a beachside to-go window; Doryland Pizza is the faster dietary-friendly choice from the shared food plan.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Cape+Kiwanda+Pacific+City+OR" rel="noopener">Map</a><a href="food.html">Food plan</a></div></div></li>
+              <li class="stop"><div class="time">3:30–4:30</div><div class="stopcontent"><h3>Cape Perpetua, Thor’s Well, and Cook’s Chasm · source estimate $5</h3><p>Walk the Captain Cook Trail to Thor’s Well, Spouting Horn, and Cook’s Chasm. Aim for roughly one hour before through one hour after high tide—but stay on safe surfaces and away from wave-washed basalt.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Cape+Perpetua+Visitor+Center" rel="noopener">Map</a><a href="https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42265" rel="noopener">Forest Service</a></div></div></li>
+              <li class="stop"><div class="time">4:45–5:15</div><div class="stopcontent"><h3>Heceta Head Lighthouse</h3><p>Use the roadside viewpoint or walk the half-mile trail if time and operating hours cooperate.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Heceta+Head+Lighthouse" rel="noopener">Map</a></div></div></li>
+              <li class="stop"><div class="time">Optional</div><div class="stopcontent optional"><h3>Sea Lion Caves or Sand Master Park · source estimates ~$16 each</h3><p>The sea-cave elevator is a short weatherproof stop; sandboarding is more active but needs one to two hours. Realistically choose at most one.</p><div class="stoplinks"><a href="https://www.sealioncaves.com/" rel="noopener">Sea Lion Caves</a><a href="https://www.sandmasterpark.com/" rel="noopener">Sand Master Park</a></div></div></li>
+              <li class="stop"><div class="time">7:30–8</div><div class="stopcontent"><h3>Bandon / Coos Bay</h3><p>If daylight remains, go directly to Face Rock for the day’s best sea-stack sunset. Sunday hours make Tony’s Crab Shack unreliable; check current options before depending on it.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Face+Rock+State+Scenic+Viewpoint" rel="noopener">Face Rock</a><a href="https://www.google.com/maps/search/?api=1&amp;query=restaurants+Bandon+OR" rel="noopener">Dinner search</a></div></div></li>
+            </ol>
+            <div class="cut"><b>If behind:</b> cut Sea Lion Caves and Sand Master Park first. Preserve Ecola, Cape Perpetua, Heceta Head, and the southbound arrival before dark.</div>
+          </div>
+        </details>
+
+        <details class="day" id="day-3">
+          <summary><span class="dayno">3</span><span class="daysummary"><h2>Samuel Boardman + the Redwoods</h2><p>Mon Aug 10 · Bandon → Garberville · ~250 miles</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-3-1280.webp" srcset="assets/vishanth/day-3-640.webp 640w, assets/vishanth/day-3-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="960" alt="Rocky forested coastline in the Samuel H. Boardman State Scenic Corridor" loading="lazy"><figcaption>Samuel H. Boardman State Scenic Corridor</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Signature: Boardman corridor</span><span class="tag must">Fern Canyon permit</span><span class="tag">Fill in Bandon + Brookings</span><span class="tag warn">Fog + poison oak</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Bandon,+OR&amp;destination=Garberville,+CA&amp;waypoints=Natural+Bridges+Oregon%7CKlamath+River+Overlook%7CBig+Tree+Wayside" rel="noopener">Day 3 directions ↗</a><a class="linkbtn secondary" href="https://redwoodparksconservancy.org/fern-canyon/" rel="noopener">Fern Canyon permit</a></div>
+            <div class="reality"><strong>Decision point</strong><p>Fern Canyon is magical but costs 1.5–2 hours of narrow dirt-road access. Attempt it only with a confirmed permit and enough schedule margin by mid-afternoon.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">7:30</div><div class="stopcontent"><h3>Leave Bandon with fuel</h3><p>Fuel can be sparse. Fill here, then again in Brookings or Crescent City.</p></div></li>
+              <li class="stop"><div class="time">9:30–12</div><div class="stopcontent"><h3>Samuel H. Boardman corridor</h3><p>Drive the 12-mile corridor north to south. Prioritize Natural Bridges, Thunder Rock Cove/Secret Beach, and Arch Rock; add Thomas Creek Bridge or Whaleshead only with extra time.</p><ul><li><b>Natural Bridges:</b> short platform walk over the sea arches.</li><li><b>Secret Beach:</b> use Thunder Rock Cove’s clearer trail; best at lower tide.</li><li><b>Arch Rock:</b> paved loop, restrooms, picnic tables.</li></ul><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Natural+Bridges+Samuel+Boardman" rel="noopener">Natural Bridges</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Thunder+Rock+Cove+Oregon" rel="noopener">Thunder Rock</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Arch+Rock+Oregon" rel="noopener">Arch Rock</a><a href="https://stateparks.oregon.gov/index.cfm?do=park.profile&amp;parkId=56" rel="noopener">Official corridor page</a></div></div></li>
+              <li class="stop"><div class="time">12:15–1</div><div class="stopcontent"><h3>Lunch in Brookings</h3><p>Brookings is the last easy Oregon food stop before the California border. The shared food plan uses Khun Thai takeout; Trees of Mystery’s Forest Café is a practical later fallback near Klamath.</p><div class="stoplinks"><a href="food.html">Dietary-safe food plan</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Trees+of+Mystery+Klamath+CA" rel="noopener">Trees of Mystery</a></div></div></li>
+              <li class="stop"><div class="time">~2</div><div class="stopcontent"><h3>Klamath River Overlook</h3><p>Follow Requa Road uphill for a free viewpoint roughly 600 feet above the river mouth. Summer fog is possible; seals and birds are more realistic than migrating whales in August.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Klamath+River+Overlook" rel="noopener">Map</a><a href="https://www.nps.gov/places/klamathriveroverlook.htm" rel="noopener">NPS guide</a></div></div></li>
+              <li class="stop"><div class="time">2:45–4</div><div class="stopcontent"><h3>Newton B. Drury Scenic Parkway</h3><p>Use the ten-mile redwood parkway without backtracking. Stop at Big Tree Wayside and Elk Prairie; Circle, Cathedral Trees, or Foothill trails are short additions.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Big+Tree+Wayside+Prairie+Creek" rel="noopener">Big Tree</a><a href="https://www.nps.gov/redw/planyourvisit/basicinfo.htm" rel="noopener">NPS park guide</a></div></div></li>
+              <li class="stop"><div class="time">If booked</div><div class="stopcontent optional"><h3>Fern Canyon / Gold Bluffs Beach · source budget $12 cash/check</h3><p>A reservation is required May 15–Sep 15, plus the stated day-use fee. The pasted plan budgets $12; the current NPS basic-information page lists $8, so verify and carry extra cash. Davison Road is eight miles of narrow dirt road with stream crossings; the source plan lists an 8-foot width and 24-foot length limit with no trailers. Skip if behind; the core redwood experience survives.</p><div class="stoplinks"><a href="https://redwoodparksconservancy.org/fern-canyon/" rel="noopener">Permit and current fee</a><a href="https://www.nps.gov/redw/planyourvisit/ferncanyonpermits.htm" rel="noopener">NPS access details</a><a href="https://www.nps.gov/redw/planyourvisit/basicinfo.htm" rel="noopener">NPS fee listing</a></div></div></li>
+              <li class="stop"><div class="time">5:30+</div><div class="stopcontent"><h3>Avenue of the Giants taste → Garberville</h3><p>Enter near Pepperwood if daylight allows. Save the fuller drive for Day 4 morning when needed; Shrine Drive-Thru Tree is daytime-only and the pasted plan estimates $15/car.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Avenue+of+the+Giants+California" rel="noopener">Avenue map</a><a href="https://www.google.com/maps/search/?api=1&amp;query=hotels+Garberville+CA" rel="noopener">Garberville stays</a></div></div></li>
+            </ol>
+            <div class="cut"><b>If behind:</b> Fern Canyon is the biggest cut, even with a permit. Preserve the Boardman viewpoints, main redwood parkway, and a daylight arrival in Garberville.</div>
+          </div>
+        </details>
+
+        <details class="day" id="day-4">
+          <summary><span class="dayno">4</span><span class="daysummary"><h2>Redwoods → Golden Gate → Otter Kayak</h2><p>Tue Aug 11 · Garberville → Salinas · ~300 miles</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-4-1280.webp" srcset="assets/vishanth/day-4-640.webp 640w, assets/vishanth/day-4-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="720" alt="Golden Gate Bridge seen from Battery Spencer above the Marin Headlands" loading="lazy"><figcaption>Golden Gate Bridge from Battery Spencer</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Longest drive day</span><span class="tag must">Book afternoon kayak</span><span class="tag">US-101, not Hwy 1</span><span class="tag warn">Hard tour deadline</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Garberville,+CA&amp;destination=Salinas,+CA&amp;waypoints=Founders+Grove%7CBattery+Spencer%7CMoss+Landing+CA" rel="noopener">Day 4 directions ↗</a><a class="linkbtn secondary" href="https://elkhornslough.org/visit/recreation/kayaking/" rel="noopener">Elkhorn kayaking guide</a></div>
+            <div class="reality"><strong>Route choice</strong><p>US-101 is the only reasonable route with the kayak deadline. Highway 1 through Mendocino is beautiful but belongs on a separate trip.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">7–8:30</div><div class="stopcontent"><h3>Avenue of the Giants / Founders Grove</h3><p>Use the morning light for Founders Grove’s easy half-mile loop and the Dyerville Giant. Add Shrine Drive-Thru Tree or Rockefeller Loop only if yesterday’s schedule left room.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Founders+Grove+California" rel="noopener">Map</a><a href="https://www.parks.ca.gov/?page_id=425" rel="noopener">Humboldt Redwoods SP</a></div></div></li>
+              <li class="stop"><div class="time">8:30–1</div><div class="stopcontent"><h3>Efficient US-101 miles</h3><p>Grab breakfast in Garberville. Willits, Ukiah, Cloverdale, and Healdsburg are practical breaks, but a sit-down lunch can threaten the tour.</p></div></li>
+              <li class="stop"><div class="time">~1–1:45</div><div class="stopcontent"><h3>Battery Spencer</h3><p>Exit before crossing the Golden Gate for the classic elevated bridge-and-skyline view. Parking is tight. The bridge toll is cashless and may be billed through the rental company.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Battery+Spencer+California" rel="noopener">Map</a><a href="https://www.goldengate.org/bridge/tolls-payment/" rel="noopener">Toll information</a></div></div></li>
+              <li class="stop"><div class="time">Afternoon</div><div class="stopcontent"><h3>Elkhorn Slough kayak—the pivot point · source estimate $50–75+</h3><p>A morning tour is impossible from Garberville. Book an afternoon or sunset beginner-friendly tour out of Moss Landing, arrive early for parking (source estimate ~$10–11), and bring layers, quick-dry clothing, and a waterproof phone case.</p><ul><li>Monterey Bay Kayaks and Kayak Connection offer guided options.</li><li>Expect sea otters and harbor seals, not a guaranteed wildlife performance.</li><li>If the paddle timing fails, investigate the Elkhorn Slough Safari pontoon cruise.</li></ul><div class="stoplinks"><a href="https://www.montereybaykayaks.com/" rel="noopener">Monterey Bay Kayaks</a><a href="https://kayakconnection.com/" rel="noopener">Kayak Connection</a><a href="https://www.elkhornslough.com/" rel="noopener">Safari backup</a></div></div></li>
+              <li class="stop"><div class="time">Night 4</div><div class="stopcontent"><h3>Salinas—not Monterey</h3><p>Drive 30–40 minutes inland. Monterey Car Week overlaps the trip, making Salinas the practical sleep and fuel stop before Big Sur.</p><div class="stoplinks"><a href="https://whatsupmonterey.com/events/monterey-car-week" rel="noopener">Car Week calendar</a><a href="https://www.google.com/maps/search/?api=1&amp;query=hotels+Salinas+CA" rel="noopener">Salinas stays</a></div></div></li>
+            </ol>
+            <div class="cut"><b>If timing slips:</b> shorten Battery Spencer, skip Sausalito, and use packed food. The booked afternoon kayak is the day’s non-negotiable deadline.</div>
+          </div>
+        </details>
+
+        <details class="day" id="day-5">
+          <summary><span class="dayno">5</span><span class="daysummary"><h2>The Big Sur Signature Drive</h2><p>Wed Aug 12 · Salinas → Pismo Beach · ~250 miles</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-5-1280.webp" srcset="assets/vishanth/day-5-640.webp 640w, assets/vishanth/day-5-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="853" alt="Bixby Creek Bridge spanning a coastal canyon along Highway 1 in Big Sur" loading="lazy"><figcaption>Bixby Creek Bridge · Big Sur</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Signature drive</span><span class="tag">Leave Salinas ~6:45–7</span><span class="tag">Fill tank first</span><span class="tag warn">Check QuickMap</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Salinas,+CA&amp;destination=Pismo+Beach,+CA&amp;waypoints=Point+Lobos%7CPfeiffer+Beach%7CPiedras+Blancas+Elephant+Seal+Rookery" rel="noopener">Day 5 directions ↗</a><a class="linkbtn secondary" href="https://quickmap.dot.ca.gov/" rel="noopener">Caltrans QuickMap</a></div>
+            <div class="reality"><strong>2026 verification rule</strong><p>Highway 1 construction and closures can change. Check QuickMap that morning, allow at least 15 minutes for active one-way control, and treat any confirmed closure as more authoritative than this plan.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">8–9:45</div><div class="stopcontent"><h3>Point Lobos at opening · source estimate $10/vehicle</h3><p>Arrive when the reserve opens because parking is tightly capped at roughly 150 vehicles. Combine Cypress Grove and Sea Lion Point; add Bird Island/China Cove only if pace allows. No swimming.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Point+Lobos+State+Natural+Reserve" rel="noopener">Map</a><a href="https://www.parks.ca.gov/?page_id=571" rel="noopener">Official reserve page</a></div></div></li>
+              <li class="stop"><div class="time">10–11</div><div class="stopcontent"><h3>Garrapata + Bixby Creek Bridge</h3><p>Use Garrapata’s roadside headland pullouts for a short leg stretch, then cap Bixby at 15–20 minutes. Expect congestion around the bridge.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Garrapata+State+Park" rel="noopener">Garrapata</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Bixby+Creek+Bridge" rel="noopener">Bixby Bridge</a></div></div></li>
+              <li class="stop"><div class="time">11:30–12:45</div><div class="stopcontent"><h3>Pfeiffer Beach · source estimate $12 cash</h3><p>Turn onto narrow Sycamore Canyon Road near Big Sur Station. The lot is small; bring cash and expect wind, rip currents, purple sand, and Keyhole Arch—not swimming.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Pfeiffer+Beach+Big+Sur" rel="noopener">Map</a><a href="https://www.fs.usda.gov/recarea/lpnf/recarea/?recid=10902" rel="noopener">Official access information</a></div></div></li>
+              <li class="stop"><div class="time">1–2</div><div class="stopcontent"><h3>Nepenthe lunch</h3><p>The terrace view is the point; waits and prices can be high. Café Kevah or packed Salinas burritos are the faster backups.</p><div class="stoplinks"><a href="https://www.nepenthe.com/" rel="noopener">Nepenthe</a><a href="food.html">Group food plan</a></div></div></li>
+              <li class="stop"><div class="time">2:15–4:30</div><div class="stopcontent"><h3>McWay Falls → Sand Dollar → Ragged Point</h3><p>Use the legal roadside/park viewing area available at McWay if the overlook trail remains closed. Sand Dollar and Jade Cove are optional leg stretches. Ragged Point provides restrooms, food, and fuel.</p><div class="stoplinks"><a href="https://www.parks.ca.gov/?page_id=578" rel="noopener">McWay / park status</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Sand+Dollar+Beach+Big+Sur" rel="noopener">Sand Dollar</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Ragged+Point+California" rel="noopener">Ragged Point</a></div></div></li>
+              <li class="stop"><div class="time">~4:45</div><div class="stopcontent"><h3>Piedras Blancas elephant seals</h3><p>The free boardwalk is easy and worthwhile, but August normally has the year’s smallest crowd of seals—often mostly large adult males after molt.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Piedras+Blancas+Elephant+Seal+Rookery" rel="noopener">Map</a><a href="https://elephantseal.org/" rel="noopener">Current updates</a></div></div></li>
+              <li class="stop"><div class="time">6–7:30</div><div class="stopcontent"><h3>Morro Bay → Pismo Beach</h3><p>Use Morro Rock as an optional waterfront break, then finish with sunset on Pismo Pier or the Shell Beach bluffs. Splash Café, Cracked Crab, and Ventana Grill are dinner ideas; Old West Cinnamon Rolls can cover the early departure. Skip the Monarch Butterfly Grove—it is a November–February attraction.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Morro+Rock" rel="noopener">Morro Rock</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Pismo+Beach+Pier" rel="noopener">Pismo Pier</a></div></div></li>
+            </ol>
+            <div class="cut"><b>If Car Week traffic is heavy:</b> protect Point Lobos, Bixby, Pfeiffer, McWay, and the southbound arrival. Cut Sand Dollar/Jade Cove, long lunches, and Morro Bay first.</div>
+          </div>
+        </details>
+
+        <details class="day" id="day-6">
+          <summary><span class="dayno">6</span><span class="daysummary"><h2>Malibu Surf → Santa Monica → LAX</h2><p>Thu Aug 13 · Pismo Beach → Los Angeles · ~180 miles</p></span></summary>
+          <div class="daybody">
+            <figure class="dayphoto"><img src="assets/vishanth/day-6-1280.webp" srcset="assets/vishanth/day-6-640.webp 640w, assets/vishanth/day-6-1280.webp 1280w" sizes="(max-width:760px) calc(100vw - 28px), 1056px" width="1280" height="720" alt="Wide sandy beach and coastline viewed from Santa Monica Pier" loading="lazy"><figcaption>Santa Monica · the trip’s safe swim finale</figcaption></figure>
+            <div class="daymeta"><span class="tag must">Book surf lesson</span><span class="tag must">LAX buffer controls day</span><span class="tag">First real swim day</span><span class="tag warn">LA traffic</span></div>
+            <div class="dayactions"><a class="linkbtn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Pismo+Beach,+CA&amp;destination=Los+Angeles+International+Airport&amp;waypoints=Malibu+Surfrider+Beach%7CSanta+Monica+Pier%7CGriffith+Observatory" rel="noopener">Day 6 directions ↗</a><a class="linkbtn secondary" href="https://www.flylax.com/" rel="noopener">LAX information</a></div>
+            <div class="reality"><strong>The flight is the hard deadline</strong><p>The pasted plan’s full Griffith sunset only works with a sufficiently late confirmed flight. Work backward from the required rental return and airside buffer; Santa Monica is the default finale if the flight is earlier.</p></div>
+            <ol class="timeline">
+              <li class="stop"><div class="time">7:30–10:30</div><div class="stopcontent"><h3>Pismo to Malibu</h3><p>Take coffee and cinnamon rolls to go. Santa Barbara is a bonus only if the surf lesson arrival is already protected.</p></div></li>
+              <li class="stop"><div class="time">11–1</div><div class="stopcontent"><h3>Beginner surf lesson · source estimate ~$90/person</h3><p>Book a wetsuit-and-soft-top lesson. Sunset Point/Zuma generally offers sandy beginner conditions; Surfrider has iconic longboard waves but can be crowded and rocky. The school may relocate for conditions.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Malibu+Surfrider+Beach" rel="noopener">Surfrider map</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Zuma+Beach+Malibu" rel="noopener">Zuma map</a><a href="https://www.google.com/search?q=beginner+surf+lessons+Malibu+California" rel="noopener">Compare lessons</a></div></div></li>
+              <li class="stop"><div class="time">1:15–2</div><div class="stopcontent"><h3>Malibu lunch</h3><p>Use Malibu Seafood from the shared group food plan or Malibu Farm Café if the schedule and budget allow.</p><div class="stoplinks"><a href="food.html">Dietary-safe orders</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Malibu+Seafood" rel="noopener">Malibu Seafood</a></div></div></li>
+              <li class="stop"><div class="time">Optional</div><div class="stopcontent optional"><h3>El Matador + Point Dume · El Matador source estimate $8</h3><p>El Matador has photogenic caves and arches but limited parking and steep stairs. Point Dume is a short bluff-view option. Both should be cut before risking Santa Monica or LAX.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=El+Matador+State+Beach" rel="noopener">El Matador</a><a href="https://www.google.com/maps/search/?api=1&amp;query=Point+Dume+Natural+Preserve" rel="noopener">Point Dume</a></div></div></li>
+              <li class="stop"><div class="time">3:45–5:30</div><div class="stopcontent"><h3>Santa Monica swim and pier</h3><p>Use a lifeguarded area for the relaxed beach-town finale. Swim, rinse off, see the pier and Pacific Park, and monitor traffic before leaving.</p><div class="stoplinks"><a href="https://www.google.com/maps/search/?api=1&amp;query=Santa+Monica+Pier" rel="noopener">Map</a><a href="https://www.santamonica.com/things-to-do/santa-monica-beach/" rel="noopener">Visitor information</a></div></div></li>
+              <li class="stop"><div class="time">Conditional</div><div class="stopcontent optional"><h3>Griffith Observatory sunset · admission free</h3><p>Excellent city/Hollywood Sign views, but sunset parking is slow; the source plan estimates $4–10/hour for nearby paid parking and $0.50 for DASH. Use the shuttle or shorten the visit. If the flight timing is not unquestionably safe, skip Griffith.</p><div class="stoplinks"><a href="https://griffithobservatory.org/" rel="noopener">Hours and alerts</a><a href="https://www.ladottransit.com/dash/routes/obslf/obslf.html" rel="noopener">DASH shuttle</a></div></div></li>
+              <li class="stop"><div class="time">Final</div><div class="stopcontent"><h3>Rental return and LAX</h3><p>Refuel near the airport, return the Hertz car, and be airside roughly three hours before the confirmed departure. Do not use an aspirational flight time to schedule the day.</p></div></li>
+            </ol>
+            <div class="cut"><b>Finale benchmark:</b> earlier flight means Santa Monica is the finale and Griffith is removed. A genuinely late flight can support a shortened Griffith visit only after traffic and rental-return buffers are protected.</div>
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <section id="logistics" aria-labelledby="logistics-title">
+      <div class="section-head"><div><h2 class="section-title" id="logistics-title">Reservations, cash, and trip triggers</h2><p>The details most likely to change what fits.</p></div></div>
+      <div class="logistics">
+        <div class="panel"><h2>Reserve and confirm</h2><ul class="checklist"><li><a href="https://redwoodparksconservancy.org/fern-canyon/">Fern Canyon / Gold Bluffs permit</a> and current fee</li><li>Afternoon or sunset <a href="https://elkhornslough.org/visit/recreation/kayaking/">Elkhorn Slough tour</a></li><li>Malibu or Santa Monica beginner surf lesson</li><li>All five overnight rooms</li><li>Actual Aug 13 LAX flight and fare rules</li><li>Every approved driver on the Hertz contract</li></ul></div>
+        <div class="panel"><h2>Carry and check</h2><ul class="checklist"><li>At least ~$50 cash for park access and parking</li><li>Fuel before Oregon’s sparse stretches and before Big Sur</li><li><a href="https://quickmap.dot.ca.gov/">Caltrans QuickMap</a> on Day 5</li><li><a href="https://tidesandcurrents.noaa.gov/">Tide forecast</a> for Hug Point, Thor’s Well, Secret Beach, and tide pools</li><li>Layers, quick-dry clothes, and waterproof phone protection</li><li>Rental toll and refueling policies</li></ul></div>
+        <div class="panel"><h2>Cut first when late</h2><ul><li><b>Day 2:</b> Sea Lion Caves and Sand Master Park.</li><li><b>Day 3:</b> Fern Canyon—the largest time sink.</li><li><b>Day 4:</b> Sausalito and any sit-down lunch.</li><li><b>Day 5:</b> Sand Dollar/Jade Cove and Morro Bay.</li><li><b>Day 6:</b> Point Dume, El Matador, then Griffith.</li></ul></div>
+        <div class="panel"><h2>Conditions that override the plan</h2><ul><li>Official closure, fire, surf, tide, or weather warnings.</li><li>A tour operator moving or canceling the kayak/surf session.</li><li>Monterey Car Week traffic around Carmel and Big Sur.</li><li>Fog obscuring a viewpoint—do not wait indefinitely.</li><li>The confirmed LAX departure and required airport buffer.</li></ul></div>
+      </div>
+      <p class="disclaimer"><b>Recheck before travel:</b> road work, trail access, permits, prices, hours, tides, wildlife patterns, and restaurant schedules can change. This page organizes Vishanth’s source plan; it is not a live conditions service.</p>
+    </section>
+
+    <section aria-labelledby="credits-title">
+      <div class="section-head"><div><h2 class="section-title" id="credits-title">Photo credits</h2><p>Locally optimized copies of freely licensed Wikimedia Commons images.</p></div></div>
+      <ol class="credits">
+        <li><a href="https://commons.wikimedia.org/wiki/File:Pike_Place_Market-1.jpg">Pike Place Market</a>, Visitor7, CC BY-SA 3.0; resized and converted to WebP.</li>
+        <li><a href="https://commons.wikimedia.org/wiki/File:Haystack_Rock_and_Cannon_Beach_from_Ecola_State_Park_01.jpg">Haystack Rock and Cannon Beach from Ecola State Park</a>, Joe Mabel, CC BY-SA 4.0.</li>
+        <li><a href="https://commons.wikimedia.org/wiki/File:Samuel_H._Boardman_State_Scenic_Corridor_-_Oregon_-_7405404758.jpg">Samuel H. Boardman State Scenic Corridor</a>, Dougtone, CC BY-SA 2.0; resized and converted to WebP.</li>
+        <li><a href="https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_seen_from_Battery_Spencer.jpg">Golden Gate Bridge from Battery Spencer</a>, Christoph Strässler, CC BY-SA 2.0.</li>
+        <li><a href="https://commons.wikimedia.org/wiki/File:Bixby_Creek_Bridge,_The_Big_Sur,_California.jpg">Bixby Creek Bridge</a>, Ian McWilliams, CC BY 2.0.</li>
+        <li><a href="https://commons.wikimedia.org/wiki/File:Santa_Monica,_seen_from_the_Santa_Monica_pier.jpg">Santa Monica from the pier</a>, Northwalker, CC0.</li>
+      </ol>
+    </section>
+  </div>
+</main>
+
+<footer><div class="wrap"><span>Vishanth’s personal extensive plan · Aug 8–13, 2026</span><span><a href="index.html">Trip home</a> · <a href="itinerary.html">Shared itinerary</a> · <a href="food.html">Food plan</a></span></div></footer>
+<script>
+  const days = [...document.querySelectorAll('details.day')];
+  document.getElementById('expand-all').addEventListener('click', () => days.forEach(day => day.open = true));
+  document.getElementById('collapse-all').addEventListener('click', () => days.forEach(day => day.open = false));
+  function openHashDay() {
+    if (!location.hash) return;
+    const target = document.querySelector(location.hash);
+    if (target?.matches('details.day')) target.open = true;
+  }
+  addEventListener('hashchange', openHashDay);
+  openHashDay();
+</script>
+</body>
+</html>
