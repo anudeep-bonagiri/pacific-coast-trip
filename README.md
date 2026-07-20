@@ -15,6 +15,7 @@ Once deployed, share the Vercel link. Pages:
 | `itinerary.html` | Hour-by-hour day-by-day plan, costs, booking list |
 | `food.html` | **Food along the way** — dietary-safe orders, public-menu prices, and cheap backups for four travelers |
 | `vishanth-plan.html` | **Vishanth’s Extensive Plan** — full visual day-by-day plan with route overview, directions, photos, reservations, and cut-if-late rules |
+| `filming.html` | **Filming &amp; Scenic Spots** — day-by-day shot guide with best light, access notes, drone rules, and five hero shots |
 
 ## 📂 Source files
 

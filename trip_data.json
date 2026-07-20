@@ -5,6 +5,14 @@
     "nights": 5,
     "days": 6,
     "approx_miles": 1200,
+    "pages": [
+      {"path": "index.html", "title": "Trip Home"},
+      {"path": "map.html", "title": "Interactive Map"},
+      {"path": "itinerary.html", "title": "Shared Itinerary"},
+      {"path": "food.html", "title": "Food Along the Way"},
+      {"path": "vishanth-plan.html", "title": "Vishanth's Extensive Plan"},
+      {"path": "filming.html", "title": "Filming & Scenic Spots"}
+    ],
     "travelers": {
       "count": 3,
       "ages": "19-20",
