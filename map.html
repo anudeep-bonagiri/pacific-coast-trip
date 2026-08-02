@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Pacific Coast Road Trip — Seattle → LA (Aug 8–13)</title>
+<title>Pacific Coast Road Trip — Seattle → LA (Aug 8–15)</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
 <style>
   :root { --panel: 360px; }
@@ -102,9 +102,9 @@
 <div id="app">
   <div id="sidebar">
     <h1>Pacific Coast Road Trip</h1>
-    <p class="sub">Seattle → LA · 6 days, 5 nights · no overnight driving</p>
-    <p class="meta">Aug 8–13 · ~1,200 mi · SEA lands 12:27 PM · LAX out Aug 13</p>
-    <div class="navtabs"><a class="foodtab" href="index.html">⌂ Home</a><a class="foodtab" href="itinerary.html">📋 Itinerary</a><a class="foodtab" href="food.html">🍽️ Food</a><a class="foodtab plantab" href="vishanth-plan.html">📖 Vishanth’s Plan</a><a class="foodtab filmtab" href="filming.html">🎬 Filming Spots</a></div>
+    <p class="sub">Seattle → LA · 8 days, 7 nights · Rainier + the whole coast</p>
+    <p class="meta">Aug 8–15 · ~1,550 mi · SEA lands 2:50 PM · LAX out 10:59 AM Aug 15</p>
+    <div class="navtabs"><a class="foodtab" href="index.html">⌂ Home</a><a class="foodtab" href="itinerary.html">📋 Itinerary</a><a class="foodtab" href="food.html">🍽️ Food</a><a class="foodtab plantab" href="anudeep-plan.html">📖 Anudeep’s Plan</a><a class="foodtab filmtab" href="filming.html">🎬 Filming Spots</a></div>
 
     <div class="box danger" id="box-water">
       <h3 onclick="tog('box-water')">🌊 Water safety — READ THIS <span class="ar">▼</span></h3>
@@ -112,16 +112,15 @@
         <b>You cannot swim the northern half of this trip.</b> August water: Oregon coast <b>52–59°F</b>, San Francisco ~58°F. Wetsuit-only.<br>
         <b>Sneaker waves</b> on the OR/N-CA coast surge 150+ ft up the beach with no warning and have killed 24+ people on the West Coast since 2012. Cold water takes your limb control in seconds.<br>
         <b>Rules:</b> never turn your back on the ocean · stay off and away from beach logs · keep well up the sand at Cannon Beach, Boardman & the Redwood beaches. Wading OK, swimming no.<br>
-        <b>Swimmable water starts in SoCal</b> — Santa Monica/Malibu ~<b>69°F</b> with lifeguards (Day 6).
+        <b>Swimmable water starts in SoCal</b> — Santa Monica/Malibu ~<b>69°F</b> with lifeguards (Day 7).
       </div>
     </div>
 
     <div class="box warn" id="box-fl">
       <h3 onclick="tog('box-fl')">✈ Flights & the clock <span class="ar">▼</span></h3>
       <div class="body">
-        <b>OUT · Sat Aug 8:</b> SAT 7:30 AM → LAX → <b>land SEA 12:27 PM</b>. Car pickup <b>5 PM</b> — the gap is a walking afternoon downtown via Link light rail.<br>
-        <b>BACK · Thu Aug 13 (rebook):</b> your original was LAX 6:59 PM Aug 12. <b>⚠ Check your fare class first</b> — Delta <b>Basic Economy usually can't be changed</b>; Main Cabin has no change fee (fare difference only).<br>
-        <b>Book the return as late as you can</b> — an 8–9 PM departure buys you the Griffith/Hollywood Sign sunset finale on Day 6.<br>
+        <b>OUT · Sat Aug 8:</b> DL2534 SAT 7:30 AM → LAX 8:33, then DL1045 LAX 12:07 PM → <b>land SEA 2:50 PM</b>. Grab the Hertz car right away (~3:45) — <b>modify the reservation</b>, the old 5 PM pickup no longer makes sense.<br>
+        <b>BACK · Sat Aug 15 (booked):</b> DL2568 <b>LAX 10:59 AM → SAT 3:59 PM</b>. Morning flight: car back ~7:30 AM, airside by ~8:00.<br>
         <b>Daylight:</b> sunrise ~6:10 AM, sunset ~8:30 PM (OR) / ~7:50 PM (LA).
       </div>
     </div>
@@ -133,13 +132,23 @@
 
     <div class="box warn" id="box-rd">
       <h3 onclick="tog('box-rd')">⚠ Big Sur road control <span class="ar">▼</span></h3>
-      <div class="body">Hwy 1 is fully open, but <b>Rocky Creek Bridge has 24/7 one-way signal control through Aug 31</b> — delays up to 15 min. Check the <b>Caltrans QuickMap</b> the morning of Day 5.</div>
+      <div class="body">Hwy 1 is fully open, but <b>Rocky Creek Bridge has 24/7 one-way signal control through Aug 31</b> — delays up to 15 min. Check the <b>Caltrans QuickMap</b> the morning of Day 6.</div>
+    </div>
+
+    <div class="box warn" id="box-mtn">
+      <h3 onclick="tog('box-mtn')">🏔 Mount Rainier — Day 2 <span class="ar">▼</span></h3>
+      <div class="body">
+        <b>Be at the Nisqually gate before 7 AM</b> — early entry has historically skipped the timed-entry window, but <b>verify 2026 rules on nps.gov</b> and grab a reservation if one's required. <b>$30/vehicle</b>, card OK.<br>
+        Paradise is at 5,400 ft: bring <b>layers + water</b>, expect lingering snowfields on the Skyline Trail, and assume <b>zero cell service</b> — download offline maps. No gas in the park; fill up in Ashford.<br>
+        Grove of the Patriarchs is still <b>closed</b> (flood damage) — don't detour for it.
+      </div>
     </div>
 
     <div class="box" id="box-wx">
       <h3 onclick="tog('box-wx')">🌤 August weather by leg <span class="ar">▼</span></h3>
       <div class="body">
         <b>Seattle:</b> warm & dry, ~78°F.<br>
+        <b>Mount Rainier (Paradise):</b> 60s by day, 40s at dawn — start in layers. Afternoon clouds can swallow the summit; mornings are clearest.<br>
         <b>Oregon Coast:</b> 60–70°F, foggy mornings, ~3% rain. Layers + windbreaker.<br>
         <b>Redwoods:</b> damp, foggy, low 60s.<br>
         <b>Big Sur:</b> marine layer AM, highs ~69°F. Clears by afternoon.<br>
@@ -179,6 +188,8 @@
           <option value="4">Day 4 · Aug 11</option>
           <option value="5">Day 5 · Aug 12</option>
           <option value="6">Day 6 · Aug 13</option>
+          <option value="7">Day 7 · Aug 14</option>
+          <option value="8">Day 8 · Aug 15</option>
         </select>
         <label for="place-time">Timing</label>
         <input id="place-time" type="text" placeholder="e.g. 12:30 PM · lunch" required maxlength="100">
@@ -203,65 +214,77 @@
 function tog(id){ document.getElementById(id).classList.toggle('collapsed'); }
 
 const DAYS = [
-  { day:1, title:"Aug 8 · Land SEA → Coast", drive:"car @ 5 PM → Seaside ~9 PM · 185 mi", color:"#e6194B" },
-  { day:2, title:"Aug 9 · The Oregon Coast", drive:"8 AM–7 PM · ~4.5 hr · 230 mi", color:"#f58231" },
-  { day:3, title:"Aug 10 · Redwoods", drive:"8 AM–7 PM · ~5 hr · 250 mi", color:"#ffb000" },
-  { day:4, title:"Aug 11 · Bay → Otter kayak → Salinas", drive:"7:30 AM–6 PM · ~6 hr · 300 mi", color:"#3cb44b" },
-  { day:5, title:"Aug 12 · Big Sur", drive:"8:30 AM–7 PM · ~5.5 hr · 250 mi", color:"#4363d8" },
-  { day:6, title:"Aug 13 · Surf, swim → LAX", drive:"7 AM–4 PM · ~3 hr · 180 mi", color:"#911eb4" },
+  { day:1, title:"Aug 8 · Land SEA → Seattle → Rainier gate", drive:"car ~3:45 PM · Ashford ~10:15 PM · 100 mi", color:"#e6194B" },
+  { day:2, title:"Aug 9 · Mount Rainier → Coast", drive:"6 AM gate · leave ~5:30 PM · 215 mi", color:"#009688" },
+  { day:3, title:"Aug 10 · The Oregon Coast", drive:"8 AM–7 PM · ~4.5 hr · 230 mi", color:"#f58231" },
+  { day:4, title:"Aug 11 · Redwoods", drive:"8 AM–7 PM · ~5 hr · 250 mi", color:"#ffb000" },
+  { day:5, title:"Aug 12 · Bay → Otter kayak → Salinas", drive:"7:30 AM–6 PM · ~6 hr · 300 mi", color:"#3cb44b" },
+  { day:6, title:"Aug 13 · Big Sur", drive:"8:30 AM–7 PM · ~5.5 hr · 250 mi", color:"#4363d8" },
+  { day:7, title:"Aug 14 · Surf, swim, Griffith sunset", drive:"7 AM–9 PM · ~4 hr · 200 mi", color:"#911eb4" },
+  { day:8, title:"Aug 15 · Fly home", drive:"car back 7:30 AM · ~15 mi", color:"#f032e6" },
 ];
 
 // kind: sight(numbered) · gem(★) · water(🌊) · bonus(+) · sleep(🛏) · air(✈)
 const STOPS = [
-  // DAY 1 · Aug 8 — Seattle on foot, then drive to the coast
-  {d:1, kind:"air", n:"SEA — Seattle-Tacoma Airport", t:"✈ land 12:27 PM · car 5 PM", ll:[47.4502,-122.3088], desc:"Land 12:27 PM. ★ BEST FIX: move the Hertz pickup earlier if you can (most reservations change free) — grab it ~1:30 PM and you get a real half-day. Otherwise ride the Link light rail downtown (~$3, ~40 min) and back for 5 PM."},
-  {d:1, kind:"sight", n:"Pike Place Market", t:"~1:45 PM · by Link train", ll:[47.6097,-122.3422], desc:"Link to Westlake, walk down to the market. Chowder, Piroshky Piroshky, the gum wall. Everything below is walkable from here — no car needed."},
+  // DAY 1 · Aug 8 — Land, Seattle evening, drive to the Rainier gate
+  {d:1, kind:"air", n:"SEA — Seattle-Tacoma Airport", t:"✈ land 2:50 PM · car ~3:45", ll:[47.4502,-122.3088], desc:"DL1045 lands 2:50 PM. Go straight to the Hertz counter — with the later landing there's no car-less downtown window anymore. Wheels by ~3:45, downtown by ~4:15."},
+  {d:1, kind:"sight", n:"Pike Place Market", t:"~4:30 PM · park nearby", ll:[47.6097,-122.3422], desc:"Produce stalls wind down after 5, but the market, chowder, Piroshky Piroshky, and the gum wall are still going. Park once (Pike Place garage) — everything downtown is walkable from here."},
   {d:1, kind:"bonus", n:"Waterfront + Seattle Great Wheel", t:"+ Pier 57 · ~$20", ll:[47.6062,-122.3425], desc:"Straight downhill from Pike Place on the rebuilt waterfront promenade. 175-ft Ferris wheel out over Elliott Bay, enclosed gondolas, ~12 min, big Sound + skyline views."},
-  {d:1, kind:"bonus", n:"Seattle Water Taxi (Pier 50)", t:"+ ~$6 · 10 min · best view", ll:[47.6017,-122.3384], desc:"Cheapest great thing in Seattle: passenger ferry to West Seattle. Best skyline-and-Rainier view in the city, Alki Beach on the far side. ~1 hr round trip."},
-  {d:1, kind:"bonus", n:"Space Needle + Chihuly Garden", t:"+ Monorail hop · ~$40", ll:[47.6205,-122.3493], desc:"One Monorail hop from downtown. Go up the Needle, or (better value) the Chihuly Garden & Glass next door. MoPOP — music/sci-fi/gaming — is right there too."},
-  {d:1, kind:"sleep", n:"Sleep: Seaside / Cannon Beach", t:"🛏 Night 1 · arrive ~9 PM", ll:[45.9932,-123.9226], desc:"Car @ 5 PM → depart ~5:30 → dinner in Astoria (Fort George) ~7:30 → Seaside ~9 PM. ~3.5–4 hr, 185 mi. Last stretch is dark, just cruising."},
-  // DAY 2 · Aug 9 — Oregon Coast
-  {d:2, kind:"gem", n:"Ecola State Park", t:"★ 8:00 AM · Goonies overlook", ll:[45.9284,-123.9762], desc:"THE cliff view of Haystack Rock, best in morning light. Reopened Apr 2026 after landslide repairs — check advisories."},
-  {d:2, kind:"sight", n:"Cannon Beach — Haystack Rock", t:"9:15 AM · ~1 hr", ll:[45.8846,-123.9684], desc:"235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."},
-  {d:2, kind:"bonus", n:"Hug Point", t:"+ 15 min · free", ll:[45.8264,-123.9612], desc:"At low tide, walk around the point to a hidden waterfall on the sand, sea caves, and an old wagon road carved into the cliff."},
-  {d:2, kind:"gem", n:"Neahkahnie Mountain Viewpoint", t:"★ 10:45 AM · pullout", ll:[45.7527,-123.9585], desc:"Roadside pullout in Oswald West SP with a near-180° view — one of the highest on the coast. Easy to miss the turnout."},
-  {d:2, kind:"sight", n:"Cape Kiwanda", t:"12:15 PM · lunch", ll:[45.2185,-123.9740], desc:"Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."},
-  {d:2, kind:"sight", n:"Cape Perpetua — Thor's Well", t:"3:15 PM · ~1.5 hr", ll:[44.2807,-124.1073], desc:"Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."},
-  {d:2, kind:"sight", n:"Heceta Head Lighthouse", t:"5:00 PM · roadside", ll:[44.1373,-124.1283], desc:"Most-photographed lighthouse in Oregon, on a cliff over a cove."},
-  {d:2, kind:"bonus", n:"Sea Lion Caves", t:"+ 45 min · $16", ll:[44.1219,-124.1281], desc:"Elevator down to the largest sea cave in the U.S. — ~200 wild sea lions inside. Right on 101 just south of Heceta Head."},
-  {d:2, kind:"bonus", n:"Sandboarding — Sand Master Park", t:"+ 1–2 hr · Florence · ~$16", ll:[43.9998,-124.1069], desc:"World's first sandboard park, in the Oregon Dunes. Rent a board and ride 40+ ft dunes. The most fun thing on Day 2 if you're on schedule."},
-  {d:2, kind:"sleep", n:"Sleep: Bandon / Coos Bay", t:"🛏 Night 2 · arrive ~7 PM", ll:[43.3665,-124.2179], desc:"Sunset at Bandon's Face Rock ~8:25 PM. Cheap motels in Coos Bay; Bandon is prettier."},
-  // DAY 3 · Aug 10 — Redwoods (no more night drive!)
-  {d:3, kind:"sight", n:"Bandon / Face Rock", t:"8:00 AM · morning walk", ll:[43.1190,-124.4084], desc:"Sea stacks and wide beach before the drive south."},
-  {d:3, kind:"sight", n:"Samuel Boardman Scenic Corridor", t:"★ 10:30 AM · best pullouts", ll:[42.2984,-124.3800], desc:"North of Brookings — the best cliff pullouts in Oregon. Natural Bridges & Secret Beach. Lunch in Brookings before crossing into CA."},
-  {d:3, kind:"gem", n:"Klamath River Overlook", t:"★ 1:00 PM · whales", ll:[41.5461,-124.0782], desc:"High bluff over the Klamath river-mouth — the least-crowded great overlook on the coast. Gray whales offshore."},
-  {d:3, kind:"sight", n:"Prairie Creek Redwoods — Fern Canyon", t:"2:00 PM · 2.5 hr", ll:[41.4000,-124.0637], desc:"World's tallest trees. Fern Canyon's 50-ft fern walls are the showstopper — needs a free day-use reservation + $12 cash. Rough access road. Watch for Roosevelt elk."},
-  {d:3, kind:"sight", n:"Avenue of the Giants", t:"5:00 PM · Founders Grove", ll:[40.3540,-123.9260], desc:"31-mile old-growth scenic alternate to 101. Walk among the giants at Founders Grove."},
-  {d:3, kind:"bonus", n:"Shrine Drive-Thru Tree", t:"+ 10 min · $15/car", ll:[40.2647,-123.8875], desc:"Roadside classic on the Avenue: drive your car THROUGH a living redwood. Cheesy, quick, great photo."},
-  {d:3, kind:"sleep", n:"Sleep: Garberville", t:"🛏 Night 3 · arrive ~6:30 PM", ll:[40.1018,-123.7930], desc:"Just south of Avenue of the Giants — cheap motels, no backtracking. THIS is the night the extra day bought you: no more overnight-split drive. Sleep properly, fuel up for Day 4."},
-  // DAY 4 · Aug 11 — Bay Area → otter kayak → Salinas
-  {d:4, kind:"gem", n:"Golden Gate — Battery Spencer", t:"★ ~12:30 PM · in daylight!", ll:[37.8329,-122.4795], desc:"Marin Headlands overlook for the classic bridge-and-city shot. You now hit this in DAYLIGHT instead of 11 PM — the other big win from the extra day."},
-  {d:4, kind:"water", n:"Elkhorn Slough kayak — sea otters", t:"🌊 3:00–5:00 PM · ~$50", ll:[36.8044,-121.7869], desc:"MAIN EVENT: Moss Landing has the densest sea otter population in California. Flat, calm, protected water — no surf, no cold-shock risk, otters/seals/pelicans within feet of the kayak. Book ahead; leave Garberville by 7:30 AM to make the launch window."},
-  {d:4, kind:"sleep", n:"Sleep: Salinas (NOT Monterey)", t:"🛏 Night 4 · arrive ~6 PM", ll:[36.6777,-121.6555], desc:"20 min inland and cheap — Monterey is sold out for Car Week. Rest up; Big Sur is tomorrow."},
-  // DAY 5 · Aug 12 — Big Sur
-  {d:5, kind:"sight", n:"Point Lobos", t:"8:30 AM · arrive early", ll:[36.5158,-121.9430], desc:"Cypress Grove / Bird Island loops at the north gateway to Big Sur. Small lot fills fast — get there early. China Cove is stunning."},
-  {d:5, kind:"gem", n:"Garrapata State Park — Soberanes Point", t:"★ 10:15 AM · hidden bluffs", ll:[36.4593,-121.9268], desc:"Unmarked turnouts (numbered gates 13–19), empty bluff trails. The Big Sur hardly anyone stops for."},
-  {d:5, kind:"sight", n:"Bixby Creek Bridge", t:"11:00 AM · check QuickMap", ll:[36.3714,-121.9018], desc:"The most photographed bridge on the coast. Use marked turnouts. Expect the Rocky Creek one-way delay (≤15 min)."},
-  {d:5, kind:"sight", n:"Pfeiffer Beach", t:"12:00 PM · keyhole arch", ll:[36.2384,-121.8172], desc:"Purple-tinged sand & the keyhole arch. Narrow access road, $12 cash."},
-  {d:5, kind:"gem", n:"Nepenthe", t:"★ 1:30 PM · best lunch view", ll:[36.2233,-121.7597], desc:"Cliffside patio 800 ft above the ocean. Café Kevah below is cheaper."},
-  {d:5, kind:"sight", n:"McWay Falls", t:"2:45 PM · roadside", ll:[36.1577,-121.6716], desc:"80-ft waterfall onto a cove beach. Overlook trail closed through 2026 — view from the roadside."},
-  {d:5, kind:"bonus", n:"Sand Dollar Beach & Jade Cove", t:"+ 30 min · free", ll:[35.9209,-121.4726], desc:"Big Sur's longest beach + the cove where you can find washed-up jade in the rocks at low tide."},
-  {d:5, kind:"bonus", n:"Ragged Point", t:"+ 20 min · free", ll:[35.7830,-121.3253], desc:"Last big pullout at the south end of Big Sur — short trail to a sweeping cliff view, plus café/gas/restrooms."},
-  {d:5, kind:"sight", n:"Piedras Blancas Elephant Seals", t:"3:45 PM · free", ll:[35.6628,-121.2558], desc:"Hundreds of elephant seals on the beach, free boardwalk. Better value than a Hearst Castle tour."},
-  {d:5, kind:"sight", n:"Morro Bay — Morro Rock", t:"5:30 PM · dinner", ll:[35.3658,-120.8499], desc:"Giant volcanic plug rising from the bay. Fish & chips on the Embarcadero. (Backup otter-kayak spot if Elkhorn didn't work out.)"},
-  {d:5, kind:"sleep", n:"Sleep: Pismo Beach", t:"🛏 Night 5 · arrive ~7 PM", ll:[35.1428,-120.6413], desc:"Beach town, cheap motels, and it shortens tomorrow's run to Malibu. Walk the pier at sunset (~7:55 PM)."},
-  // DAY 6 · Aug 13 — Surf, swim, LAX
-  {d:6, kind:"water", n:"Surf lesson — Malibu (Surfrider)", t:"🌊 10:00 AM–12 PM · ~$90", ll:[34.0381,-118.6770], desc:"Leave Pismo ~7 AM (~2.5 hr). Wetsuit included — water's ~69°F here, the warmest of the trip. Surfrider is a long, gentle, forgiving break: the classic first-timer wave. Book ahead."},
-  {d:6, kind:"sight", n:"El Matador State Beach", t:"12:30 PM · sea stacks", ll:[34.0369,-118.8790], desc:"Sea-stack photos, steep stairs to the sand. Quick stop after surfing (it's just west of Surfrider — grab it on the way in if easier)."},
-  {d:6, kind:"gem", n:"Point Dume", t:"★ 1:00 PM · Malibu view", ll:[34.0006,-118.8065], desc:"Short climb to a headland with a sweeping Malibu view; sea lions below."},
-  {d:6, kind:"water", n:"Santa Monica — swim + beach", t:"🌊 2:00 PM · free · lifeguards", ll:[34.0089,-118.4973], desc:"THE swim stop: ~69°F water, lifeguarded, gentle. Pier, Route 66 sign, Venice boardwalk & canals a short walk south. Actually get in the water here."},
-  {d:6, kind:"bonus", n:"Griffith Observatory / Hollywood Sign", t:"+ only if late flight", ll:[34.1184,-118.3004], desc:"The Hollywood Sign view. Fits ONLY if you rebooked a late (8–9 PM) departure — Griffith is inland, opposite LAX. If your flight is early evening, skip it and keep the beach."},
-  {d:6, kind:"air", n:"LAX — Los Angeles Airport", t:"✈ car back ~3:30 PM", ll:[33.9416,-118.4085], desc:"Return the Hertz car, be airside ~3 hrs before departure. Budget generously for LA traffic. Book the latest departure you can to squeeze in Griffith."},
+  {d:1, kind:"bonus", n:"Space Needle + Chihuly Garden", t:"+ ~$40 · if moving fast", ll:[47.6205,-122.3493], desc:"5 min drive from the market. Go up the Needle, or (better value) the Chihuly Garden & Glass next door. Only if you're ahead of schedule — Kerry Park at sunset matters more."},
+  {d:1, kind:"gem", n:"Kerry Park", t:"★ ~7:30 PM · sunset skyline", ll:[47.6295,-122.3599], desc:"THE Seattle postcard: skyline, Elliott Bay, and — on a clear evening — Mount Rainier floating behind the city. You'll be standing on its summit road tomorrow. Free, 5 min from downtown. Sunset ~8:25 PM; leave by 8 to make Ashford at a sane hour."},
+  {d:1, kind:"sleep", n:"Sleep: Ashford (Rainier gate)", t:"🛏 Night 1 · arrive ~10:15 PM", ll:[46.7570,-122.0350], desc:"~2 hr from downtown. Ashford/Elbe motels and cabins sit 6 mi from the Nisqually entrance — BOOK NOW, it's an August Saturday. Campsite alternative: Cougar Rock (inside the park). Grab breakfast food + hike snacks tonight; nothing opens before 7 AM."},
+  // DAY 2 · Aug 9 — Mount Rainier, then the evening run to the coast
+  {d:2, kind:"sight", n:"Nisqually Entrance", t:"6:00 AM · beat the gate", ll:[46.7409,-121.9165], desc:"In before 7 AM: historically exempt from timed-entry windows (VERIFY 2026 rules on nps.gov), no line, and first light on the mountain. $30/vehicle, card OK. Full tank in Ashford — no gas in the park."},
+  {d:2, kind:"bonus", n:"Christine Falls", t:"+ 10 min · roadside", ll:[46.7808,-121.7802], desc:"69-ft falls framed by a stone bridge, steps from the pullout. Classic quick shot on the climb to Paradise."},
+  {d:2, kind:"sight", n:"Narada Falls", t:"6:45 AM · 15 min", ll:[46.7749,-121.7466], desc:"168-ft curtain waterfall; short steep path to the base viewpoint for rainbows in the mist."},
+  {d:2, kind:"gem", n:"Paradise — Skyline Trail", t:"★ 7:15 AM–1 PM · MAIN EVENT", ll:[46.7868,-121.7367], desc:"The best day-hike in Washington: 5.5-mi loop, ~1,450 ft up, to Panorama Point staring straight at the glaciers. August = peak wildflowers + marmots everywhere. Layers + water; snowfields linger — stay on trail. Shorter option: Skyline to Myrtle Falls (1 mi, flat)."},
+  {d:2, kind:"sight", n:"Reflection Lakes", t:"1:30 PM · roadside", ll:[46.7683,-121.7310], desc:"The mirror shot of Rainier, right off Stevens Canyon Rd, 10 min past Paradise. Calmest water midday-ish; then backtrack out the Nisqually gate. (Grove of the Patriarchs is still closed — don't detour for it.)"},
+  {d:2, kind:"sleep", n:"Sleep: Seaside / Cannon Beach", t:"🛏 Night 2 · arrive ~10 PM", ll:[45.9932,-123.9226], desc:"Leave the park by ~5:30 PM (7 PM is the absolute ceiling — that's a midnight-ish arrival). ~3.5–4 hr, 175 mi via Astoria: dinner there (Fort George) ~8:30 if you're on time. Last stretch is dark, just cruising."},
+  // DAY 3 · Aug 10 — Oregon Coast
+  {d:3, kind:"gem", n:"Ecola State Park", t:"★ 8:00 AM · Goonies overlook", ll:[45.9284,-123.9762], desc:"THE cliff view of Haystack Rock, best in morning light. Reopened Apr 2026 after landslide repairs — check advisories."},
+  {d:3, kind:"sight", n:"Cannon Beach — Haystack Rock", t:"9:15 AM · ~1 hr", ll:[45.8846,-123.9684], desc:"235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."},
+  {d:3, kind:"bonus", n:"Hug Point", t:"+ 15 min · free", ll:[45.8264,-123.9612], desc:"At low tide, walk around the point to a hidden waterfall on the sand, sea caves, and an old wagon road carved into the cliff."},
+  {d:3, kind:"gem", n:"Neahkahnie Mountain Viewpoint", t:"★ 10:45 AM · pullout", ll:[45.7527,-123.9585], desc:"Roadside pullout in Oswald West SP with a near-180° view — one of the highest on the coast. Easy to miss the turnout."},
+  {d:3, kind:"sight", n:"Cape Kiwanda", t:"12:15 PM · lunch", ll:[45.2185,-123.9740], desc:"Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."},
+  {d:3, kind:"sight", n:"Cape Perpetua — Thor's Well", t:"3:15 PM · ~1.5 hr", ll:[44.2807,-124.1073], desc:"Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."},
+  {d:3, kind:"sight", n:"Heceta Head Lighthouse", t:"5:00 PM · roadside", ll:[44.1373,-124.1283], desc:"Most-photographed lighthouse in Oregon, on a cliff over a cove."},
+  {d:3, kind:"bonus", n:"Sea Lion Caves", t:"+ 45 min · $16", ll:[44.1219,-124.1281], desc:"Elevator down to the largest sea cave in the U.S. — ~200 wild sea lions inside. Right on 101 just south of Heceta Head."},
+  {d:3, kind:"bonus", n:"Sandboarding — Sand Master Park", t:"+ 1–2 hr · Florence · ~$16", ll:[43.9998,-124.1069], desc:"World's first sandboard park, in the Oregon Dunes. Rent a board and ride 40+ ft dunes. The most fun thing on Day 3 if you're on schedule."},
+  {d:3, kind:"sleep", n:"Sleep: Bandon / Coos Bay", t:"🛏 Night 3 · arrive ~7 PM", ll:[43.3665,-124.2179], desc:"Sunset at Bandon's Face Rock ~8:25 PM. Cheap motels in Coos Bay; Bandon is prettier."},
+  // DAY 4 · Aug 11 — Redwoods
+  {d:4, kind:"sight", n:"Bandon / Face Rock", t:"8:00 AM · morning walk", ll:[43.1190,-124.4084], desc:"Sea stacks and wide beach before the drive south."},
+  {d:4, kind:"sight", n:"Samuel Boardman Scenic Corridor", t:"★ 10:30 AM · best pullouts", ll:[42.2984,-124.3800], desc:"North of Brookings — the best cliff pullouts in Oregon. Natural Bridges & Secret Beach. Lunch in Brookings before crossing into CA."},
+  {d:4, kind:"gem", n:"Klamath River Overlook", t:"★ 1:00 PM · whales", ll:[41.5461,-124.0782], desc:"High bluff over the Klamath river-mouth — the least-crowded great overlook on the coast. Gray whales offshore."},
+  {d:4, kind:"sight", n:"Prairie Creek Redwoods — Fern Canyon", t:"2:00 PM · 2.5 hr", ll:[41.4000,-124.0637], desc:"World's tallest trees. Fern Canyon's 50-ft fern walls are the showstopper — needs a free day-use reservation + $12 cash. Rough access road. Watch for Roosevelt elk."},
+  {d:4, kind:"sight", n:"Avenue of the Giants", t:"5:00 PM · Founders Grove", ll:[40.3540,-123.9260], desc:"31-mile old-growth scenic alternate to 101. Walk among the giants at Founders Grove."},
+  {d:4, kind:"bonus", n:"Shrine Drive-Thru Tree", t:"+ 10 min · $15/car", ll:[40.2647,-123.8875], desc:"Roadside classic on the Avenue: drive your car THROUGH a living redwood. Cheesy, quick, great photo."},
+  {d:4, kind:"sleep", n:"Sleep: Garberville", t:"🛏 Night 4 · arrive ~6:30 PM", ll:[40.1018,-123.7930], desc:"Just south of Avenue of the Giants — cheap motels, no backtracking. Sleep properly, fuel up for the Bay run tomorrow."},
+  // DAY 5 · Aug 12 — Bay Area → otter kayak → Salinas
+  {d:5, kind:"gem", n:"Golden Gate — Battery Spencer", t:"★ ~12:30 PM · in daylight!", ll:[37.8329,-122.4795], desc:"Marin Headlands overlook for the classic bridge-and-city shot — in daylight, not at 11 PM, because nobody is night-driving this trip."},
+  {d:5, kind:"water", n:"Elkhorn Slough kayak — sea otters", t:"🌊 3:00–5:00 PM · ~$50", ll:[36.8044,-121.7869], desc:"MAIN EVENT: Moss Landing has the densest sea otter population in California. Flat, calm, protected water — no surf, no cold-shock risk, otters/seals/pelicans within feet of the kayak. Book for Aug 12; leave Garberville by 7:30 AM to make the launch window."},
+  {d:5, kind:"sleep", n:"Sleep: Salinas (NOT Monterey)", t:"🛏 Night 5 · arrive ~6 PM", ll:[36.6777,-121.6555], desc:"20 min inland and cheap — Monterey is sold out for Car Week. Rest up; Big Sur is tomorrow."},
+  // DAY 6 · Aug 13 — Big Sur
+  {d:6, kind:"sight", n:"Point Lobos", t:"8:30 AM · arrive early", ll:[36.5158,-121.9430], desc:"Cypress Grove / Bird Island loops at the north gateway to Big Sur. Small lot fills fast — get there early. China Cove is stunning."},
+  {d:6, kind:"gem", n:"Garrapata State Park — Soberanes Point", t:"★ 10:15 AM · hidden bluffs", ll:[36.4593,-121.9268], desc:"Unmarked turnouts (numbered gates 13–19), empty bluff trails. The Big Sur hardly anyone stops for."},
+  {d:6, kind:"sight", n:"Bixby Creek Bridge", t:"11:00 AM · check QuickMap", ll:[36.3714,-121.9018], desc:"The most photographed bridge on the coast. Use marked turnouts. Expect the Rocky Creek one-way delay (≤15 min)."},
+  {d:6, kind:"sight", n:"Pfeiffer Beach", t:"12:00 PM · keyhole arch", ll:[36.2384,-121.8172], desc:"Purple-tinged sand & the keyhole arch. Narrow access road, $12 cash."},
+  {d:6, kind:"gem", n:"Nepenthe", t:"★ 1:30 PM · best lunch view", ll:[36.2233,-121.7597], desc:"Cliffside patio 800 ft above the ocean. Café Kevah below is cheaper."},
+  {d:6, kind:"sight", n:"McWay Falls", t:"2:45 PM · roadside", ll:[36.1577,-121.6716], desc:"80-ft waterfall onto a cove beach. Overlook trail closed through 2026 — view from the roadside."},
+  {d:6, kind:"bonus", n:"Sand Dollar Beach & Jade Cove", t:"+ 30 min · free", ll:[35.9209,-121.4726], desc:"Big Sur's longest beach + the cove where you can find washed-up jade in the rocks at low tide."},
+  {d:6, kind:"bonus", n:"Ragged Point", t:"+ 20 min · free", ll:[35.7830,-121.3253], desc:"Last big pullout at the south end of Big Sur — short trail to a sweeping cliff view, plus café/gas/restrooms."},
+  {d:6, kind:"sight", n:"Piedras Blancas Elephant Seals", t:"3:45 PM · free", ll:[35.6628,-121.2558], desc:"Hundreds of elephant seals on the beach, free boardwalk. Better value than a Hearst Castle tour."},
+  {d:6, kind:"sight", n:"Morro Bay — Morro Rock", t:"5:30 PM · dinner", ll:[35.3658,-120.8499], desc:"Giant volcanic plug rising from the bay. Fish & chips on the Embarcadero. (Backup otter-kayak spot if Elkhorn didn't work out.)"},
+  {d:6, kind:"sleep", n:"Sleep: Pismo Beach", t:"🛏 Night 6 · arrive ~7 PM", ll:[35.1428,-120.6413], desc:"Beach town, cheap motels, and it shortens tomorrow's run to Malibu. Walk the pier at sunset (~7:55 PM)."},
+  // DAY 7 · Aug 14 — Surf, swim, Griffith sunset
+  {d:7, kind:"water", n:"Surf lesson — Malibu (Surfrider)", t:"🌊 10:00 AM–12 PM · ~$90", ll:[34.0381,-118.6770], desc:"Leave Pismo ~7 AM (~2.5 hr). Wetsuit included — water's ~69°F here, the warmest of the trip. Surfrider is a long, gentle, forgiving break: the classic first-timer wave. Book for Aug 14."},
+  {d:7, kind:"sight", n:"El Matador State Beach", t:"12:30 PM · sea stacks", ll:[34.0369,-118.8790], desc:"Sea-stack photos, steep stairs to the sand. Quick stop after surfing (it's just west of Surfrider — grab it on the way in if easier)."},
+  {d:7, kind:"gem", n:"Point Dume", t:"★ 1:30 PM · Malibu view", ll:[34.0006,-118.8065], desc:"Short climb to a headland with a sweeping Malibu view; sea lions below."},
+  {d:7, kind:"water", n:"Santa Monica — swim + beach", t:"🌊 2:30 PM · free · lifeguards", ll:[34.0089,-118.4973], desc:"THE swim stop: ~69°F water, lifeguarded, gentle. Pier, Route 66 sign — actually get in the water here. No flight to catch today, so stay as long as it's fun."},
+  {d:7, kind:"bonus", n:"Venice Beach Boardwalk", t:"+ 4:30 PM · free", ll:[33.9850,-118.4695], desc:"Skate park, Muscle Beach, street performers, the canals two blocks in. A short hop south of Santa Monica while you're already sandy."},
+  {d:7, kind:"sight", n:"Griffith Observatory — Hollywood Sign", t:"6:30 PM · sunset · free", ll:[34.1184,-118.3004], desc:"It fits now — no flight tonight. Free observatory, the Hollywood Sign view, and the city lighting up at sunset (~7:45 PM). Dinner near Los Feliz or on the way to the hotel."},
+  {d:7, kind:"sleep", n:"Sleep: near LAX (El Segundo / Inglewood)", t:"🛏 Night 7 · arrive ~9:30 PM", ll:[33.9192,-118.4165], desc:"Last night. Airport-adjacent motel keeps the morning drive under 15 min. Gas up TONIGHT (return the car full) and pack — tomorrow starts early."},
+  // DAY 8 · Aug 15 — Fly home
+  {d:8, kind:"air", n:"LAX — Los Angeles Airport", t:"✈ car back 7:30 AM · DL2568 10:59 AM", ll:[33.9416,-118.4085], desc:"Return the Hertz car ~7:30 AM, shuttle to the terminal, airside by ~8:00. DL2568 departs 10:59 AM, lands San Antonio 3:59 PM. Trip done — 8 days, ~1,550 miles, one whole coast."},
 ];
 
 const map = L.map('map', { scrollWheelZoom:true });
@@ -274,7 +297,7 @@ DAYS.forEach(dd => { layers[dd.day] = L.layerGroup().addTo(map); routeLayers[dd.
 const CUSTOM_STORAGE_KEY = 'pacific-coast-trip.custom-places.v1';
 const escapeHTML = value => String(value ?? '').replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
 const validCustomPlace = place => place && typeof place.id === 'string' && typeof place.name === 'string'
-  && Number.isInteger(place.d) && place.d >= 1 && place.d <= 6 && Array.isArray(place.ll)
+  && Number.isInteger(place.d) && place.d >= 1 && place.d <= 8 && Array.isArray(place.ll)
   && place.ll.length === 2 && place.ll.every(Number.isFinite);
 
 function loadCustomPlaces(){

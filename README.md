@@ -1,8 +1,8 @@
 # Pacific Coast Road Trip 🌲🌊🌴
 
-**Seattle → Los Angeles · Aug 8–13, 2026 · 6 days, 5 nights · 3 travelers · ~1,200 miles**
+**Seattle → Los Angeles · Aug 8–15, 2026 · 8 days, 7 nights · 3 travelers · ~1,550 miles**
 
-A shareable trip site for three first-timers driving the Pacific Coast — Oregon coast, the Redwoods, Big Sur, and a real water day in SoCal.
+A shareable trip site for three first-timers driving the Pacific Coast — Mount Rainier, the Oregon coast, the Redwoods, Big Sur, a real water day in SoCal, and a full LA day ending at Griffith at sunset.
 
 ## 🔗 Live site
 
@@ -11,23 +11,23 @@ Once deployed, share the Vercel link. Pages:
 | Page | What it is |
 |---|---|
 | `index.html` | Landing page — route overview, budget, water-safety, booking checklist |
-| `map.html` | **Interactive Leaflet map** — 43 planned stops, real driving routes, and your own saved places |
+| `map.html` | **Interactive Leaflet map** — 51 planned stops, real driving routes, and your own saved places |
 | `itinerary.html` | Hour-by-hour day-by-day plan, costs, booking list |
 | `food.html` | **Food along the way** — dietary-safe orders, public-menu prices, and cheap backups for four travelers |
-| `vishanth-plan.html` | **Vishanth’s Extensive Plan** — full visual day-by-day plan with route overview, directions, photos, reservations, and cut-if-late rules |
+| `anudeep-plan.html` | **Anudeep’s Master Plan** — full visual day-by-day plan with route overview, directions, photos, reservations, and cut-if-late rules |
 | `filming.html` | **Filming &amp; Scenic Spots** — day-by-day shot guide with best light, access notes, drone rules, and five hero shots |
 
 ## 📂 Source files
 
 | File | What it is |
 |---|---|
-| `trip_data.json` | Machine-readable trip data: 6 days, 43 stops with coords, constraints, budget. **Source of truth.** |
+| `trip_data.json` | Machine-readable trip data: 8 days, 51 stops with coords, constraints, budget. **Source of truth.** |
 | `roadtrip_itinerary.md` | The itinerary in Markdown |
 | `CLAUDE_CODE_BRIEF.md` | Full project brief / handoff — locked-in facts, constraints, next tasks |
 
 ## ✏️ Editing the trip
 
-The map is a **single self-contained HTML file** — no build step. Two arrays near the top of the `<script>` in `map.html` drive the planned itinerary: `DAYS` (6 entries) and `STOPS` (43 entries). Edit those to change the shared trip plan.
+The map is a **single self-contained HTML file** — no build step. Two arrays near the top of the `<script>` in `map.html` drive the planned itinerary: `DAYS` (8 entries) and `STOPS` (51 entries). Edit those to change the shared trip plan.
 
 ### Adding your own places
 
@@ -56,7 +56,7 @@ awk 'f&&/<\/script>/{f=0} f{print} /<script>$/{f=1}' map.html > /tmp/app.js && n
 
 ## ⚠️ Keep these in any deliverable
 
-- **Water safety** — the northern half is not swimmable (sneaker waves, 52–59°F). Swimming only in SoCal on Day 6.
+- **Water safety** — the northern half is not swimmable (sneaker waves, 52–59°F). Swimming only in SoCal on Day 7.
 - **Cash-only** warnings — Fern Canyon $12, Pfeiffer Beach $12.
 - Prices/conditions verified **mid-July 2026** — reverify anything time-sensitive before the trip.
 
