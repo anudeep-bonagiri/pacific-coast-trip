@@ -44,15 +44,15 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 
 ## 2. Locked-in facts (do not re-litigate)
 
-**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 was replanned from Kelso, **compressed to essentials**, then **traded Bandon for sandboarding**: Astoria Column (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head, then Sand Master Park 4:45–6:30, sleeping **Coos Bay** (~7:40 PM, daylight). Ecola SP cut (duplicate Haystack view), Neahkahnie a drive-by, Hug Point/Sea Lion Caves cut. A proposed night drive to Brookings was **rejected** (3 hr of dark 101, breaks the no-night-driving rule, saves only ~90 min). Day 4 adjusts: depart Coos Bay 7:15, skip Face Rock, Samuel Boardman gets 2 full hours from 9:30; the rest of Day 4 and Days 5–8 are unchanged.
+**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 became an **Oregon speed-run** (9 AM Kelso departure; goal restated as more-California-less-Oregon): one icon stop each — Haystack 45 min, Kiwanda pizza, Thor's Well 30 min, Heceta photo — then a deliberate ~90-min night push to **Brookings** (~9:45 PM), an accepted exception to the no-night-driving rule. Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding, and Bandon all cut. Day 4 from Brookings is the payoff: Boardman 8–10 AM out the front door, Crescent City lunch, Klamath Overlook, Fern Canyon 12:30–2:30 (reservation Aug 11), Founders Grove, Garberville ~5:45. **The Hertz drop also moved: FRIDAY Aug 14 by 9 PM at LAX** — Day 7 gas-up happens before Griffith, leave the observatory 7:50, car back ~8:50, hotel shuttle; Day 8 is shuttle-only. Days 5–6 unchanged.
 
 **Travelers:** 3 people, 19–20 years old. **All under 21** — do not suggest bars/breweries as drinking activities (fine as restaurants). Budget-conscious: cheap motels, one room split 3 ways.
 
 **Flights — both BOOKED. No rebooking advice is needed anymore.**
 - **Out · Sat Aug 8:** DL2534 SAT 7:30 AM → LAX 8:33 AM, then DL1045 LAX 12:07 PM → **lands SEA 2:50 PM**. Delta, $124.
-- **Back · Sat Aug 15:** **DL2568 LAX 10:59 AM → SAT 3:59 PM.** Morning flight — car back at LAX ~7:30 AM, airside by ~8:00 AM.
+- **Back · Sat Aug 15:** **DL2568 LAX 10:59 AM → SAT 3:59 PM.** The car went back Friday night — Saturday is hotel shuttle ~8:30 AM, airside ~9.
 
-**Car:** Hertz — reservation **must be MODIFIED**: pickup **SEA ~3:45 PM Aug 8** (right after landing — the old 5 PM pickup and the car-less Link-light-rail downtown afternoon are dead), drop **LAX ~7:30 AM Aug 15**. Est **~$1,060 for 8 days** (was $663/6 — verify actual). Under-25 surcharge applies; **all three must be on the contract** to rotate drivers. Gas budgeted **~$290**.
+**Car:** Hertz — picked up SEA ~3:45 PM Aug 8; **drop UPDATED to LAX Friday Aug 14 by 9 PM** (7 days — verify the adjusted total vs the ~$1,060/8-day estimate). Under-25 surcharge applies; **all three are on the contract** to rotate drivers. Gas budgeted **~$290**.
 
 **Decisions already made (with reasons):**
 - **Trip extended to Aug 15 (8 days, 7 nights)** — bought a full **Mount Rainier day** and a full **LA day**, with the return flight booked for Sat morning.
@@ -68,12 +68,13 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 - **User chose** surf lesson + otter kayak + SoCal swimming. **Declined** ATV dunes.
 
 **Hard constraints:**
+0. **Car back at LAX FRIDAY Aug 14 by 9:00 PM** (modified drop) — gas before Griffith, leave the observatory 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for the 10:59 flight.
 1. **Mount Rainier** — enter the Nisqually gate **before 7 AM on Aug 9**; pre-7 AM entry has historically been exempt from timed-entry windows, but **VERIFY 2026 rules on nps.gov** and grab a reservation if required. $30/vehicle. No gas in the park; Grove of the Patriarchs remains closed.
 2. **Monterey Car Week Aug 7–16** — do NOT book Monterey/Carmel/Big Sur lodging (sold out, $500+/night).
 3. **Big Sur Hwy 1** is open, but **Rocky Creek Bridge has 24/7 one-way signal control through Aug 31** (≤15 min delay). Check Caltrans QuickMap the morning of Day 6.
 4. **Fern Canyon** — free day-use reservation required **for Aug 11** (May 15–Sep 15 rule), **plus $12 CASH** (no cards).
 5. **Pfeiffer Beach** — **$12 CASH** only.
-6. **Return is a MORNING flight** — car back at LAX ~7:30 AM, **airside by ~8:00 AM Aug 15**.
+6. **Return is a MORNING flight** — DL2568 at 10:59 AM Aug 15; no car that morning (see constraint 0), hotel shuttle ~8:30, **airside by ~9:00 AM**.
 
 ---
 
@@ -95,12 +96,12 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 |---|---|---|---|---|
 | 1 | Sat Aug 8 | Land SEA 2:50 → car ~3:45 → Pike Place, Great Wheel → Kerry Park sunset → drive to the Rainier gate | Ashford | ~2.5 hr / 100 mi |
 | 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 | **ACTUAL: Quality Inn, Kelso WA** (stopped short of the coast) | ~4 hr / ~130 mi |
-| 3 | Mon Aug 10 | **Compressed + traded:** Kelso 7:15 → Astoria Column (missed Day 2 stop, recovered) → Haystack Rock from the sand → Cape Kiwanda lunch → Thor's Well 3:15 → Heceta Head 4:15 → **sandboarding at Sand Master Park 4:45–6:30** (back in, paid for by dropping Bandon). Cut: Ecola, Hug Point, Sea Lion Caves, Bandon; Neahkahnie drive-by only | Coos Bay ~7:40 PM (daylight) | ~5.5 hr / ~270 mi |
-| 4 | Tue Aug 11 | Coos Bay 7:15 → **Samuel Boardman 9:30, 2 full hours in morning light** (Face Rock skipped) → Klamath Overlook → Fern Canyon → Avenue of the Giants | Garberville | ~5.5 hr / ~270 mi |
+| 3 | Mon Aug 10 | **Speed-run (9 AM start, goal = California):** Kelso 9:00 → Haystack Rock 11:15 (45 min) → Kiwanda pizza 1:15 → Thor's Well 4:30 (30 min) → Heceta photo 5:15 → Coos Bay dinner/fuel 6:50 → night push south (last ~90 min dark, accepted). Cut: Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding, Bandon | **Brookings ~9:45 PM** | ~8 hr / ~380 mi |
+| 4 | Tue Aug 11 | **Payoff day:** Boardman 8:00 out the front door (2 hr, morning light) → Crescent City lunch 11:00 → Klamath Overlook 11:45 → Fern Canyon 12:30–2:30 → Founders Grove 4:30 (+drive-thru tree) | Garberville ~5:45 PM | ~4.5 hr / ~200 mi |
 | 5 | Wed Aug 12 | Golden Gate (daylight, ~12:30) → 🌊 **Elkhorn Slough otter kayak** 3–5 PM | Salinas | ~6 hr / 300 mi |
 | 6 | Thu Aug 13 | Point Lobos → Garrapata → Bixby → Pfeiffer → Nepenthe → McWay → elephant seals → Morro Bay | Pismo Beach | ~5.5 hr / 250 mi |
-| 7 | Fri Aug 14 | 🌊 **Malibu surf lesson** 10–12 → El Matador → Point Dume → 🌊 **Santa Monica swim** 2:30 → Venice → **Griffith sunset** 6:30 | near LAX (El Segundo/Inglewood) — gas up tonight | ~4 hr / 200 mi |
-| 8 | Sat Aug 15 | Car back 7:30 AM → airside ~8:00 → DL2568 10:59 AM → SAT 3:59 PM | fly home | ~15 mi |
+| 7 | Fri Aug 14 | 🌊 **Malibu surf lesson** 10–12 → El Matador → Point Dume → 🌊 **Santa Monica swim** 2:30 → Venice → gas up → **Griffith sunset** 6:30, leave 7:50 → **Hertz LAX by 9 PM** | near LAX via hotel shuttle | ~4.5 hr / ~215 mi |
+| 8 | Sat Aug 15 | No car (returned Friday 9 PM) → hotel shuttle ~8:30 → airside ~9:00 → DL2568 10:59 AM → SAT 3:59 PM | fly home | shuttle |
 
 Full hour-by-hour timings are in `roadtrip_itinerary.md`; all 51 stops with coordinates and descriptions are in `trip_data.json`.
 

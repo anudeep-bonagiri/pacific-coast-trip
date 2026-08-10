@@ -4,7 +4,7 @@ Seattle → LA, skipping the Olympic Peninsula. Three of you, Hertz car, cheap l
 
 **Flights (both BOOKED)**
 - **Out · Sat Aug 8:** DL2534 SAT 7:30 AM → LAX 8:33 AM, then DL1045 LAX 12:07 PM → **land SEA 2:50 PM**. Car pickup **~3:45 PM**, right after landing.
-- **Back · Sat Aug 15:** DL2568 **LAX 10:59 AM → SAT 3:59 PM**. Morning flight — return the car ~7:30 AM, be airside by ~8:00 AM.
+- **Back · Sat Aug 15:** DL2568 **LAX 10:59 AM → SAT 3:59 PM**. **Car goes back FRIDAY 9 PM** — Saturday is hotel-shuttle only (~8:30 AM, airside by ~9).
 
 ---
 
@@ -70,24 +70,22 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | ~5:30 PM | Leave the park (**7 PM is the absolute ceiling** — that's a midnight-ish coast arrival) |
 | **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
-### DAY 3 — Mon Aug 10 · Kelso → Coast + sandboarding *(compressed + traded)*
-Trimmed to the most important stops, with the freed time recovering **Astoria** (the missed Day 2 stop) — and **sandboarding is back in, paid for by dropping Bandon**: sleep is Coos Bay tonight. **Cut:** Ecola SP (same Haystack Rock you see free from the sand), Hug Point, Sea Lion Caves, the Bandon detour; Neahkahnie is a 5-min drive-by photo only. *(The night-drive-to-Brookings idea was rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min of tomorrow morning.)*
+### DAY 3 — Mon Aug 10 · Oregon speed-run → Brookings *(9 AM start · goal: California)*
+The 9 AM Kelso departure + the restated goal (more California, less Oregon) turn today into a speed-run: one icon stop each, then push south past Bandon to **Brookings** — waking up 10 minutes from Samuel Boardman. The last ~90 min is after dark: a deliberate, accepted exception to the no-night-driving rule. Drive it slow, watch for deer/elk, swap drivers. **Cut today:** Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding (you pass Florence too close to closing), Bandon.
 
 | Time | Plan |
 |---|---|
-| 7:15 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge, then US-30 west along the Columbia. **Two calls from the road: book tonight's Coos Bay room + confirm Sand Master Park's closing time/boards** |
-| 8:30 AM | **Astoria** — the missed Day 2 stop, recovered: **Astoria Column** ($5/car, 360° view of the Columbia mouth) + coffee/breakfast by the Riverwalk. Out by 9:15 |
-| 9:45 AM | **Cannon Beach — Haystack Rock** — THE morning stop: 235-ft monolith from the sand, tide pools if low. ⚠ Sneaker waves — stay up the beach, off the logs. ~1 hr |
+| 9:00 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge → US-30, roll through Astoria ~10:45 without stopping. **Book the Brookings room from the road NOW** |
+| 11:15 AM | **Cannon Beach — Haystack Rock** — the ONE North Coast stop: 45 min on the sand. ⚠ Sneaker waves — stay up the beach, off the logs |
 | en route | *Neahkahnie viewpoint — 5-min drive-by photo only* |
-| 12:00 PM | **Cape Kiwanda** — Doryland opens at noon: order the vegetarian + BBQ chicken pizzas immediately, climb the dune while they bake. **Out by 1:15** |
-| 3:15 PM | **Cape Perpetua / Thor's Well** — ~45 min; check the tide chart; restrooms |
-| 4:15 PM | **Heceta Head Lighthouse** — 15 min roadside viewpoint |
-| 4:45–6:30 PM | 🏄 **Sandboarding — Sand Master Park, Florence** (~$16) — 40-ft dunes at the world's first sandboard park. The fun Day 3 thing, recovered |
-| ~7:40 PM | **Coos Bay** — arrive in daylight (sunset 8:24), check in, dinner in town. Tomorrow starts 7:15 AM sharp |
+| 1:15 PM | **Cape Kiwanda** — call Doryland ~12:45 to order ahead (vegetarian + BBQ chicken pizzas); eat, quick dune look, **out by 2:15** |
+| 4:30 PM | **Cape Perpetua / Thor's Well** — 30 min, whatever the tide's doing |
+| 5:15 PM | **Heceta Head** — 10-min photo pullout |
+| 6:50 PM | **Coos Bay** — quick dinner + full tank, out by 7:30 |
+| ~9:45 PM | **Brookings** — ~110 mi south of Coos Bay, last ~90 min dark. Sleep; tomorrow starts at Boardman, out the front door |
 
-### DAY 4 — Tue Aug 11 · Boardman + Redwoods
-7:15 **depart Coos Bay** (fuel up; Bandon/Face Rock skipped — the payoff is below) → 9:30 **Samuel Boardman — 2 FULL HOURS** in morning light (Natural Bridges, Secret Beach/Thunder Rock, Arch Rock) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation **for Aug 11** + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep
-
+### DAY 4 — Tue Aug 11 · Boardman + the Redwoods *(the payoff day)*
+8:00 **Samuel Boardman — 2 full hours** in morning light, 10 min from the motel (Natural Bridges, Secret Beach/Thunder Rock, Arch Rock, Whaleshead) → 10:15 depart south (Khun Thai won't be open — see food page for backups) → 11:00 **lunch in Crescent City**, quick → 11:45 **Klamath River Overlook** (20 min, whales) → 12:30–2:30 **Fern Canyon** (reservation is for today + $12 cash; rough Davison Rd) → 4:30 **Avenue of the Giants / Founders Grove** → *+Shrine Drive-Thru Tree ($15) — the cool-stuff stop, it fits today* → ~5:45 **Garberville** — early arrival, real dinner, actual rest
 *No night driving anywhere on this trip — keep it that way.*
 
 ### DAY 5 — Wed Aug 12 · Bay Area → 🌊 otter kayak → Salinas
@@ -113,15 +111,15 @@ Trimmed to the most important stops, with the freed time recovering **Astoria** 
 | 1:30 PM | **Point Dume** — short climb, sweeping Malibu view, sea lions below |
 | 2:30 PM | 🌊 **Santa Monica — swim** (~69°F, lifeguarded) + pier, Route 66 sign. No flight today — stay as long as it's fun |
 | ~4:30 PM | **Venice Beach Boardwalk** — skate park, Muscle Beach, the canals two blocks in |
-| 6:30 PM | **Griffith Observatory / Hollywood Sign** — it fits now. Free, sunset ~7:45, city lights up. Dinner near Los Feliz or on the way to the hotel |
-| ~9:30 PM | **Near LAX (El Segundo / Inglewood)** — sleep. **Gas up TONIGHT** (return the car full) and pack — tomorrow starts early |
+| 6:30 PM | **Griffith Observatory / Hollywood Sign** — free, sunset ~7:45, city lights up. **HARD STOP: leave by 7:50 — the car is due back at 9** |
+| ~8:50 PM | **Return the Hertz car at LAX** (due 9 PM) — gas up BEFORE Griffith so this is a straight shot. Photograph the car + fuel gauge |
+| ~9:15 PM | **Hotel shuttle to El Segundo / Inglewood** — must be a hotel WITH an airport shuttle. Pack tonight |
 
 ### DAY 8 — Sat Aug 15 · Fly home
 | Time | Plan |
 |---|---|
-| ~7:15 AM | Depart the hotel (under 15 min to LAX) |
-| 7:30 AM | **Return the Hertz car**, shuttle to the terminal |
-| ~8:00 AM | Airside |
+| ~8:30 AM | **Hotel shuttle to LAX** — no car to return; it went back last night |
+| ~9:00 AM | Airside |
 | 10:59 AM | **DL2568** departs → lands **San Antonio 3:59 PM**. 8 days, ~1,550 miles, one whole coast |
 
 ---
@@ -148,7 +146,7 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 ## Booking checklist
 - ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
 - **Reserve:** Fern Canyon day-use for **Aug 11 — TOMORROW** (free, required), Elkhorn Slough kayak (**Aug 12, 3–5 PM**), Malibu surf lesson (**Aug 14, 10 AM**)
-- **Rooms still needed:** Coos Bay (**TONIGHT Aug 10** — Bandon dropped; book from the road this morning), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)
+- **Rooms still needed:** Brookings (**TONIGHT Aug 10** — book NOW), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14 — the car goes back Friday 9 PM)
 - **Cash:** Fern Canyon $12, Pfeiffer Beach $12 (no cards)
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before

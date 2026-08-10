@@ -39,9 +39,9 @@
     "vehicle": {
       "company": "Hertz",
       "pickup": "SEA airport, 2026-08-08 ~15:45 (right after landing)",
-      "dropoff": "LAX, 2026-08-15 ~07:30",
+      "dropoff": "LAX, 2026-08-14 ~21:00 (Friday 9 PM — trip is car-less Saturday morning)",
       "cost_usd": 1060,
-      "notes": "MODIFY RESERVATION: original was pickup 5 PM Aug 8 / drop Aug 13 ($663 for 6 days). New: pickup on landing Aug 8, drop LAX morning Aug 15 (8 days, est ~$1,060 — verify actual). Under-25 young-driver surcharge; put all 3 on contract to rotate drivers."
+      "notes": "MODIFY RESERVATION: original was pickup 5 PM Aug 8 / drop Aug 13 ($663 for 6 days). New: pickup on landing Aug 8, drop LAX morning Aug 15 (8 days, est ~$1,060 — verify actual). Under-25 young-driver surcharge; put all 3 on contract to rotate drivers. UPDATE Aug 10: drop is Friday Aug 14 ~9 PM at LAX (7 days) — Saturday morning is hotel-shuttle only; verify the adjusted total."
     },
     "flights": {
       "outbound": {
@@ -77,7 +77,8 @@
     "trip_log": [
       "ACTUAL Aug 9 (Day 2): did Rainier as planned, but ended the night at the Quality Inn in Kelso, WA (I-5 exit 39) instead of pushing to Seaside/Cannon Beach. Astoria dinner and the coast arrival didn't happen.",
       "REPLAN Aug 10 (Day 3), COMPRESSED: start from Kelso ~7:15 AM, US-30 through Astoria. Day trimmed to the essentials — Astoria Column/Riverwalk (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head. Ecola SP cut (duplicate Haystack view, $10 + slow park road); Neahkahnie is a drive-by photo only; Hug Point/Sea Lion Caves/sandboarding stay cut. Bandon ~6:45 PM — relaxed Face Rock sunset.",
-      "TRADE Aug 10: sandboarding (Sand Master Park, Florence, 4:45-6:30 PM) is back IN; Bandon is OUT — sleep Coos Bay instead. Night-drive-to-Brookings idea rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min. Instead: Coos Bay by ~7:40 PM (daylight), depart 7:15 AM, Samuel Boardman by 9:30 with 2 hours in morning light."
+      "TRADE Aug 10: sandboarding (Sand Master Park, Florence, 4:45-6:30 PM) is back IN; Bandon is OUT — sleep Coos Bay instead. Night-drive-to-Brookings idea rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min. Instead: Coos Bay by ~7:40 PM (daylight), depart 7:15 AM, Samuel Boardman by 9:30 with 2 hours in morning light.",
+      "CORRECTION + REPLAN Aug 10 (Day 3): the 9 AM constraint is TODAY'S Kelso departure (not tomorrow). Goal restated: minimize Oregon, maximize California's big things. Day 3 is now an Oregon speed-run — Haystack 45 min, Kiwanda pizza, Thor's Well 30 min, Heceta photo — then push to BROOKINGS ~9:45 PM (last ~90 min dark, accepted deliberately). Astoria Column and sandboarding cut. Day 4 from Brookings: Boardman 8-10 AM, Klamath Overlook, Fern Canyon 12:30-2:30, Founders Grove, Garberville ~5:45 — a full, unhurried CA day. ALSO: Hertz drop is now FRIDAY Aug 14 9 PM at LAX — Day 7 ends with the car return (gas before Griffith, leave by 7:50), Day 8 is hotel shuttle only."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -98,7 +99,7 @@
       "Big Sur Hwy 1 open but Rocky Creek Bridge has 24/7 one-way signal control through Aug 31 (<=15min delay) - check Caltrans QuickMap",
       "Fern Canyon requires free day-use reservation for Aug 11 (May15-Sep15 rule) + $12 CASH",
       "Pfeiffer Beach is $12 CASH only",
-      "Return flight is a MORNING flight: car back at LAX ~7:30 AM, airside by ~8:00 AM Aug 15"
+      "Car back at LAX FRIDAY Aug 14 by 9:00 PM (modified drop). Gas up before Griffith; leave the observatory by 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for DL2568 at 10:59 AM."
     ],
     "safety": {
       "water_temps_august": {
@@ -115,7 +116,7 @@
       "Fern Canyon day-use reservation for Aug 11 — TOMORROW; confirm it's booked + have $12 cash",
       "Elkhorn Slough kayak — Aug 12, 3-5 PM",
       "Malibu surf lesson — Aug 14, 10 AM",
-      "Rooms still needed: Coos Bay (TONIGHT Aug 10 — Bandon dropped), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)"
+      "Rooms still needed: Brookings (TONIGHT Aug 10 — book NOW), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area with AIRPORT SHUTTLE (Aug 14 — car goes back Friday night)"
     ]
   },
   "days": [
@@ -133,14 +134,14 @@
     },
     {
       "day": 3,
-      "title": "Aug 10 · Kelso → Coast + sandboarding",
-      "drive": "7:15 AM–7:40 PM · ~5.5 hr · ~270 mi",
+      "title": "Aug 10 · Oregon speed-run → Brookings",
+      "drive": "9 AM Kelso → ~9:45 PM · ~8 hr · ~380 mi",
       "color": "#f58231"
     },
     {
       "day": 4,
       "title": "Aug 11 · Boardman + Redwoods",
-      "drive": "7:15 AM Coos Bay → ~7:30 PM · ~5.5 hr · ~270 mi",
+      "drive": "8 AM Brookings → ~5:45 PM · ~4.5 hr · ~200 mi",
       "color": "#ffb000"
     },
     {
@@ -157,14 +158,14 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · Surf, swim, Griffith sunset",
-      "drive": "7 AM–9 PM · ~4 hr · 200 mi",
+      "title": "Aug 14 · Surf, swim, Griffith · car back 9 PM",
+      "drive": "7 AM · Hertz LAX by 9 PM · ~4.5 hr · ~215 mi",
       "color": "#911eb4"
     },
     {
       "day": 8,
       "title": "Aug 15 · Fly home",
-      "drive": "car back 7:30 AM · ~15 mi",
+      "drive": "no car — hotel shuttle ~8:30 AM",
       "color": "#f032e6"
     }
   ],
@@ -279,12 +280,12 @@
     },
     {
       "day": 3,
-      "kind": "sight",
-      "name": "Astoria — Column + Riverwalk",
-      "time": "8:30 AM · ~45 min · $5/car",
+      "kind": "bonus",
+      "name": "Astoria Column",
+      "time": "+ cut — 9 AM start",
       "lat": 46.1813,
       "lon": -123.8195,
-      "desc": "The Day 2 stop you missed, recovered: climb the 125-ft Astoria Column on Coxcomb Hill for the 360° view of the Columbia mouth, grab coffee/breakfast by the Riverwalk. You drive straight through town on US-30 anyway. Out by 9:15."
+      "desc": "Cut by the 9 AM Kelso departure — you roll through Astoria ~10:45 without stopping. California is the goal now."
     },
     {
       "day": 3,
@@ -299,7 +300,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cannon Beach — Haystack Rock",
-      "time": "9:45 AM · ~1 hr · THE morning stop",
+      "time": "11:15 AM · 45 min · the ONE North Coast stop",
       "lat": 45.8846,
       "lon": -123.9684,
       "desc": "235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."
@@ -326,7 +327,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Kiwanda",
-      "time": "12:00 PM · lunch · out by 1:15",
+      "time": "1:15 PM · pizza lunch · out by 2:15",
       "lat": 45.2185,
       "lon": -123.974,
       "desc": "Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."
@@ -335,7 +336,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Perpetua — Thor's Well",
-      "time": "3:15 PM · ~45 min",
+      "time": "4:30 PM · 30 min",
       "lat": 44.2807,
       "lon": -124.1073,
       "desc": "Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."
@@ -344,7 +345,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Heceta Head Lighthouse",
-      "time": "4:15 PM · 15 min roadside",
+      "time": "5:15 PM · 10-min photo pullout",
       "lat": 44.1373,
       "lon": -124.1283,
       "desc": "Most-photographed lighthouse in Oregon, on a cliff over a cove."
@@ -360,21 +361,21 @@
     },
     {
       "day": 3,
-      "kind": "sight",
+      "kind": "bonus",
       "name": "Sandboarding — Sand Master Park",
-      "time": "4:45–6:30 PM · ~$16 · call ahead",
+      "time": "+ cut — 9 AM start ate it",
       "lat": 43.9998,
       "lon": -124.1069,
-      "desc": "Back in the plan: world's first sandboard park, in the Oregon Dunes at Florence — rent a board and ride 40+ ft dunes for ~1.5 hr. CALL FROM THE ROAD THIS MORNING to confirm closing time and boards. Bought by dropping Bandon: sleep is Coos Bay tonight, 1 hr up the road."
+      "desc": "The 9 AM Kelso departure killed the sandboarding window (you pass Florence ~5:45, near closing). The trade goes to California instead: tonight's push to Brookings buys a full redwoods day tomorrow."
     },
     {
       "day": 3,
       "kind": "sleep",
-      "name": "Sleep: Coos Bay",
-      "time": "🛏 Night 3 · arrive ~7:40 PM",
-      "lat": 43.3665,
-      "lon": -124.2179,
-      "desc": "Coos Bay, not Bandon — the Bandon detour was traded for sandboarding, and stopping here keeps the no-night-driving rule (arrive ~7:40, sunset 8:24). Cheap motels, dinner in town, and tomorrow starts 7:15 AM sharp: Samuel Boardman by 9:30 in morning light, with 2 full hours there. Book the room from the road today."
+      "name": "Sleep: Brookings (speed-run south)",
+      "time": "🛏 Night 3 · Coos Bay dinner ~6:50 · arrive ~9:45 PM",
+      "lat": 42.0526,
+      "lon": -124.2839,
+      "desc": "The speed-run night: quick dinner + fuel in Coos Bay (~6:50-7:30), then ~110 mi south — the last ~90 min after dark, accepted deliberately to buy California time. Slow and steady, watch for deer/elk, swap drivers. Waking in Brookings puts Samuel Boardman 10 min out the door at 8 AM. Book the Brookings room NOW."
     },
     {
       "day": 4,
@@ -383,22 +384,22 @@
       "time": "+ cut — straight to Boardman",
       "lat": 43.119,
       "lon": -124.4084,
-      "desc": "Cut: sleeping in Coos Bay and skipping the Bandon detour buys Samuel Boardman two full hours in morning light instead of one."
+      "desc": "Cut — passed in the dark on the push to Brookings. Haystack today + Boardman tomorrow cover the sea-stack quota."
     },
     {
       "day": 4,
       "kind": "sight",
       "name": "Samuel Boardman Scenic Corridor",
-      "time": "★ 9:30 AM · 2 hr · best pullouts",
+      "time": "★ 8:00 AM · 2 hr · out the front door",
       "lat": 42.2984,
       "lon": -124.38,
-      "desc": "North of Brookings — the best cliff pullouts in Oregon. Natural Bridges & Secret Beach. Lunch in Brookings before crossing into CA."
+      "desc": "The best cliff pullouts in Oregon, 10 min from the Brookings motel — Natural Bridges, Secret Beach/Thunder Rock, Arch Rock, Whaleshead, all in morning light. Lunch: Khun Thai in Brookings likely isn't open this early — grab lunch in Crescent City ~11 AM instead."
     },
     {
       "day": 4,
       "kind": "gem",
       "name": "Klamath River Overlook",
-      "time": "★ 1:00 PM · whales",
+      "time": "★ 11:45 AM · 20 min · whales",
       "lat": 41.5461,
       "lon": -124.0782,
       "desc": "High bluff over the Klamath river-mouth — the least-crowded great overlook on the coast. Gray whales offshore."
@@ -407,7 +408,7 @@
       "day": 4,
       "kind": "sight",
       "name": "Prairie Creek Redwoods — Fern Canyon",
-      "time": "2:00 PM · 2.5 hr",
+      "time": "12:30–2:30 PM · reservation today",
       "lat": 41.4,
       "lon": -124.0637,
       "desc": "World's tallest trees. Fern Canyon's 50-ft fern walls are the showstopper — needs a free day-use reservation (for Aug 11) + $12 cash. Rough access road. Watch for Roosevelt elk."
@@ -416,7 +417,7 @@
       "day": 4,
       "kind": "sight",
       "name": "Avenue of the Giants",
-      "time": "5:00 PM · Founders Grove",
+      "time": "4:30 PM · Founders Grove",
       "lat": 40.354,
       "lon": -123.926,
       "desc": "31-mile old-growth scenic alternate to 101. Walk among the giants at Founders Grove."
@@ -434,7 +435,7 @@
       "day": 4,
       "kind": "sleep",
       "name": "Sleep: Garberville",
-      "time": "🛏 Night 4 · arrive ~6:30 PM",
+      "time": "🛏 Night 4 · arrive ~5:45 PM · easy evening",
       "lat": 40.1018,
       "lon": -123.793,
       "desc": "Just south of Avenue of the Giants — cheap motels, no backtracking. Sleep properly, fuel up for the Bay run tomorrow."
@@ -617,25 +618,25 @@
       "time": "6:30 PM · sunset · free",
       "lat": 34.1184,
       "lon": -118.3004,
-      "desc": "It fits now — no flight tonight. Free observatory, the Hollywood Sign view, and the city lighting up at sunset (~7:45 PM). Dinner near Los Feliz or on the way to the hotel."
+      "desc": "It fits now — no flight tonight. Free observatory, the Hollywood Sign view, and the city lighting up at sunset (~7:45 PM). HARD STOP: leave by 7:50 — the car is due back at LAX at 9 PM. Dinner near the hotel after the drop."
     },
     {
       "day": 7,
       "kind": "sleep",
       "name": "Sleep: near LAX (El Segundo / Inglewood)",
-      "time": "🛏 Night 7 · arrive ~9:30 PM",
+      "time": "🛏 Night 7 · via Hertz shuttle ~9:15 PM",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "Last night. Airport-adjacent motel keeps the morning drive under 15 min. Gas up TONIGHT (return the car full) and pack — tomorrow starts early."
+      "desc": "The car goes back TONIGHT at 9 PM: gas up BEFORE Griffith, leave the observatory by 7:50, Hertz LAX by ~8:50, then the hotel shuttle. Pick a hotel WITH an airport shuttle — you're car-less from here. Pack tonight; the morning is just breakfast and the shuttle."
     },
     {
       "day": 8,
       "kind": "air",
       "name": "LAX — Los Angeles Airport",
-      "time": "✈ car back 7:30 AM · DL2568 10:59 AM",
+      "time": "✈ no car — shuttle ~8:30 AM · DL2568 10:59 AM",
       "lat": 33.9416,
       "lon": -118.4085,
-      "desc": "Return the Hertz car ~7:30 AM, shuttle to the terminal, airside by ~8:00. DL2568 departs 10:59 AM, lands San Antonio 3:59 PM. Trip done — 8 days, ~1,550 miles, one whole coast."
+      "desc": "The car went back last night (Friday 9 PM). Hotel shuttle to the terminal ~8:30, airside by ~9. DL2568 departs 10:59 AM, lands San Antonio 3:59 PM. Trip done — 8 days, ~1,550 miles, one whole coast."
     }
   ]
 }
