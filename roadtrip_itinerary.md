@@ -70,8 +70,19 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | ~5:30 PM | Leave the park (**7 PM is the absolute ceiling** — that's a midnight-ish coast arrival) |
 | **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
-### DAY 3 — Mon Aug 10 · Kelso → The Oregon Coast *(replanned from the Kelso stop)*
-**7:00 depart the Quality Inn, Kelso** — full tank; cross the Lewis & Clark Bridge at Longview, then US-30 west along the Columbia (~2 hr to the coast) → *+Astoria Column ($5/car, 20 min) only if rolling by ~8:15 — you drive straight through Astoria* → 9:00 **Ecola SP** (Goonies overlook) → 10:00 **Cannon Beach/Haystack** → *+Hug Point only if tide + time allow* → 11:15 **Neahkahnie viewpoint** → 12:30 **Cape Kiwanda** + **Doryland Pizza** (vegetarian + BBQ chicken pizzas; order on arrival) → 4:00 **Cape Perpetua/Thor's Well** (~1 hr; check the tide chart; restrooms) → 5:15 **Heceta Head** → *Sea Lion Caves and sandboarding are cut today — late start* → ~8:00 **Bandon/Coos Bay** — straight to **Face Rock for sunset (~8:24)** if there's light, then sleep. **Book tonight's room from the road this morning.**
+### DAY 3 — Mon Aug 10 · Kelso → The Oregon Coast *(compressed — essentials only)*
+Trimmed to the most important stops, with the freed time spent recovering **Astoria** (the Day 2 stop that got missed). **Cut:** Ecola SP (same Haystack Rock you see free from the sand, minus the $10 fee and slow park road), Hug Point, Sea Lion Caves, sandboarding; Neahkahnie is a 5-min drive-by photo only.
+
+| Time | Plan |
+|---|---|
+| 7:15 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge, then US-30 west along the Columbia |
+| 8:30 AM | **Astoria** — the missed Day 2 stop, recovered: **Astoria Column** ($5/car, 360° view of the Columbia mouth) + coffee/breakfast by the Riverwalk. Out by 9:15 |
+| 9:45 AM | **Cannon Beach — Haystack Rock** — THE morning stop: 235-ft monolith from the sand, tide pools if low. ⚠ Sneaker waves — stay up the beach, off the logs. ~1 hr |
+| en route | *Neahkahnie viewpoint — 5-min drive-by photo only* |
+| 12:00 PM | **Cape Kiwanda** — Doryland opens at noon: order the vegetarian + BBQ chicken pizzas immediately, climb the dune while they bake. **Out by 1:15** |
+| 3:30 PM | **Cape Perpetua / Thor's Well** — ~45 min; check the tide chart; restrooms |
+| 4:45 PM | **Heceta Head Lighthouse** — 15 min roadside viewpoint |
+| ~6:45 PM | **Bandon/Coos Bay** — check in, unhurried dinner, then **Face Rock sunset (~8:24)**. **Book tonight's room from the road this morning.** |
 
 ### DAY 4 — Tue Aug 11 · Redwoods
 8:00 **Bandon/Face Rock** → 10:30 **Samuel Boardman** (Natural Bridges, Secret Beach) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation **for Aug 11** + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep

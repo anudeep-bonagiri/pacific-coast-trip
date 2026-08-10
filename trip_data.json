@@ -6,12 +6,30 @@
     "days": 8,
     "approx_miles": 1550,
     "pages": [
-      {"path": "index.html", "title": "Trip Home"},
-      {"path": "map.html", "title": "Interactive Map"},
-      {"path": "itinerary.html", "title": "Shared Itinerary"},
-      {"path": "food.html", "title": "Food Along the Way"},
-      {"path": "anudeep-plan.html", "title": "Anudeep's Master Plan"},
-      {"path": "filming.html", "title": "Filming & Scenic Spots"}
+      {
+        "path": "index.html",
+        "title": "Trip Home"
+      },
+      {
+        "path": "map.html",
+        "title": "Interactive Map"
+      },
+      {
+        "path": "itinerary.html",
+        "title": "Shared Itinerary"
+      },
+      {
+        "path": "food.html",
+        "title": "Food Along the Way"
+      },
+      {
+        "path": "anudeep-plan.html",
+        "title": "Anudeep's Master Plan"
+      },
+      {
+        "path": "filming.html",
+        "title": "Filming & Scenic Spots"
+      }
     ],
     "travelers": {
       "count": 3,
@@ -58,7 +76,7 @@
     },
     "trip_log": [
       "ACTUAL Aug 9 (Day 2): did Rainier as planned, but ended the night at the Quality Inn in Kelso, WA (I-5 exit 39) instead of pushing to Seaside/Cannon Beach. Astoria dinner and the coast arrival didn't happen.",
-      "REPLAN Aug 10 (Day 3): start from Kelso ~7 AM, cross the Lewis & Clark Bridge at Longview, US-30 west along the Columbia through Astoria (~2 hr to Ecola). All headline stops kept; Hug Point / Sea Lion Caves / sandboarding bonuses dropped. Bandon arrival ~8 PM, right at sunset."
+      "REPLAN Aug 10 (Day 3), COMPRESSED: start from Kelso ~7:15 AM, US-30 through Astoria. Day trimmed to the essentials — Astoria Column/Riverwalk (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head. Ecola SP cut (duplicate Haystack view, $10 + slow park road); Neahkahnie is a drive-by photo only; Hug Point/Sea Lion Caves/sandboarding stay cut. Bandon ~6:45 PM — relaxed Face Rock sunset."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -114,8 +132,8 @@
     },
     {
       "day": 3,
-      "title": "Aug 10 · Kelso → The Oregon Coast",
-      "drive": "7 AM–8 PM · ~6 hr · ~305 mi",
+      "title": "Aug 10 · Kelso → The Oregon Coast (compressed)",
+      "drive": "7:15 AM–6:45 PM · ~5.5 hr · ~295 mi",
       "color": "#f58231"
     },
     {
@@ -260,27 +278,27 @@
     },
     {
       "day": 3,
-      "kind": "bonus",
-      "name": "Astoria Column",
-      "time": "+ 20 min · $5/car · en route",
+      "kind": "sight",
+      "name": "Astoria — Column + Riverwalk",
+      "time": "8:30 AM · ~45 min · $5/car",
       "lat": 46.1813,
       "lon": -123.8195,
-      "desc": "You drive straight through Astoria on US-30 this morning — the 125-ft column on Coxcomb Hill has a 360° view of the Columbia mouth, and you missed Astoria last night. Only if you're rolling by ~8:15."
+      "desc": "The Day 2 stop you missed, recovered: climb the 125-ft Astoria Column on Coxcomb Hill for the 360° view of the Columbia mouth, grab coffee/breakfast by the Riverwalk. You drive straight through town on US-30 anyway. Out by 9:15."
     },
     {
       "day": 3,
-      "kind": "gem",
+      "kind": "bonus",
       "name": "Ecola State Park",
-      "time": "★ 9:00 AM · Goonies overlook",
+      "time": "+ cut in compressed plan",
       "lat": 45.9284,
       "lon": -123.9762,
-      "desc": "THE cliff view of Haystack Rock, best in morning light. ~2 hr from Kelso via US-30/Astoria — leave the Quality Inn by 7 AM. Reopened Apr 2026 after landslide repairs — check advisories."
+      "desc": "Cut to save ~1 hr: the same Haystack Rock you'll see free from the sand at Cannon Beach, plus a $10 fee and a slow narrow park road. Only go if you're somehow ahead of schedule."
     },
     {
       "day": 3,
       "kind": "sight",
       "name": "Cannon Beach — Haystack Rock",
-      "time": "10:00 AM · ~1 hr",
+      "time": "9:45 AM · ~1 hr · THE morning stop",
       "lat": 45.8846,
       "lon": -123.9684,
       "desc": "235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."
@@ -296,9 +314,9 @@
     },
     {
       "day": 3,
-      "kind": "gem",
+      "kind": "bonus",
       "name": "Neahkahnie Mountain Viewpoint",
-      "time": "★ 11:15 AM · pullout",
+      "time": "+ 5-min drive-by photo only",
       "lat": 45.7527,
       "lon": -123.9585,
       "desc": "Roadside pullout in Oswald West SP with a near-180° view — one of the highest on the coast. Easy to miss the turnout."
@@ -307,7 +325,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Kiwanda",
-      "time": "12:30 PM · lunch",
+      "time": "12:00 PM · lunch · out by 1:15",
       "lat": 45.2185,
       "lon": -123.974,
       "desc": "Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."
@@ -316,7 +334,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Perpetua — Thor's Well",
-      "time": "4:00 PM · ~1 hr",
+      "time": "3:30 PM · ~45 min",
       "lat": 44.2807,
       "lon": -124.1073,
       "desc": "Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."
@@ -325,7 +343,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Heceta Head Lighthouse",
-      "time": "5:15 PM · roadside",
+      "time": "4:45 PM · 15 min roadside",
       "lat": 44.1373,
       "lon": -124.1283,
       "desc": "Most-photographed lighthouse in Oregon, on a cliff over a cove."
@@ -352,10 +370,10 @@
       "day": 3,
       "kind": "sleep",
       "name": "Sleep: Bandon / Coos Bay",
-      "time": "🛏 Night 3 · arrive ~8 PM",
+      "time": "🛏 Night 3 · arrive ~6:45 PM",
       "lat": 43.3665,
       "lon": -124.2179,
-      "desc": "With the Kelso start you arrive ~8 PM — straight to Face Rock for sunset (~8:24 PM) if there's light. Cheap motels in Coos Bay; Bandon is prettier. Book the room from the road today."
+      "desc": "Compressed day gets you in ~6:45 PM — check in, unhurried dinner, then Face Rock for sunset (~8:24 PM). Cheap motels in Coos Bay; Bandon is prettier. Book the room from the road today."
     },
     {
       "day": 4,
