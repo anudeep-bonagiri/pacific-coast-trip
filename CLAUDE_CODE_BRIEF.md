@@ -44,7 +44,7 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 
 ## 2. Locked-in facts (do not re-litigate)
 
-**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 was replanned from Kelso and then **compressed to essentials**: Astoria (Column + Riverwalk — recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head; Ecola SP was cut (duplicate Haystack view, $10 + slow park road), Neahkahnie demoted to a drive-by, all other bonuses cut. Bandon arrival ~6:45 PM for a relaxed Face Rock sunset. Days 4–8 are unchanged.
+**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 was replanned from Kelso, **compressed to essentials**, then **traded Bandon for sandboarding**: Astoria Column (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head, then Sand Master Park 4:45–6:30, sleeping **Coos Bay** (~7:40 PM, daylight). Ecola SP cut (duplicate Haystack view), Neahkahnie a drive-by, Hug Point/Sea Lion Caves cut. A proposed night drive to Brookings was **rejected** (3 hr of dark 101, breaks the no-night-driving rule, saves only ~90 min). Day 4 adjusts: depart Coos Bay 7:15, skip Face Rock, Samuel Boardman gets 2 full hours from 9:30; the rest of Day 4 and Days 5–8 are unchanged.
 
 **Travelers:** 3 people, 19–20 years old. **All under 21** — do not suggest bars/breweries as drinking activities (fine as restaurants). Budget-conscious: cheap motels, one room split 3 ways.
 
@@ -95,8 +95,8 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 |---|---|---|---|---|
 | 1 | Sat Aug 8 | Land SEA 2:50 → car ~3:45 → Pike Place, Great Wheel → Kerry Park sunset → drive to the Rainier gate | Ashford | ~2.5 hr / 100 mi |
 | 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 | **ACTUAL: Quality Inn, Kelso WA** (stopped short of the coast) | ~4 hr / ~130 mi |
-| 3 | Mon Aug 10 | **Compressed:** Kelso 7:15 → Astoria Column + Riverwalk (missed Day 2 stop, recovered) → Haystack Rock from the sand → Cape Kiwanda lunch → Thor's Well → Heceta Head. Cut: Ecola, Hug Point, Sea Lion Caves, sandboarding; Neahkahnie drive-by only | Bandon/Coos Bay ~6:45 PM | ~5.5 hr / ~295 mi |
-| 4 | Tue Aug 11 | Bandon → Samuel Boardman → Klamath Overlook → Fern Canyon → Avenue of the Giants | Garberville | ~5 hr / 250 mi |
+| 3 | Mon Aug 10 | **Compressed + traded:** Kelso 7:15 → Astoria Column (missed Day 2 stop, recovered) → Haystack Rock from the sand → Cape Kiwanda lunch → Thor's Well 3:15 → Heceta Head 4:15 → **sandboarding at Sand Master Park 4:45–6:30** (back in, paid for by dropping Bandon). Cut: Ecola, Hug Point, Sea Lion Caves, Bandon; Neahkahnie drive-by only | Coos Bay ~7:40 PM (daylight) | ~5.5 hr / ~270 mi |
+| 4 | Tue Aug 11 | Coos Bay 7:15 → **Samuel Boardman 9:30, 2 full hours in morning light** (Face Rock skipped) → Klamath Overlook → Fern Canyon → Avenue of the Giants | Garberville | ~5.5 hr / ~270 mi |
 | 5 | Wed Aug 12 | Golden Gate (daylight, ~12:30) → 🌊 **Elkhorn Slough otter kayak** 3–5 PM | Salinas | ~6 hr / 300 mi |
 | 6 | Thu Aug 13 | Point Lobos → Garrapata → Bixby → Pfeiffer → Nepenthe → McWay → elephant seals → Morro Bay | Pismo Beach | ~5.5 hr / 250 mi |
 | 7 | Fri Aug 14 | 🌊 **Malibu surf lesson** 10–12 → El Matador → Point Dume → 🌊 **Santa Monica swim** 2:30 → Venice → **Griffith sunset** 6:30 | near LAX (El Segundo/Inglewood) — gas up tonight | ~4 hr / 200 mi |

@@ -76,7 +76,8 @@
     },
     "trip_log": [
       "ACTUAL Aug 9 (Day 2): did Rainier as planned, but ended the night at the Quality Inn in Kelso, WA (I-5 exit 39) instead of pushing to Seaside/Cannon Beach. Astoria dinner and the coast arrival didn't happen.",
-      "REPLAN Aug 10 (Day 3), COMPRESSED: start from Kelso ~7:15 AM, US-30 through Astoria. Day trimmed to the essentials — Astoria Column/Riverwalk (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head. Ecola SP cut (duplicate Haystack view, $10 + slow park road); Neahkahnie is a drive-by photo only; Hug Point/Sea Lion Caves/sandboarding stay cut. Bandon ~6:45 PM — relaxed Face Rock sunset."
+      "REPLAN Aug 10 (Day 3), COMPRESSED: start from Kelso ~7:15 AM, US-30 through Astoria. Day trimmed to the essentials — Astoria Column/Riverwalk (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head. Ecola SP cut (duplicate Haystack view, $10 + slow park road); Neahkahnie is a drive-by photo only; Hug Point/Sea Lion Caves/sandboarding stay cut. Bandon ~6:45 PM — relaxed Face Rock sunset.",
+      "TRADE Aug 10: sandboarding (Sand Master Park, Florence, 4:45-6:30 PM) is back IN; Bandon is OUT — sleep Coos Bay instead. Night-drive-to-Brookings idea rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min. Instead: Coos Bay by ~7:40 PM (daylight), depart 7:15 AM, Samuel Boardman by 9:30 with 2 hours in morning light."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -114,7 +115,7 @@
       "Fern Canyon day-use reservation for Aug 11 — TOMORROW; confirm it's booked + have $12 cash",
       "Elkhorn Slough kayak — Aug 12, 3-5 PM",
       "Malibu surf lesson — Aug 14, 10 AM",
-      "Rooms still needed: Bandon/Coos Bay (TONIGHT Aug 10), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)"
+      "Rooms still needed: Coos Bay (TONIGHT Aug 10 — Bandon dropped), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)"
     ]
   },
   "days": [
@@ -132,14 +133,14 @@
     },
     {
       "day": 3,
-      "title": "Aug 10 · Kelso → The Oregon Coast (compressed)",
-      "drive": "7:15 AM–6:45 PM · ~5.5 hr · ~295 mi",
+      "title": "Aug 10 · Kelso → Coast + sandboarding",
+      "drive": "7:15 AM–7:40 PM · ~5.5 hr · ~270 mi",
       "color": "#f58231"
     },
     {
       "day": 4,
-      "title": "Aug 11 · Redwoods",
-      "drive": "8 AM–7 PM · ~5 hr · 250 mi",
+      "title": "Aug 11 · Boardman + Redwoods",
+      "drive": "7:15 AM Coos Bay → ~7:30 PM · ~5.5 hr · ~270 mi",
       "color": "#ffb000"
     },
     {
@@ -334,7 +335,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Perpetua — Thor's Well",
-      "time": "3:30 PM · ~45 min",
+      "time": "3:15 PM · ~45 min",
       "lat": 44.2807,
       "lon": -124.1073,
       "desc": "Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."
@@ -343,7 +344,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Heceta Head Lighthouse",
-      "time": "4:45 PM · 15 min roadside",
+      "time": "4:15 PM · 15 min roadside",
       "lat": 44.1373,
       "lon": -124.1283,
       "desc": "Most-photographed lighthouse in Oregon, on a cliff over a cove."
@@ -359,36 +360,36 @@
     },
     {
       "day": 3,
-      "kind": "bonus",
+      "kind": "sight",
       "name": "Sandboarding — Sand Master Park",
-      "time": "+ 1–2 hr · ~$16 · skip today (late start)",
+      "time": "4:45–6:30 PM · ~$16 · call ahead",
       "lat": 43.9998,
       "lon": -124.1069,
-      "desc": "World's first sandboard park, in the Oregon Dunes. Rent a board and ride 40+ ft dunes. The most fun thing on Day 3 if you're on schedule."
+      "desc": "Back in the plan: world's first sandboard park, in the Oregon Dunes at Florence — rent a board and ride 40+ ft dunes for ~1.5 hr. CALL FROM THE ROAD THIS MORNING to confirm closing time and boards. Bought by dropping Bandon: sleep is Coos Bay tonight, 1 hr up the road."
     },
     {
       "day": 3,
       "kind": "sleep",
-      "name": "Sleep: Bandon / Coos Bay",
-      "time": "🛏 Night 3 · arrive ~6:45 PM",
+      "name": "Sleep: Coos Bay",
+      "time": "🛏 Night 3 · arrive ~7:40 PM",
       "lat": 43.3665,
       "lon": -124.2179,
-      "desc": "Compressed day gets you in ~6:45 PM — check in, unhurried dinner, then Face Rock for sunset (~8:24 PM). Cheap motels in Coos Bay; Bandon is prettier. Book the room from the road today."
+      "desc": "Coos Bay, not Bandon — the Bandon detour was traded for sandboarding, and stopping here keeps the no-night-driving rule (arrive ~7:40, sunset 8:24). Cheap motels, dinner in town, and tomorrow starts 7:15 AM sharp: Samuel Boardman by 9:30 in morning light, with 2 full hours there. Book the room from the road today."
     },
     {
       "day": 4,
-      "kind": "sight",
+      "kind": "bonus",
       "name": "Bandon / Face Rock",
-      "time": "8:00 AM · morning walk",
+      "time": "+ cut — straight to Boardman",
       "lat": 43.119,
       "lon": -124.4084,
-      "desc": "Sea stacks and wide beach before the drive south."
+      "desc": "Cut: sleeping in Coos Bay and skipping the Bandon detour buys Samuel Boardman two full hours in morning light instead of one."
     },
     {
       "day": 4,
       "kind": "sight",
       "name": "Samuel Boardman Scenic Corridor",
-      "time": "★ 10:30 AM · best pullouts",
+      "time": "★ 9:30 AM · 2 hr · best pullouts",
       "lat": 42.2984,
       "lon": -124.38,
       "desc": "North of Brookings — the best cliff pullouts in Oregon. Natural Bridges & Secret Beach. Lunch in Brookings before crossing into CA."

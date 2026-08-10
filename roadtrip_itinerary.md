@@ -70,22 +70,23 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | ~5:30 PM | Leave the park (**7 PM is the absolute ceiling** — that's a midnight-ish coast arrival) |
 | **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
-### DAY 3 — Mon Aug 10 · Kelso → The Oregon Coast *(compressed — essentials only)*
-Trimmed to the most important stops, with the freed time spent recovering **Astoria** (the Day 2 stop that got missed). **Cut:** Ecola SP (same Haystack Rock you see free from the sand, minus the $10 fee and slow park road), Hug Point, Sea Lion Caves, sandboarding; Neahkahnie is a 5-min drive-by photo only.
+### DAY 3 — Mon Aug 10 · Kelso → Coast + sandboarding *(compressed + traded)*
+Trimmed to the most important stops, with the freed time recovering **Astoria** (the missed Day 2 stop) — and **sandboarding is back in, paid for by dropping Bandon**: sleep is Coos Bay tonight. **Cut:** Ecola SP (same Haystack Rock you see free from the sand), Hug Point, Sea Lion Caves, the Bandon detour; Neahkahnie is a 5-min drive-by photo only. *(The night-drive-to-Brookings idea was rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min of tomorrow morning.)*
 
 | Time | Plan |
 |---|---|
-| 7:15 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge, then US-30 west along the Columbia |
+| 7:15 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge, then US-30 west along the Columbia. **Two calls from the road: book tonight's Coos Bay room + confirm Sand Master Park's closing time/boards** |
 | 8:30 AM | **Astoria** — the missed Day 2 stop, recovered: **Astoria Column** ($5/car, 360° view of the Columbia mouth) + coffee/breakfast by the Riverwalk. Out by 9:15 |
 | 9:45 AM | **Cannon Beach — Haystack Rock** — THE morning stop: 235-ft monolith from the sand, tide pools if low. ⚠ Sneaker waves — stay up the beach, off the logs. ~1 hr |
 | en route | *Neahkahnie viewpoint — 5-min drive-by photo only* |
 | 12:00 PM | **Cape Kiwanda** — Doryland opens at noon: order the vegetarian + BBQ chicken pizzas immediately, climb the dune while they bake. **Out by 1:15** |
-| 3:30 PM | **Cape Perpetua / Thor's Well** — ~45 min; check the tide chart; restrooms |
-| 4:45 PM | **Heceta Head Lighthouse** — 15 min roadside viewpoint |
-| ~6:45 PM | **Bandon/Coos Bay** — check in, unhurried dinner, then **Face Rock sunset (~8:24)**. **Book tonight's room from the road this morning.** |
+| 3:15 PM | **Cape Perpetua / Thor's Well** — ~45 min; check the tide chart; restrooms |
+| 4:15 PM | **Heceta Head Lighthouse** — 15 min roadside viewpoint |
+| 4:45–6:30 PM | 🏄 **Sandboarding — Sand Master Park, Florence** (~$16) — 40-ft dunes at the world's first sandboard park. The fun Day 3 thing, recovered |
+| ~7:40 PM | **Coos Bay** — arrive in daylight (sunset 8:24), check in, dinner in town. Tomorrow starts 7:15 AM sharp |
 
-### DAY 4 — Tue Aug 11 · Redwoods
-8:00 **Bandon/Face Rock** → 10:30 **Samuel Boardman** (Natural Bridges, Secret Beach) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation **for Aug 11** + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep
+### DAY 4 — Tue Aug 11 · Boardman + Redwoods
+7:15 **depart Coos Bay** (fuel up; Bandon/Face Rock skipped — the payoff is below) → 9:30 **Samuel Boardman — 2 FULL HOURS** in morning light (Natural Bridges, Secret Beach/Thunder Rock, Arch Rock) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation **for Aug 11** + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep
 
 *No night driving anywhere on this trip — keep it that way.*
 
@@ -147,7 +148,7 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 ## Booking checklist
 - ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
 - **Reserve:** Fern Canyon day-use for **Aug 11 — TOMORROW** (free, required), Elkhorn Slough kayak (**Aug 12, 3–5 PM**), Malibu surf lesson (**Aug 14, 10 AM**)
-- **Rooms still needed:** Bandon/Coos Bay (**TONIGHT Aug 10** — book from the road this morning), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)
+- **Rooms still needed:** Coos Bay (**TONIGHT Aug 10** — Bandon dropped; book from the road this morning), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)
 - **Cash:** Fern Canyon $12, Pfeiffer Beach $12 (no cards)
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before
