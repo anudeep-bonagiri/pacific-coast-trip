@@ -68,11 +68,10 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | 7:15 AM–1 PM | ★ **Paradise — Skyline Trail. MAIN EVENT.** 5.5-mi loop, ~1,450 ft up to Panorama Point staring straight at the glaciers; August = peak wildflowers + marmots. Layers + water (Paradise is 5,400 ft, weather flips fast); snowfields linger — stay on trail; near-zero cell service, download offline maps. Shorter option: Myrtle Falls (1 mi, flat) |
 | 1:30 PM | **Reflection Lakes** — the mirror shot, roadside. (Grove of the Patriarchs is still closed — don't detour for it) |
 | ~5:30 PM | Leave the park (**7 PM is the absolute ceiling** — that's a midnight-ish coast arrival) |
-| ~8:30 PM | **Astoria dinner** — Fort George; Astoria Co+op before its 9 PM close if kitchens are slow |
-| ~10:00 PM | **Seaside / Cannon Beach** — sleep |
+| **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
-### DAY 3 — Mon Aug 10 · The Oregon Coast
-8:00 **Ecola SP** (Goonies overlook) → 9:15 **Cannon Beach/Haystack** → *+Hug Point* → 10:45 **Neahkahnie viewpoint** → ~11:30 **Tillamook River Rest Area** → 12:15 **Cape Kiwanda** + **Doryland Pizza** (vegetarian + BBQ chicken pizzas) → 3:15 **Cape Perpetua/Thor's Well** (~1 hr before high tide; restrooms) → 5:00 **Heceta Head** → *+Sea Lion Caves ($16), +sandboarding at Sand Master Park (~$16)* → ~7:00 **Bandon/Coos Bay** — sleep
+### DAY 3 — Mon Aug 10 · Kelso → The Oregon Coast *(replanned from the Kelso stop)*
+**7:00 depart the Quality Inn, Kelso** — full tank; cross the Lewis & Clark Bridge at Longview, then US-30 west along the Columbia (~2 hr to the coast) → *+Astoria Column ($5/car, 20 min) only if rolling by ~8:15 — you drive straight through Astoria* → 9:00 **Ecola SP** (Goonies overlook) → 10:00 **Cannon Beach/Haystack** → *+Hug Point only if tide + time allow* → 11:15 **Neahkahnie viewpoint** → 12:30 **Cape Kiwanda** + **Doryland Pizza** (vegetarian + BBQ chicken pizzas; order on arrival) → 4:00 **Cape Perpetua/Thor's Well** (~1 hr; check the tide chart; restrooms) → 5:15 **Heceta Head** → *Sea Lion Caves and sandboarding are cut today — late start* → ~8:00 **Bandon/Coos Bay** — straight to **Face Rock for sunset (~8:24)** if there's light, then sleep. **Book tonight's room from the road this morning.**
 
 ### DAY 4 — Tue Aug 11 · Redwoods
 8:00 **Bandon/Face Rock** → 10:30 **Samuel Boardman** (Natural Bridges, Secret Beach) → 11:30 **Khun Thai takeout, Brookings** (tofu curries + chicken/shrimp; order ahead and leave by 12:10) → 1:15 **Klamath River Overlook** → 2:00–4:00 **Fern Canyon** (free reservation **for Aug 11** + $12 cash) → *optional Trinidad southbound rest area only if needed* → ~6:15 **Avenue of the Giants** → *+Shrine Drive-Thru Tree only if ahead of schedule* → ~7:30 **Garberville** — sleep
@@ -135,11 +134,9 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 **Cheapest levers:** groceries/fast food instead of restaurants (saves ~$80pp), skipping the surf lesson (~$90pp), and booking the Ashford + Salinas + Pismo rooms early.
 
 ## Booking checklist
-- **URGENT — Ashford/Elbe room or campsite for Sat Aug 8** (Rainier gateway on an August Saturday — book today; Cougar Rock campground is the in-park alternative)
-- **URGENT — modify Hertz:** pickup SEA ~3:45 PM Aug 8, drop LAX ~7:30 AM Aug 15 (est ~$1,060 for 8 days — verify actual); all three drivers on the contract
-- **Mount Rainier:** verify 2026 timed-entry rules on nps.gov — grab a reservation if pre-7 AM Nisqually entry now requires one
-- **Reserve:** Fern Canyon day-use for **Aug 11** (free, required), Elkhorn Slough kayak (**Aug 12, 3–5 PM**), Malibu surf lesson (**Aug 14, 10 AM**)
-- **Rooms:** Seaside (Aug 9), Bandon/Coos Bay (Aug 10), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)
+- ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
+- **Reserve:** Fern Canyon day-use for **Aug 11 — TOMORROW** (free, required), Elkhorn Slough kayak (**Aug 12, 3–5 PM**), Malibu surf lesson (**Aug 14, 10 AM**)
+- **Rooms still needed:** Bandon/Coos Bay (**TONIGHT Aug 10** — book from the road this morning), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)
 - **Cash:** Fern Canyon $12, Pfeiffer Beach $12 (no cards)
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before

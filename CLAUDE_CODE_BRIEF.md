@@ -38,11 +38,13 @@ Single self-contained HTML file. No build step, no framework.
 ```bash
 awk 'f&&/<\/script>/{f=0} f{print} /<script>$/{f=1}' map.html > /tmp/app.js && node --check /tmp/app.js
 ```
-Also sanity-check that latitudes within each day run roughly north→south — the coast portion is one continuous southbound drive on **Days 3–7**. Exceptions: **Day 1** ends inland at Ashford (southeast of Seattle, not on the coast); **Day 2** goes east into Mount Rainier NP first, then west and south to the coast; **Day 7** runs the LA coast east–west, so check longitude instead; **Day 8** is airport-only.
+Also sanity-check that latitudes within each day run roughly north→south — the coast portion is one continuous southbound drive on **Days 3–7**. Exceptions: **Day 1** ends inland at Ashford (southeast of Seattle, not on the coast); **Day 2** goes east into Mount Rainier NP first, then west to I-5 (night 2 actually ended inland at Kelso, WA); **Day 3** starts inland at Kelso and runs slightly *north*-west to Astoria before turning south down the coast; **Day 7** runs the LA coast east–west, so check longitude instead; **Day 8** is airport-only.
 
 ---
 
 ## 2. Locked-in facts (do not re-litigate)
+
+**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 was replanned to start from Kelso (~7 AM depart, US-30 via Astoria, ~2 hr to Ecola; bonus stops cut; Bandon ~8 PM). Days 4–8 are unchanged.
 
 **Travelers:** 3 people, 19–20 years old. **All under 21** — do not suggest bars/breweries as drinking activities (fine as restaurants). Budget-conscious: cheap motels, one room split 3 ways.
 
@@ -92,8 +94,8 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 | Day | Date | Route | Sleep | Drive |
 |---|---|---|---|---|
 | 1 | Sat Aug 8 | Land SEA 2:50 → car ~3:45 → Pike Place, Great Wheel → Kerry Park sunset → drive to the Rainier gate | Ashford | ~2.5 hr / 100 mi |
-| 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 → Astoria dinner | Seaside/Cannon Beach | ~5.5 hr / 215 mi |
-| 3 | Mon Aug 10 | Ecola SP → Cannon Beach → Neahkahnie → Cape Kiwanda → Cape Perpetua → Heceta Head | Bandon/Coos Bay | ~4.5 hr / 230 mi |
+| 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 | **ACTUAL: Quality Inn, Kelso WA** (stopped short of the coast) | ~4 hr / ~130 mi |
+| 3 | Mon Aug 10 | Kelso 7 AM → US-30 via Astoria (~2 hr) → Ecola SP → Cannon Beach → Neahkahnie → Cape Kiwanda → Cape Perpetua → Heceta Head | Bandon/Coos Bay | ~6 hr / ~305 mi |
 | 4 | Tue Aug 11 | Bandon → Samuel Boardman → Klamath Overlook → Fern Canyon → Avenue of the Giants | Garberville | ~5 hr / 250 mi |
 | 5 | Wed Aug 12 | Golden Gate (daylight, ~12:30) → 🌊 **Elkhorn Slough otter kayak** 3–5 PM | Salinas | ~6 hr / 300 mi |
 | 6 | Thu Aug 13 | Point Lobos → Garrapata → Bixby → Pfeiffer → Nepenthe → McWay → elephant seals → Morro Bay | Pismo Beach | ~5.5 hr / 250 mi |

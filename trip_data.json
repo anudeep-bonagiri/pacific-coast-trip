@@ -56,6 +56,10 @@
       },
       "notes": "Range $4,700 (frugal) – $5,500. Flights line still reflects old estimate — update with actual Aug 15 fare. Rental is an 8-day estimate pending the Hertz modification. Park fees include Mount Rainier $30/vehicle."
     },
+    "trip_log": [
+      "ACTUAL Aug 9 (Day 2): did Rainier as planned, but ended the night at the Quality Inn in Kelso, WA (I-5 exit 39) instead of pushing to Seaside/Cannon Beach. Astoria dinner and the coast arrival didn't happen.",
+      "REPLAN Aug 10 (Day 3): start from Kelso ~7 AM, cross the Lewis & Clark Bridge at Longview, US-30 west along the Columbia through Astoria (~2 hr to Ecola). All headline stops kept; Hug Point / Sea Lion Caves / sandboarding bonuses dropped. Bandon arrival ~8 PM, right at sunset."
+    ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
       "Added a full Mount Rainier day (Day 2): sleep at the Ashford gate night 1, hike Paradise/Skyline from ~6 AM, drive to the Oregon coast in the evening",
@@ -88,13 +92,11 @@
       "mountain": "Rainier: start the Skyline Trail early (parking + afternoon heat), carry water + layers (Paradise is 5,400 ft, weather flips fast), stay on trail — snowfields linger into August. Cell service in the park is near zero; download offline maps."
     },
     "must_book_ahead": [
-      "URGENT: Ashford/Elbe room or campsite for Sat Aug 8 (Rainier gateway on an August Saturday — book today)",
-      "URGENT: modify Hertz — pickup ~3:45 PM Aug 8, drop LAX morning Aug 15",
-      "Mount Rainier timed-entry reservation IF 2026 rules require one for pre-7AM Nisqually entry (check nps.gov)",
-      "Fern Canyon day-use reservation for Aug 11",
+      "DONE: Ashford night 1, Hertz modification, Rainier entry (Days 1-2 are behind you; night 2 ended up at the Quality Inn, Kelso WA)",
+      "Fern Canyon day-use reservation for Aug 11 — TOMORROW; confirm it's booked + have $12 cash",
       "Elkhorn Slough kayak — Aug 12, 3-5 PM",
       "Malibu surf lesson — Aug 14, 10 AM",
-      "Rooms: Seaside (Aug 9), Bandon/Coos Bay (Aug 10), Garberville (Aug 11), Salinas (Aug 12), Pismo (Aug 13), LAX area (Aug 14)"
+      "Rooms still needed: Bandon/Coos Bay (TONIGHT Aug 10), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area (Aug 14)"
     ]
   },
   "days": [
@@ -106,14 +108,14 @@
     },
     {
       "day": 2,
-      "title": "Aug 9 · Mount Rainier → Coast",
-      "drive": "6 AM gate · leave ~5:30 PM · 215 mi",
+      "title": "Aug 9 · Mount Rainier → Kelso",
+      "drive": "6 AM gate · stopped in Kelso for the night · ~130 mi",
       "color": "#009688"
     },
     {
       "day": 3,
-      "title": "Aug 10 · The Oregon Coast",
-      "drive": "8 AM–7 PM · ~4.5 hr · 230 mi",
+      "title": "Aug 10 · Kelso → The Oregon Coast",
+      "drive": "7 AM–8 PM · ~6 hr · ~305 mi",
       "color": "#f58231"
     },
     {
@@ -250,26 +252,35 @@
     {
       "day": 2,
       "kind": "sleep",
-      "name": "Sleep: Seaside / Cannon Beach",
-      "time": "🛏 Night 2 · arrive ~10 PM",
-      "lat": 45.9932,
-      "lon": -123.9226,
-      "desc": "Leave the park by ~5:30 PM (7 PM is the absolute ceiling — that's a midnight-ish arrival). ~3.5-4 hr, 175 mi via Astoria: dinner there (Fort George) ~8:30 if you're on time. Last stretch is dark, just cruising."
+      "name": "Slept: Quality Inn, Kelso WA (actual)",
+      "time": "🛏 Night 2 · ACTUAL stop",
+      "lat": 46.128,
+      "lon": -122.891,
+      "desc": "Where night 2 actually ended: Quality Inn at Kelso (I-5 exit 39), instead of pushing on to Seaside/Cannon Beach. Smart call — no midnight coast driving. The coast is ~2 hr away via the Lewis & Clark Bridge and US-30 through Astoria; Day 3 replanned to start from here."
+    },
+    {
+      "day": 3,
+      "kind": "bonus",
+      "name": "Astoria Column",
+      "time": "+ 20 min · $5/car · en route",
+      "lat": 46.1813,
+      "lon": -123.8195,
+      "desc": "You drive straight through Astoria on US-30 this morning — the 125-ft column on Coxcomb Hill has a 360° view of the Columbia mouth, and you missed Astoria last night. Only if you're rolling by ~8:15."
     },
     {
       "day": 3,
       "kind": "gem",
       "name": "Ecola State Park",
-      "time": "★ 8:00 AM · Goonies overlook",
+      "time": "★ 9:00 AM · Goonies overlook",
       "lat": 45.9284,
       "lon": -123.9762,
-      "desc": "THE cliff view of Haystack Rock, best in morning light. Reopened Apr 2026 after landslide repairs — check advisories."
+      "desc": "THE cliff view of Haystack Rock, best in morning light. ~2 hr from Kelso via US-30/Astoria — leave the Quality Inn by 7 AM. Reopened Apr 2026 after landslide repairs — check advisories."
     },
     {
       "day": 3,
       "kind": "sight",
       "name": "Cannon Beach — Haystack Rock",
-      "time": "9:15 AM · ~1 hr",
+      "time": "10:00 AM · ~1 hr",
       "lat": 45.8846,
       "lon": -123.9684,
       "desc": "235-ft monolith, puffins, tide pools at low tide. ⚠ Sneaker waves — stay up the beach, off the logs."
@@ -278,7 +289,7 @@
       "day": 3,
       "kind": "bonus",
       "name": "Hug Point",
-      "time": "+ 15 min · free",
+      "time": "+ 15 min · only if tide + time allow",
       "lat": 45.8264,
       "lon": -123.9612,
       "desc": "At low tide, walk around the point to a hidden waterfall on the sand, sea caves, and an old wagon road carved into the cliff."
@@ -287,7 +298,7 @@
       "day": 3,
       "kind": "gem",
       "name": "Neahkahnie Mountain Viewpoint",
-      "time": "★ 10:45 AM · pullout",
+      "time": "★ 11:15 AM · pullout",
       "lat": 45.7527,
       "lon": -123.9585,
       "desc": "Roadside pullout in Oswald West SP with a near-180° view — one of the highest on the coast. Easy to miss the turnout."
@@ -296,7 +307,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Kiwanda",
-      "time": "12:15 PM · lunch",
+      "time": "12:30 PM · lunch",
       "lat": 45.2185,
       "lon": -123.974,
       "desc": "Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."
@@ -305,7 +316,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Cape Perpetua — Thor's Well",
-      "time": "3:15 PM · ~1.5 hr",
+      "time": "4:00 PM · ~1 hr",
       "lat": 44.2807,
       "lon": -124.1073,
       "desc": "Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."
@@ -314,7 +325,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Heceta Head Lighthouse",
-      "time": "5:00 PM · roadside",
+      "time": "5:15 PM · roadside",
       "lat": 44.1373,
       "lon": -124.1283,
       "desc": "Most-photographed lighthouse in Oregon, on a cliff over a cove."
@@ -323,7 +334,7 @@
       "day": 3,
       "kind": "bonus",
       "name": "Sea Lion Caves",
-      "time": "+ 45 min · $16",
+      "time": "+ 45 min · $16 · skip today (late start)",
       "lat": 44.1219,
       "lon": -124.1281,
       "desc": "Elevator down to the largest sea cave in the U.S. — ~200 wild sea lions inside. Right on 101 just south of Heceta Head."
@@ -332,7 +343,7 @@
       "day": 3,
       "kind": "bonus",
       "name": "Sandboarding — Sand Master Park",
-      "time": "+ 1–2 hr · Florence · ~$16",
+      "time": "+ 1–2 hr · ~$16 · skip today (late start)",
       "lat": 43.9998,
       "lon": -124.1069,
       "desc": "World's first sandboard park, in the Oregon Dunes. Rent a board and ride 40+ ft dunes. The most fun thing on Day 3 if you're on schedule."
@@ -341,10 +352,10 @@
       "day": 3,
       "kind": "sleep",
       "name": "Sleep: Bandon / Coos Bay",
-      "time": "🛏 Night 3 · arrive ~7 PM",
+      "time": "🛏 Night 3 · arrive ~8 PM",
       "lat": 43.3665,
       "lon": -124.2179,
-      "desc": "Sunset at Bandon's Face Rock ~8:25 PM. Cheap motels in Coos Bay; Bandon is prettier."
+      "desc": "With the Kelso start you arrive ~8 PM — straight to Face Rock for sunset (~8:24 PM) if there's light. Cheap motels in Coos Bay; Bandon is prettier. Book the room from the road today."
     },
     {
       "day": 4,
