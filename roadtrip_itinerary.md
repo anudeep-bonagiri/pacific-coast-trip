@@ -33,7 +33,7 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 |---|---|---|---|---|
 | 1 · Seattle | **Pike Place Chowder** | Vegan Lime & Coconut Chowder | Smoked Salmon Chowder or Seafood Bisque; avoid bacon/chorizo chowders | **$10–20 pp** |
 | 2 · Astoria dinner | **Fort George** (backup: **Astoria Co+op deli** before its 9 PM close) | Vegetarian pizza/salads at Fort George; vegan/vegetarian hot bar, soup, burrito, or wrap at the Co+op | Fish and chips or chicken at Fort George; check the Co+op's rotating case for chicken/fish | **$7–20 pp** |
-| 3 · Cape Kiwanda | **Doryland Pizza** | Share a 14-inch Vegetarian pizza ($26) | Share a 10-inch BBQ Chicken pizza ($19); no Chicken Bacon Artichoke | **~$12–16 pp** |
+| 3 · Tillamook | **Tillamook Creamery food hall** | Grilled cheese, cheese pizza, or mac & cheese + ice cream | Check for chicken strips; otherwise cheese dishes — no beef burgers | **~$12–18 pp** |
 | 4 · Brookings | **Khun Thai** | Tofu/vegetable curry; explicitly remove fish/oyster sauce and shrimp paste | Chicken Pad Thai/curry or a shrimp dish | **$15–25 pp** |
 | 5 · Garberville takeout | **Eel River Cafe** | Grilled cheese/mushroom sandwich, vegetarian omelet, or pancakes | Grilled chicken sandwich, tuna melt, or fish and chips | **est. $12–18 pp** |
 | 6 · pack in Salinas | **El Charrito** | Bean-and-cheese or chile relleno burrito; confirm no lard/stock | Pollo guisado burrito | **est. $8–14 pp** |
@@ -71,18 +71,18 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
 ### DAY 3 — Mon Aug 10 · Oregon speed-run → Brookings *(9 AM start · goal: California)*
-The 9 AM Kelso departure + the restated goal (more California, less Oregon) turn today into a speed-run: one icon stop each, then push south past Bandon to **Brookings** — waking up 10 minutes from Samuel Boardman. The last ~90 min is after dark: a deliberate, accepted exception to the no-night-driving rule. Drive it slow, watch for deer/elk, swap drivers. **Cut today:** Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding (you pass Florence too close to closing), Bandon.
+The 9 AM Kelso departure + the restated goal (more California, less Oregon) turn today into a speed-run: one icon stop each, then push south past Bandon to **Brookings** — waking up 10 minutes from Samuel Boardman. The last ~90 min is after dark: a deliberate, accepted exception to the no-night-driving rule. Drive it slow, watch for deer/elk, swap drivers. **Cut today:** Astoria Column, Ecola, Hug Point, Cape Kiwanda/Doryland (lunch moved to the Tillamook Creamery), Sea Lion Caves, sandboarding (you pass Florence too close to closing), Bandon.
 
 | Time | Plan |
 |---|---|
 | 9:00 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge → US-30, roll through Astoria ~10:45 without stopping. **Book the Brookings room from the road NOW** |
 | 11:15 AM | **Cannon Beach — Haystack Rock** — the ONE North Coast stop: 45 min on the sand. ⚠ Sneaker waves — stay up the beach, off the logs |
 | en route | *Neahkahnie viewpoint — 5-min drive-by photo only* |
-| 1:15 PM | **Cape Kiwanda** — call Doryland ~12:45 to order ahead (vegetarian + BBQ chicken pizzas); eat, quick dune look, **out by 2:15** |
-| 4:30 PM | **Cape Perpetua / Thor's Well** — 30 min, whatever the tide's doing |
-| 5:15 PM | **Heceta Head** — 10-min photo pullout |
-| 6:50 PM | **Coos Bay** — quick dinner + full tank, out by 7:30 |
-| ~9:45 PM | **Brookings** — ~110 mi south of Coos Bay, last ~90 min dark. Sleep; tomorrow starts at Boardman, out the front door |
+| 1:00 PM | 🧀 **Tillamook Creamery** (4165 US-101 N, Tillamook) — free self-guided factory tour + lunch at the food hall: grilled cheese/pizza/mac for the vegetarians, ice cream for all; chicken/fish eaters check for chicken strips. **Out by 1:50** |
+| 4:15 PM | **Cape Perpetua / Thor's Well** — 30 min, whatever the tide's doing |
+| 5:00 PM | **Heceta Head** — 10-min photo pullout |
+| 6:40 PM | **Coos Bay** — quick dinner + full tank, out by 7:15 |
+| ~9:30 PM | **Brookings** — ~110 mi south of Coos Bay, last ~80 min dark. Sleep; tomorrow starts at Boardman, out the front door |
 
 ### DAY 4 — Tue Aug 11 · Boardman + the Redwoods *(the payoff day)*
 8:00 **Samuel Boardman — 2 full hours** in morning light, 10 min from the motel (Natural Bridges, Secret Beach/Thunder Rock, Arch Rock, Whaleshead) → 10:15 depart south (Khun Thai won't be open — see food page for backups) → 11:00 **lunch in Crescent City**, quick → 11:45 **Klamath River Overlook** (20 min, whales) → 12:30–2:30 **Fern Canyon** (reservation is for today + $12 cash; rough Davison Rd) → 4:30 **Avenue of the Giants / Founders Grove** → *+Shrine Drive-Thru Tree ($15) — the cool-stuff stop, it fits today* → ~5:45 **Garberville** — early arrival, real dinner, actual rest

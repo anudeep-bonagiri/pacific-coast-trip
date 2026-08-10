@@ -78,7 +78,8 @@
       "ACTUAL Aug 9 (Day 2): did Rainier as planned, but ended the night at the Quality Inn in Kelso, WA (I-5 exit 39) instead of pushing to Seaside/Cannon Beach. Astoria dinner and the coast arrival didn't happen.",
       "REPLAN Aug 10 (Day 3), COMPRESSED: start from Kelso ~7:15 AM, US-30 through Astoria. Day trimmed to the essentials — Astoria Column/Riverwalk (recovering the missed Day 2 stop), Haystack Rock from the sand, Cape Kiwanda lunch, Thor's Well, Heceta Head. Ecola SP cut (duplicate Haystack view, $10 + slow park road); Neahkahnie is a drive-by photo only; Hug Point/Sea Lion Caves/sandboarding stay cut. Bandon ~6:45 PM — relaxed Face Rock sunset.",
       "TRADE Aug 10: sandboarding (Sand Master Park, Florence, 4:45-6:30 PM) is back IN; Bandon is OUT — sleep Coos Bay instead. Night-drive-to-Brookings idea rejected: ~3 hr of dark curvy 101 past everything scenic, breaking the no-night-driving rule, to save ~90 min. Instead: Coos Bay by ~7:40 PM (daylight), depart 7:15 AM, Samuel Boardman by 9:30 with 2 hours in morning light.",
-      "CORRECTION + REPLAN Aug 10 (Day 3): the 9 AM constraint is TODAY'S Kelso departure (not tomorrow). Goal restated: minimize Oregon, maximize California's big things. Day 3 is now an Oregon speed-run — Haystack 45 min, Kiwanda pizza, Thor's Well 30 min, Heceta photo — then push to BROOKINGS ~9:45 PM (last ~90 min dark, accepted deliberately). Astoria Column and sandboarding cut. Day 4 from Brookings: Boardman 8-10 AM, Klamath Overlook, Fern Canyon 12:30-2:30, Founders Grove, Garberville ~5:45 — a full, unhurried CA day. ALSO: Hertz drop is now FRIDAY Aug 14 9 PM at LAX — Day 7 ends with the car return (gas before Griffith, leave by 7:50), Day 8 is hotel shuttle only."
+      "CORRECTION + REPLAN Aug 10 (Day 3): the 9 AM constraint is TODAY'S Kelso departure (not tomorrow). Goal restated: minimize Oregon, maximize California's big things. Day 3 is now an Oregon speed-run — Haystack 45 min, Kiwanda pizza, Thor's Well 30 min, Heceta photo — then push to BROOKINGS ~9:45 PM (last ~90 min dark, accepted deliberately). Astoria Column and sandboarding cut. Day 4 from Brookings: Boardman 8-10 AM, Klamath Overlook, Fern Canyon 12:30-2:30, Founders Grove, Garberville ~5:45 — a full, unhurried CA day. ALSO: Hertz drop is now FRIDAY Aug 14 9 PM at LAX — Day 7 ends with the car return (gas before Griffith, leave by 7:50), Day 8 is hotel shuttle only.",
+      "ADD Aug 10: Tillamook Creamery is the Day 3 lunch stop (1:00-1:50, free tour + food hall), replacing the Doryland/Cape Kiwanda detour — keeps Brookings at ~9:30 PM instead of 10:30."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -326,17 +327,26 @@
     {
       "day": 3,
       "kind": "sight",
+      "name": "Tillamook Creamery",
+      "time": "1:00 PM · lunch + factory · out by 1:50",
+      "lat": 45.4844,
+      "lon": -123.8444,
+      "desc": "The cheese factory, right on 101: free self-guided tour over the production floor, squeaky cheese curds, and the food hall for lunch — grilled cheese/pizza/mac for the vegetarians, ice cream for everyone. The two chicken/fish eaters: check the menu for chicken strips or default to cheese dishes. Replaces the Cape Kiwanda detour."
+    },
+    {
+      "day": 3,
+      "kind": "bonus",
       "name": "Cape Kiwanda",
-      "time": "1:15 PM · pizza lunch · out by 2:15",
+      "time": "+ cut — Tillamook lunch instead",
       "lat": 45.2185,
       "lon": -123.974,
-      "desc": "Climb the big sandstone dune; lunch at Pelican Brewing right on the sand."
+      "desc": "Cut: a 15-min detour off 101 whose lunch slot went to the Tillamook Creamery. The dune will forgive you."
     },
     {
       "day": 3,
       "kind": "sight",
       "name": "Cape Perpetua — Thor's Well",
-      "time": "4:30 PM · 30 min",
+      "time": "4:15 PM · 30 min",
       "lat": 44.2807,
       "lon": -124.1073,
       "desc": "Highest driveable viewpoint on the OR coast. Thor's Well & Devil's Churn best ~1 hr before high tide (check the chart). Captain Cook Trail to tide pools — safe, great."
@@ -345,7 +355,7 @@
       "day": 3,
       "kind": "sight",
       "name": "Heceta Head Lighthouse",
-      "time": "5:15 PM · 10-min photo pullout",
+      "time": "5:00 PM · 10-min photo pullout",
       "lat": 44.1373,
       "lon": -124.1283,
       "desc": "Most-photographed lighthouse in Oregon, on a cliff over a cove."
@@ -372,7 +382,7 @@
       "day": 3,
       "kind": "sleep",
       "name": "Sleep: Brookings (speed-run south)",
-      "time": "🛏 Night 3 · Coos Bay dinner ~6:50 · arrive ~9:45 PM",
+      "time": "🛏 Night 3 · Coos Bay dinner ~6:40 · arrive ~9:30 PM",
       "lat": 42.0526,
       "lon": -124.2839,
       "desc": "The speed-run night: quick dinner + fuel in Coos Bay (~6:50-7:30), then ~110 mi south — the last ~90 min after dark, accepted deliberately to buy California time. Slow and steady, watch for deer/elk, swap drivers. Waking in Brookings puts Samuel Boardman 10 min out the door at 8 AM. Book the Brookings room NOW."
