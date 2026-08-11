@@ -34,8 +34,8 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | 1 · Seattle | **Pike Place Chowder** | Vegan Lime & Coconut Chowder | Smoked Salmon Chowder or Seafood Bisque; avoid bacon/chorizo chowders | **$10–20 pp** |
 | 2 · Astoria dinner | **Fort George** (backup: **Astoria Co+op deli** before its 9 PM close) | Vegetarian pizza/salads at Fort George; vegan/vegetarian hot bar, soup, burrito, or wrap at the Co+op | Fish and chips or chicken at Fort George; check the Co+op's rotating case for chicken/fish | **$7–20 pp** |
 | 3 · Tillamook | **Tillamook Creamery food hall** | Grilled cheese, cheese pizza, or mac & cheese + ice cream | Check for chicken strips; otherwise cheese dishes — no beef burgers | **~$12–18 pp** |
-| 4 · Brookings | **Khun Thai** | Tofu/vegetable curry; explicitly remove fish/oyster sauce and shrimp paste | Chicken Pad Thai/curry or a shrimp dish | **$15–25 pp** |
-| 5 · Garberville takeout | **Eel River Cafe** | Grilled cheese/mushroom sandwich, vegetarian omelet, or pancakes | Grilled chicken sandwich, tuna melt, or fish and chips | **est. $12–18 pp** |
+| 4 · Garberville lunch + Mendocino dinner | **Eel River Cafe**, then dinner in Mendocino village | Grilled cheese / veggie omelet; Mendocino has real vegetarian menus | Chicken sandwich or tuna melt; seafood in Mendocino | **$15–28 pp** |
+| 5 · Fort Bragg 7 AM | **Grab-and-go before departure** — coffee/pastries on N Main St, or gas-station breakfast on CA-20 | Anything vegetarian to go | Breakfast sandwich to go | **est. $8–14 pp** |
 | 6 · pack in Salinas | **El Charrito** | Bean-and-cheese or chile relleno burrito; confirm no lard/stock | Pollo guisado burrito | **est. $8–14 pp** |
 | 7 · Malibu | **Malibu Seafood** | Veggie burger and fries ($13.95) | Fish/shrimp sandwich ($10.95), tacos ($14.95), or chicken sandwich ($19.95) | **$11–20 pp** |
 
@@ -70,32 +70,52 @@ This meal plan is for **four travelers**: two vegetarians, plus two non-vegetari
 | ~5:30 PM | Leave the park (**7 PM is the absolute ceiling** — that's a midnight-ish coast arrival) |
 | **ACTUAL** | **Stopped for the night at the Quality Inn in Kelso, WA** (I-5 exit 39) instead of pushing to Seaside — no Astoria dinner, no midnight coast driving. Right call. The coast is ~2 hr away; Day 3 below is replanned from Kelso. |
 
-### DAY 3 — Mon Aug 10 · Oregon speed-run → Brookings *(9 AM start · goal: California)*
-The 9 AM Kelso departure + the restated goal (more California, less Oregon) turn today into a speed-run: one icon stop each, then push south past Bandon to **Brookings** — waking up 10 minutes from Samuel Boardman. The last ~90 min is after dark: a deliberate, accepted exception to the no-night-driving rule. Drive it slow, watch for deer/elk, swap drivers. **Cut today:** Astoria Column, Ecola, Hug Point, Cape Kiwanda/Doryland (lunch moved to the Tillamook Creamery), Sea Lion Caves, sandboarding (you pass Florence too close to closing), Bandon.
+### DAY 3 — Mon Aug 10 · Oregon speed-run → **EUREKA, CA** *(the big push)*
+New goal: get into California tonight so tomorrow is entirely the Mendocino coast. That means ~10 hours of driving and roughly 4.5 hours of it in the dark after Coos Bay. **Samuel Boardman dies tonight** — you pass it around 9 PM with nothing visible. That's the price.
 
 | Time | Plan |
 |---|---|
-| 9:00 AM | **Depart the Quality Inn, Kelso** — full tank; Lewis & Clark Bridge → US-30, roll through Astoria ~10:45 without stopping. **Book the Brookings room from the road NOW** |
-| 11:15 AM | **Cannon Beach — Haystack Rock** — the ONE North Coast stop: 45 min on the sand. ⚠ Sneaker waves — stay up the beach, off the logs |
-| en route | *Neahkahnie viewpoint — 5-min drive-by photo only* |
-| 1:00 PM | 🧀 **Tillamook Creamery** (4165 US-101 N, Tillamook) — free self-guided factory tour + lunch at the food hall: grilled cheese/pizza/mac for the vegetarians, ice cream for all; chicken/fish eaters check for chicken strips. **Out by 1:50** |
-| 4:15 PM | **Cape Perpetua / Thor's Well** — 30 min, whatever the tide's doing |
-| 5:00 PM | **Heceta Head** — 10-min photo pullout |
-| 6:40 PM | **Coos Bay** — quick dinner + full tank, out by 7:15 |
-| ~9:30 PM | **Brookings** — ~110 mi south of Coos Bay, last ~80 min dark. Sleep; tomorrow starts at Boardman, out the front door |
+| 9:00 AM | Depart Kelso ✅ |
+| 11:15 AM | **Haystack Rock** ✅ done |
+| 1:00 PM | 🧀 **Tillamook Creamery** ✅ — out by 1:50 |
+| 4:15 PM | **Thor's Well** — 30 min. ⚠ **First thing to cut**: skipping it puts you in Eureka 30 min earlier |
+| 5:00 PM | **Heceta Head** — 10-min photo |
+| 6:40 PM | **Coos Bay** — dinner, **FULL TANK**, bathroom, driver swap, coffee. Out by 7:15 |
+| ~9:15 PM | **Brookings** — last Oregon fuel, 10 min, swap drivers again |
+| ~10:30 PM | **Crescent City** — ⚠ **BAIL-OUT POINT.** If anyone is fighting sleep, sleep here instead. Costs 1.5 hr tomorrow, nothing else |
+| ~11:45 PM–12:30 AM | **EUREKA, CA** — sleep |
 
-### DAY 4 — Tue Aug 11 · Boardman + the Redwoods *(the payoff day)*
-8:00 **Samuel Boardman — 2 full hours** in morning light, 10 min from the motel (Natural Bridges, Secret Beach/Thunder Rock, Arch Rock, Whaleshead) → 10:15 depart south (Khun Thai won't be open — see food page for backups) → 11:00 **lunch in Crescent City**, quick → 11:45 **Klamath River Overlook** (20 min, whales) → 12:30–2:30 **Fern Canyon** (reservation is for today + $12 cash; rough Davison Rd) → 4:30 **Avenue of the Giants / Founders Grove** → *+Shrine Drive-Thru Tree ($15) — the cool-stuff stop, it fits today* → ~5:45 **Garberville** — early arrival, real dinner, actual rest
-*No night driving anywhere on this trip — keep it that way.*
+**⚠ Tonight's two rules:** rotate drivers at every stop, and 2–4 AM is the worst drowsy-driving window on the clock — if you're anywhere near it, take Crescent City. **Book Eureka NOW with a 24-hour front desk** (Motel 6 / Super 8 / Quality Inn / Red Lion on Broadway or 4th St) and call them with your ETA — small motels lock the office at 11.
 
-### DAY 5 — Wed Aug 12 · Bay Area → 🌊 otter kayak → Salinas
+### DAY 4 — Tue Aug 11 · Redwoods → the winding coast → **FORT BRAGG**
+Sleep in. Today is short on miles (~200) and long on payoff: the biggest old-growth on earth, then Hwy 1's best hour, then four coastal state parks in a compact region.
+
 | Time | Plan |
 |---|---|
-| 7:00 AM | Pick up **Eel River Cafe takeout** for lunch; depart Garberville ~7:15 |
-| ~8:15 AM | Optional **Moss Cove southbound rest area** driver swap; skip if nobody needs it |
-| ~11:45 AM | **H. Dana Bower/Vista Point** — restrooms, water, and packed lunch |
-| ~12:30 PM | **Golden Gate / Battery Spencer** — cap the stop at ~20 min and leave Marin by ~12:50 |
-| 3:00–5:00 PM | 🌊 **Elkhorn Slough kayak, Moss Landing (~$50pp)** — densest sea otter population in California. Flat protected water, no surf, otters and seals within feet. **Book for Aug 12.** |
+| 9:00 AM | Depart Eureka, fuel up |
+| 9:50 | ★ **Avenue of the Giants — Founders Grove** (1 hr) — exit 101 at Pepperwood and drive the whole 31-mile alternate. Easy half-mile loop, the fallen Dyerville Giant. Free |
+| 11:00 | **Rockefeller Forest via Mattole Rd** (30 min) — the largest old-growth redwood forest left on earth, bigger trees than Founders and nearly empty. ⚠ Go ~4 mi in and turn around — the full Lost Coast loop is 3+ hr of one-lane cliff road |
+| 12:10 PM | **Garberville** — quick lunch + **FILL THE TANK** (gas gets sparse on Hwy 1). Out by 12:50 |
+| 1:15 | **Chandelier Drive-Thru Tree, Leggett** ($15/car, 15 min) — the real one: 276 ft, car-sized hole |
+| 1:30–2:30 | ★ **LEGGETT HILL — Hwy 1 begins.** ~25 miles of switchbacks and redwood tunnels over the coast range, with a genuine ocean reveal near Rockport. Slowest and best hour of the day. **Daylight only** — carsick-prone rider up front |
+| 2:30 | **Westport-Union Landing State Beach** (20 min, free) — raw bluff-top pullouts, your first Mendocino coast |
+| 3:20 | **Glass Beach, Fort Bragg** (45 min, free) — sea glass from a century of dumped bottles. ⚠ **Collecting is illegal** — it's inside MacKerricher |
+| 4:20 | ★ **MacKerricher SP — Laguna Point** (45 min, **FREE**) — the Fort Bragg state park to prioritize: boardwalk over a harbor-seal haul-out, whales offshore, flat Haul Road beach walk |
+| 5:35 | **Point Cabrillo Light Station** (30 min) — 1909 lighthouse on a wildflower headland |
+| 6:25 | *+Russian Gulch — Devil's Punchbowl ($8/car, 25 min)* — collapsed sea cave that churns with the swell |
+| 7:10 | ★ **Mendocino Headlands** — free bluff trail wrapping a village that looks like coastal Maine. Dinner in town, **sunset ~8:10** |
+| ~9:00 PM | **Fort Bragg** — sleep (cheap motels on N Main St). **Fuel tonight**, alarm set |
+
+**Cut and why:** Samuel Boardman (passed in the dark), **Fern Canyon and Klamath Overlook** — both sit ~45 min *north* of Eureka, so reaching them means a 3.5-hour backtrack and a dark Leggett Hill. The Aug 11 Fern Canyon reservation was free, so nothing is lost but the $12 cash you no longer need. Van Damme, just south of Mendocino, has its own fern canyon if you're grieving.
+
+### DAY 5 — Wed Aug 12 · CA-20 → Bay Area → 🌊 otter kayak → Salinas
+| Time | Plan |
+|---|---|
+| **7:00 AM** | ⚠ **HARD DEPARTURE, Fort Bragg.** No slack today |
+| 7:00–7:50 | **CA-20 east to Willits** — the 33-mile connector back to US-101. The only sane exit; Hwy 1 south to Bodega would add 2.5 hr and blow the kayak |
+| ~12:00 PM | **Golden Gate / Battery Spencer** — ⚠ **20 minutes max**, then go |
+| 2:40 PM | Arrive **Moss Landing**, check in |
+| 3:00–5:00 | 🌊 **Elkhorn Slough kayak (~$50pp)** — densest sea otter population in California. **Confirm the booking today** and tell them you're coming from Fort Bragg |
 | ~6:00 PM | **Salinas** — sleep (Monterey sold out for Car Week) |
 
 ### DAY 6 — Thu Aug 13 · Big Sur
@@ -145,9 +165,9 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 
 ## Booking checklist
 - ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
-- **Reserve:** Fern Canyon day-use for **Aug 11 — TOMORROW** (free, required), Elkhorn Slough kayak (**Aug 12, 3–5 PM**), Malibu surf lesson (**Aug 14, 10 AM**)
-- **Rooms still needed:** Brookings (**TONIGHT Aug 10** — book NOW), Garberville (Aug 11), Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14 — the car goes back Friday 9 PM)
-- **Cash:** Fern Canyon $12, Pfeiffer Beach $12 (no cards)
+- **Reserve / confirm:** Elkhorn Slough kayak (**Aug 12, 3–5 PM** — confirm today), Malibu surf lesson (**Aug 14, 10 AM**). ~~Fern Canyon Aug 11~~ — **dropped**, it's north of Eureka (free reservation, nothing lost).
+- **Rooms still needed:** **Eureka (TONIGHT Aug 10 — arriving near midnight: book a chain with a 24-HOUR FRONT DESK and call with your ETA)**, **Fort Bragg (Aug 11)**, Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14). *Garberville night cancelled.*
+- **Cash:** Pfeiffer Beach $12 (no cards) · Chandelier Drive-Thru Tree $15 · Russian Gulch $8. *Fern Canyon $12 no longer needed.*
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before
 

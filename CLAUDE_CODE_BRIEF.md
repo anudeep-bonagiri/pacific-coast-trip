@@ -44,7 +44,7 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 
 ## 2. Locked-in facts (do not re-litigate)
 
-**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. Day 3 became an **Oregon speed-run** (9 AM Kelso departure; goal restated as more-California-less-Oregon): one icon stop each — Haystack 45 min, Kiwanda pizza, Thor's Well 30 min, Heceta photo — then a deliberate ~90-min night push to **Brookings** (~9:45 PM), an accepted exception to the no-night-driving rule. Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding, and Bandon all cut. Day 4 from Brookings is the payoff: Boardman 8–10 AM out the front door, Crescent City lunch, Klamath Overlook, Fern Canyon 12:30–2:30 (reservation Aug 11), Founders Grove, Garberville ~5:45. **The Hertz drop also moved: FRIDAY Aug 14 by 9 PM at LAX** — Day 7 gas-up happens before Griffith, leave the observatory 7:50, car back ~8:50, hotel shuttle; Day 8 is shuttle-only. Days 5–6 unchanged.
+**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. **Day 3 (Mon) was re-scoped mid-drive to a full push into California**, ending in **Eureka ~11:45 PM–12:30 AM** (Crescent City is the written-in bail-out if a driver is fading; 2–4 AM is the danger window). **Samuel Boardman is cut** — passed in the dark. The new regional focus is the **Mendocino/Fort Bragg coast**: Day 4 runs Eureka → Avenue of the Giants + Rockefeller Forest → Garberville lunch → Chandelier Drive-Thru Tree → **Leggett Hill (Hwy 1's winding hour, daylight-only hard rule)** → Westport → Glass Beach → MacKerricher/Laguna Point (free, the priority park) → Point Cabrillo → Mendocino Headlands sunset → sleep **Fort Bragg**. Day 5 exits east on **CA-20 to Willits at a hard 7:00 AM** (Hwy 1 south would add 2.5 hr and blow the 3 PM kayak). **Also cut: Fern Canyon and Klamath River Overlook** — both ~45 min *north* of Eureka, so they'd mean a 3.5-hr backtrack and a dark Leggett Hill; the Aug 11 Fern Canyon reservation was free, so nothing lost but the $12 cash. **Garberville night cancelled.** The Hertz drop remains **Friday Aug 14 by 9 PM at LAX** (gas before Griffith, leave the observatory 7:50); Day 8 is shuttle-only. Days 6–8 otherwise unchanged.
 
 **Travelers:** 3 people, 19–20 years old. **All under 21** — do not suggest bars/breweries as drinking activities (fine as restaurants). Budget-conscious: cheap motels, one room split 3 ways.
 
@@ -60,19 +60,21 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 - **Sunrise side of Rainier skipped** — 2+ hr from Paradise; doesn't fit with the evening coast drive.
 - **LA day (Day 7)** ends with **Griffith at sunset**, sleeping **near LAX night 7** — no more racing the beach day to a flight. Do not reintroduce a same-day flight after the beaches.
 - **Olympic Peninsula skipped** — too far north, added ~200 miles.
-- **No overnight-split drives** — they sleep in a bed every night and hit the Golden Gate in daylight. Do not reintroduce night driving.
+- **Night driving is now a bounded, deliberate exception** (Mon Aug 10 into Eureka), not a habit — rotate drivers, Crescent City is the bail-out. They still sleep in a bed every night and hit the Golden Gate in daylight.
 - **Sleep Salinas, not Monterey** — Car Week.
-- **Sleep Garberville, not Eureka** — avoids a 45-min backtrack to Avenue of the Giants.
+- ~~Sleep Garberville~~ — **superseded Aug 10**: the trip now sleeps Eureka (Mon) and Fort Bragg (Tue).
 - **Sleep Pismo night 6** — further south shortens the next morning to Malibu.
 - **Skip Hearst Castle tour** — free Piedras Blancas elephant seals instead.
 - **User chose** surf lesson + otter kayak + SoCal swimming. **Declined** ATV dunes.
 
 **Hard constraints:**
+0a. **Leggett Hill (Hwy 1 from Leggett to the coast) must be driven in DAYLIGHT** — reach Leggett by ~1:30 PM Tuesday.
+0b. **Day 5: HARD 7:00 AM departure from Fort Bragg via CA-20** — the 3 PM Elkhorn Slough kayak is ~6 hr away and Hwy 1 south is not an option.
 0. **Car back at LAX FRIDAY Aug 14 by 9:00 PM** (modified drop) — gas before Griffith, leave the observatory 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for the 10:59 flight.
 1. **Mount Rainier** — enter the Nisqually gate **before 7 AM on Aug 9**; pre-7 AM entry has historically been exempt from timed-entry windows, but **VERIFY 2026 rules on nps.gov** and grab a reservation if required. $30/vehicle. No gas in the park; Grove of the Patriarchs remains closed.
 2. **Monterey Car Week Aug 7–16** — do NOT book Monterey/Carmel/Big Sur lodging (sold out, $500+/night).
 3. **Big Sur Hwy 1** is open, but **Rocky Creek Bridge has 24/7 one-way signal control through Aug 31** (≤15 min delay). Check Caltrans QuickMap the morning of Day 6.
-4. **Fern Canyon** — free day-use reservation required **for Aug 11** (May 15–Sep 15 rule), **plus $12 CASH** (no cards).
+4. ~~**Fern Canyon**~~ — **DROPPED** (it's north of Eureka; the plan now runs south). The free Aug 11 reservation is forfeited, and the $12 cash is no longer needed there.
 5. **Pfeiffer Beach** — **$12 CASH** only.
 6. **Return is a MORNING flight** — DL2568 at 10:59 AM Aug 15; no car that morning (see constraint 0), hotel shuttle ~8:30, **airside by ~9:00 AM**.
 
@@ -96,9 +98,9 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 |---|---|---|---|---|
 | 1 | Sat Aug 8 | Land SEA 2:50 → car ~3:45 → Pike Place, Great Wheel → Kerry Park sunset → drive to the Rainier gate | Ashford | ~2.5 hr / 100 mi |
 | 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 | **ACTUAL: Quality Inn, Kelso WA** (stopped short of the coast) | ~4 hr / ~130 mi |
-| 3 | Mon Aug 10 | **Speed-run (9 AM start, goal = California):** Kelso 9:00 → Haystack Rock 11:15 (45 min) → Kiwanda pizza 1:15 → Thor's Well 4:30 (30 min) → Heceta photo 5:15 → Coos Bay dinner/fuel 6:50 → night push south (last ~90 min dark, accepted). Cut: Astoria Column, Ecola, Hug Point, Sea Lion Caves, sandboarding, Bandon | **Brookings ~9:45 PM** | ~8 hr / ~380 mi |
-| 4 | Tue Aug 11 | **Payoff day:** Boardman 8:00 out the front door (2 hr, morning light) → Crescent City lunch 11:00 → Klamath Overlook 11:45 → Fern Canyon 12:30–2:30 → Founders Grove 4:30 (+drive-thru tree) | Garberville ~5:45 PM | ~4.5 hr / ~200 mi |
-| 5 | Wed Aug 12 | Golden Gate (daylight, ~12:30) → 🌊 **Elkhorn Slough otter kayak** 3–5 PM | Salinas | ~6 hr / 300 mi |
+| 3 | Mon Aug 10 | **Oregon speed-run:** Kelso 9:00 → Haystack ✅ → Tillamook Creamery ✅ → Thor's Well 4:15 → Heceta 5:00 → Coos Bay dinner/fuel 6:40 → Brookings 9:15 → **big night push into California** (Crescent City = bail-out) | **Eureka, CA ~11:45 PM** | ~10 hr / ~490 mi |
+| 4 | Tue Aug 11 | **The payoff:** Eureka 9:00 → Avenue of the Giants/Founders Grove → Rockefeller Forest (Mattole Rd) → Garberville lunch → Chandelier Drive-Thru Tree → **★ Leggett Hill, Hwy 1's winding hour (daylight only)** → Westport → Glass Beach → MacKerricher/Laguna Point → Point Cabrillo → Mendocino Headlands sunset | **Fort Bragg ~9 PM** | ~5 hr / ~200 mi |
+| 5 | Wed Aug 12 | **HARD 7:00 AM** out of Fort Bragg → **CA-20 east to Willits** → US-101 → Golden Gate/Battery Spencer 12:00 (20 min max) → 🌊 **Elkhorn Slough kayak 3–5 PM** | Salinas | ~6.5 hr / ~330 mi |
 | 6 | Thu Aug 13 | Point Lobos → Garrapata → Bixby → Pfeiffer → Nepenthe → McWay → elephant seals → Morro Bay | Pismo Beach | ~5.5 hr / 250 mi |
 | 7 | Fri Aug 14 | 🌊 **Malibu surf lesson** 10–12 → El Matador → Point Dume → 🌊 **Santa Monica swim** 2:30 → Venice → gas up → **Griffith sunset** 6:30, leave 7:50 → **Hertz LAX by 9 PM** | near LAX via hotel shuttle | ~4.5 hr / ~215 mi |
 | 8 | Sat Aug 15 | No car (returned Friday 9 PM) → hotel shuttle ~8:30 → airside ~9:00 → DL2568 10:59 AM → SAT 3:59 PM | fly home | shuttle |
