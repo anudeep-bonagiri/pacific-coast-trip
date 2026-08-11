@@ -95,6 +95,7 @@ Sleep in. Today is short on miles (~200) and long on payoff: the biggest old-gro
 | 9:00 AM | Depart Eureka, fuel up |
 | 9:50 | ★ **Avenue of the Giants — Founders Grove** (1 hr) — exit 101 at Pepperwood and drive the whole 31-mile alternate. Easy half-mile loop, the fallen Dyerville Giant. Free |
 | 11:00 | **Rockefeller Forest via Mattole Rd** (30 min) — the largest old-growth redwood forest left on earth, bigger trees than Founders and nearly empty. ⚠ Go ~4 mi in and turn around — the full Lost Coast loop is 3+ hr of one-lane cliff road |
+| 11:45 | *+**Shrine Drive-Thru Tree**, Myers Flat (~$15, 10 min) — your second drive-thru tree, right on the Avenue, zero detour* |
 | 12:10 PM | **Garberville** — quick lunch + **FILL THE TANK** (gas gets sparse on Hwy 1). Out by 12:50 |
 | 1:15 | **Chandelier Drive-Thru Tree, Leggett** ($15/car, 15 min) — the real one: 276 ft, car-sized hole |
 | 1:30–2:30 | ★ **LEGGETT HILL — Hwy 1 begins.** ~25 miles of switchbacks and redwood tunnels over the coast range, with a genuine ocean reveal near Rockport. Slowest and best hour of the day. **Daylight only** — carsick-prone rider up front |

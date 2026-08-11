@@ -449,6 +449,15 @@
     },
     {
       "day": 4,
+      "kind": "bonus",
+      "name": "Shrine Drive-Thru Tree, Myers Flat",
+      "time": "+ 11:45 AM · 10 min · ~$15/car",
+      "lat": 40.2647,
+      "lon": -123.8875,
+      "desc": "Your SECOND drive-thru tree, and it is directly on the Avenue — no detour at all. Do both: Shrine here at Myers Flat, Chandelier at Leggett 90 min later. Also on the Avenue: several signed one-lane spurs where the road tunnels straight through the grove."
+    },
+    {
+      "day": 4,
       "kind": "sight",
       "name": "Garberville — lunch + fuel",
       "time": "12:10 PM · 40 min",
