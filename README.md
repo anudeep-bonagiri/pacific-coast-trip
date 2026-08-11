@@ -57,7 +57,7 @@ awk 'f&&/<\/script>/{f=0} f{print} /<script>$/{f=1}' map.html > /tmp/app.js && n
 ## ⚠️ Keep these in any deliverable
 
 - **Water safety** — the northern half is not swimmable (sneaker waves, 52–59°F). Swimming only in SoCal on Day 7.
-- **Cash-only** warnings — Fern Canyon $12, Pfeiffer Beach $12.
+- **Cash-only** warnings — Chandelier Drive-Thru Tree $15, Pfeiffer Beach $12. *(Fern Canyon was dropped when the route changed on Aug 11.)*
 - Prices/conditions verified **mid-July 2026** — reverify anything time-sensitive before the trip.
 
 *Built with Claude Code.*

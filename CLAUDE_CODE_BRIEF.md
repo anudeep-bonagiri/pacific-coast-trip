@@ -8,20 +8,20 @@ Paste this whole file (plus `trip_data.json`) into Claude Code. It contains ever
 
 Planning a **Seattle → Los Angeles Pacific Coast road trip** for **3 guys, ages 19–20, first time on the coast**, and building an **interactive map** deliverable.
 
-**Trip:** Aug 8–15, 2026 · 8 days, 7 nights · ~1,550 miles · fly into SEA, out of LAX.
+**Trip:** Aug 8–15, 2026 · 8 days, 7 nights · ~1,900 miles · fly into SEA, out of LAX.
 
 ### Files in this project
 | File | What it is |
 |---|---|
 | `map.html` | **Main deliverable.** Self-contained interactive Leaflet map. Open in any browser. |
-| `trip_data.json` | Machine-readable trip data: 8 days, 51 stops with coords, all constraints, budget. **Source of truth for the data.** |
+| `trip_data.json` | Machine-readable trip data: 8 days, 63 stops with coords, all constraints, budget. **Source of truth for the data.** |
 | `roadtrip_itinerary.md` | Human-readable timed itinerary + costs + safety notes. |
 | `CLAUDE_CODE_BRIEF.md` | This file. |
 
 ### How the map works (architecture)
 Single self-contained HTML file. No build step, no framework.
 - **Leaflet 1.9.4** + CARTO Voyager tiles, both from `cdnjs.cloudflare.com`.
-- Two data arrays near the top of the `<script>`: `DAYS` (8 entries) and `STOPS` (51 entries). **Edit these to change the trip** — everything else derives from them.
+- Two data arrays near the top of the `<script>`: `DAYS` (8 entries) and `STOPS` (63 entries). **Edit these to change the trip** — everything else derives from them.
 - Each stop has a `kind` that controls its marker:
   - `sight` → numbered circle (auto-numbered in drive order)
   - `gem` → ★ (hidden gems / best viewpoints)
@@ -44,7 +44,7 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 
 ## 2. Locked-in facts (do not re-litigate)
 
-**⚡ TRIP IS LIVE — actuals so far:** Days 1–2 happened. **Night 2 (Aug 9) actually ended at the Quality Inn in Kelso, WA** (I-5 exit 39) — they stopped short of the planned Seaside/Cannon Beach night after Rainier; no Astoria dinner. **Day 3 (Mon) was re-scoped mid-drive to a full push into California**, ending in **Eureka ~11:45 PM–12:30 AM** (Crescent City is the written-in bail-out if a driver is fading; 2–4 AM is the danger window). **Samuel Boardman is cut** — passed in the dark. The new regional focus is the **Mendocino/Fort Bragg coast**: Day 4 runs Eureka → Avenue of the Giants + Rockefeller Forest → Garberville lunch → Chandelier Drive-Thru Tree → **Leggett Hill (Hwy 1's winding hour, daylight-only hard rule)** → Westport → Glass Beach → MacKerricher/Laguna Point (free, the priority park) → Point Cabrillo → Mendocino Headlands sunset → sleep **Fort Bragg**. Day 5 exits east on **CA-20 to Willits at a hard 7:00 AM** (Hwy 1 south would add 2.5 hr and blow the 3 PM kayak). **Also cut: Fern Canyon and Klamath River Overlook** — both ~45 min *north* of Eureka, so they'd mean a 3.5-hr backtrack and a dark Leggett Hill; the Aug 11 Fern Canyon reservation was free, so nothing lost but the $12 cash. **Garberville night cancelled.** The Hertz drop remains **Friday Aug 14 by 9 PM at LAX** (gas before Griffith, leave the observatory 7:50); Day 8 is shuttle-only. Days 6–8 otherwise unchanged.
+**⚡ TRIP IS LIVE — actuals so far:** Days 1–3 happened. **Night 2 (Aug 9) ended at the Quality Inn in Kelso, WA** — short of the planned coast night after Rainier. **Night 3 (Aug 10) ended in EUREKA, CA (~11:45 PM)** after a deliberate 10-hour push down Oregon; Samuel Boardman was passed in the dark and is cut. **Day 4 (Tue Aug 11) runs Hwy 1 the ENTIRE way from Eureka to San Francisco** — Avenue of the Giants/Founders Grove, Garberville lunch, Chandelier Drive-Thru Tree, ★ Leggett Hill, MacKerricher/Laguna Point seals, Glass Beach (+ mandatory fuel in Fort Bragg), Mendocino Headlands, then the golden-hour run through Elk/Point Arena/Gualala and the cliff section past Sea Ranch and Stewarts Point to Jenner, **sunset at Bodega Head ~8:05**, then inland via Valley Ford/Petaluma to SF ~9:45 PM. **The CA-20/Willits inland shortcut was considered and REJECTED** — it only saved time that would have been spent waiting at a Marin viewpoint for sunset, and Willits has nothing in it. **Day 5 (Wed)** is an SF morning (Sutro Baths/Lands End, walk the Golden Gate, Mission lunch, roll by 1:15) → **Elkhorn Slough kayak 3–5 PM** → sleep **Salinas**. **Cut along the way:** Fern Canyon + Klamath Overlook (north of Eureka; free reservation forfeited), Rockefeller Forest, Shrine tree, Westport, Point Cabrillo, Russian Gulch — all duplicates. **Cancelled nights:** Garberville, Fort Bragg, Gualala, Bay Area. The Hertz drop is **Friday Aug 14 by 9 PM at LAX**; Day 8 is shuttle-only. Days 6–8 otherwise unchanged.
 
 **Travelers:** 3 people, 19–20 years old. **All under 21** — do not suggest bars/breweries as drinking activities (fine as restaurants). Budget-conscious: cheap motels, one room split 3 ways.
 
@@ -52,7 +52,7 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 - **Out · Sat Aug 8:** DL2534 SAT 7:30 AM → LAX 8:33 AM, then DL1045 LAX 12:07 PM → **lands SEA 2:50 PM**. Delta, $124.
 - **Back · Sat Aug 15:** **DL2568 LAX 10:59 AM → SAT 3:59 PM.** The car went back Friday night — Saturday is hotel shuttle ~8:30 AM, airside ~9.
 
-**Car:** Hertz — picked up SEA ~3:45 PM Aug 8; **drop UPDATED to LAX Friday Aug 14 by 9 PM** (7 days — verify the adjusted total vs the ~$1,060/8-day estimate). Under-25 surcharge applies; **all three are on the contract** to rotate drivers. Gas budgeted **~$290**.
+**Car:** Hertz — picked up SEA ~3:45 PM Aug 8; **drop UPDATED to LAX Friday Aug 14 by 9 PM** (7 days — verify the adjusted total vs the ~$1,060/8-day estimate). Under-25 surcharge applies; **all three are on the contract** to rotate drivers. Gas budgeted **~$290** — *low now; the route grew to ~1,900 mi, so budget closer to **$380***.
 
 **Decisions already made (with reasons):**
 - **Trip extended to Aug 15 (8 days, 7 nights)** — bought a full **Mount Rainier day** and a full **LA day**, with the return flight booked for Sat morning.
@@ -60,16 +60,16 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 - **Sunrise side of Rainier skipped** — 2+ hr from Paradise; doesn't fit with the evening coast drive.
 - **LA day (Day 7)** ends with **Griffith at sunset**, sleeping **near LAX night 7** — no more racing the beach day to a flight. Do not reintroduce a same-day flight after the beaches.
 - **Olympic Peninsula skipped** — too far north, added ~200 miles.
-- **Night driving is now a bounded, deliberate exception** (Mon Aug 10 into Eureka), not a habit — rotate drivers, Crescent City is the bail-out. They still sleep in a bed every night and hit the Golden Gate in daylight.
+- **Night driving is a bounded, deliberate exception** (Mon Aug 10 into Eureka; Tue's post-sunset leg is easy inland highway, not cliffs) — rotate drivers. They still sleep in a bed every night.
 - **Sleep Salinas, not Monterey** — Car Week.
-- ~~Sleep Garberville~~ — **superseded Aug 10**: the trip now sleeps Eureka (Mon) and Fort Bragg (Tue).
+- ~~Sleep Garberville / Fort Bragg / Gualala~~ — **all superseded**: the trip sleeps Eureka (Mon), **San Francisco (Tue)**, Salinas (Wed).
 - **Sleep Pismo night 6** — further south shortens the next morning to Malibu.
 - **Skip Hearst Castle tour** — free Piedras Blancas elephant seals instead.
 - **User chose** surf lesson + otter kayak + SoCal swimming. **Declined** ATV dunes.
 
 **Hard constraints:**
-0a. **Leggett Hill (Hwy 1 from Leggett to the coast) must be driven in DAYLIGHT** — reach Leggett by ~1:30 PM Tuesday.
-0b. **Day 5: HARD 7:00 AM departure from Fort Bragg via CA-20** — the 3 PM Elkhorn Slough kayak is ~6 hr away and Hwy 1 south is not an option.
+0a. **Leggett Hill must be driven in DAYLIGHT** — reach Leggett by ~1:00 PM Tuesday. Same for the Sea Ranch→Jenner cliff section: be through it by sunset (~8:05).
+0b. **Day 5: leave San Francisco by 1:15 PM** — the 3 PM Elkhorn Slough kayak at Moss Landing is 1h45 south.
 0. **Car back at LAX FRIDAY Aug 14 by 9:00 PM** (modified drop) — gas before Griffith, leave the observatory 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for the 10:59 flight.
 1. **Mount Rainier** — enter the Nisqually gate **before 7 AM on Aug 9**; pre-7 AM entry has historically been exempt from timed-entry windows, but **VERIFY 2026 rules on nps.gov** and grab a reservation if required. $30/vehicle. No gas in the park; Grove of the Patriarchs remains closed.
 2. **Monterey Car Week Aug 7–16** — do NOT book Monterey/Carmel/Big Sur lodging (sold out, $500+/night).
@@ -99,13 +99,13 @@ Also sanity-check that latitudes within each day run roughly north→south — t
 | 1 | Sat Aug 8 | Land SEA 2:50 → car ~3:45 → Pike Place, Great Wheel → Kerry Park sunset → drive to the Rainier gate | Ashford | ~2.5 hr / 100 mi |
 | 2 | Sun Aug 9 | 🏔 **Mount Rainier**: Nisqually gate 6 AM → Christine + Narada Falls → **Paradise Skyline Trail** 7:15–1 → Reflection Lakes → out by ~5:30 | **ACTUAL: Quality Inn, Kelso WA** (stopped short of the coast) | ~4 hr / ~130 mi |
 | 3 | Mon Aug 10 | **Oregon speed-run:** Kelso 9:00 → Haystack ✅ → Tillamook Creamery ✅ → Thor's Well 4:15 → Heceta 5:00 → Coos Bay dinner/fuel 6:40 → Brookings 9:15 → **big night push into California** (Crescent City = bail-out) | **Eureka, CA ~11:45 PM** | ~10 hr / ~490 mi |
-| 4 | Tue Aug 11 | **The payoff:** Eureka 9:00 → Avenue of the Giants/Founders Grove → Rockefeller Forest (Mattole Rd) → Garberville lunch → Chandelier Drive-Thru Tree → **★ Leggett Hill, Hwy 1's winding hour (daylight only)** → Westport → Glass Beach → MacKerricher/Laguna Point → Point Cabrillo → Mendocino Headlands sunset | **Fort Bragg ~9 PM** | ~5 hr / ~200 mi |
-| 5 | Wed Aug 12 | **HARD 7:00 AM** out of Fort Bragg → **CA-20 east to Willits** → US-101 → Golden Gate/Battery Spencer 12:00 (20 min max) → 🌊 **Elkhorn Slough kayak 3–5 PM** | Salinas | ~6.5 hr / ~330 mi |
+| 4 | Tue Aug 11 | Eureka 9:30 gas → Avenue of the Giants/Founders Grove → Garberville lunch → Chandelier Drive-Thru Tree → **★ Leggett Hill** → MacKerricher/Laguna Point seals → Glass Beach + **fuel in Fort Bragg** → Mendocino Headlands → **★ Elk/Point Arena/Gualala golden hour** → **★ Sea Ranch/Stewarts Point/Jenner** → **Bodega Bay sunset 8:05** → inland via Valley Ford/Petaluma | **San Francisco ~9:45 PM** | ~9 hr / ~430 mi |
+| 5 | Wed Aug 12 | SF 9:30 Lands End + Sutro Baths → 11:15 **walk the Golden Gate** → 12:30 Mission lunch, **roll by 1:15** → 🌊 **Elkhorn Slough kayak 3–5 PM** | Salinas | ~3 hr / ~130 mi |
 | 6 | Thu Aug 13 | Point Lobos → Garrapata → Bixby → Pfeiffer → Nepenthe → McWay → elephant seals → Morro Bay | Pismo Beach | ~5.5 hr / 250 mi |
 | 7 | Fri Aug 14 | 🌊 **Malibu surf lesson** 10–12 → El Matador → Point Dume → 🌊 **Santa Monica swim** 2:30 → Venice → gas up → **Griffith sunset** 6:30, leave 7:50 → **Hertz LAX by 9 PM** | near LAX via hotel shuttle | ~4.5 hr / ~215 mi |
 | 8 | Sat Aug 15 | No car (returned Friday 9 PM) → hotel shuttle ~8:30 → airside ~9:00 → DL2568 10:59 AM → SAT 3:59 PM | fly home | shuttle |
 
-Full hour-by-hour timings are in `roadtrip_itinerary.md`; all 51 stops with coordinates and descriptions are in `trip_data.json`.
+Full hour-by-hour timings are in `roadtrip_itinerary.md`; all 63 stops with coordinates and descriptions are in `trip_data.json`.
 
 ---
 
