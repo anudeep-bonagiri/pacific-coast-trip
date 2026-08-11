@@ -104,17 +104,25 @@ No inland shortcut. Willits is a junction town with nothing in it, and CA-20 onl
 | 6:15–7:45 | ★ **Sea Ranch → Stewarts Point → JENNER** | **The best stretch.** True cliff-edge road above the surf. At Jenner the Russian River meets the ocean — **harbor seals on the sandbar**, and the overlook north of town is spectacular in low light |
 | **7:50–8:25** | ★ **BODEGA BAY — SUNSET ~8:05** | Bodega Head is the best free viewpoint; Doran Beach also works. Hitchcock's *Birds* town — schoolhouse up the hill in Bodega |
 | 8:25–9:45 | Inland: **Valley Ford → Petaluma → US-101** | Rolling farmland and easy highway. **No cliffs in the dark** |
-| ~9:45 PM | **San Francisco** — check in | South SF / Daly City / Millbrae. ⚠ Bring everything inside — break-ins are constant |
+| ~9:40 PM | **Drive the Golden Gate** — floodlit towers, city opens up on the far side |
+| ~9:55 PM | 🍫 **Ghirardelli Square** — ⚠ **GO HERE FIRST, closes ~10 PM weekdays. Call ahead.** Hot fudge sundae. Park in the Beach St garage |
+| ~10:45 PM | **Chinatown** — shops are shut, but Grant Ave lanterns and the Dragon Gate are lit. 20–30 min walk |
+| ~11:30 PM | **Hotel** — South SF / Daly City / Millbrae. ⚠ Bring everything inside |
 
-### DAY 5 — Wed Aug 12 · SF morning → 🌊 otter kayak → Salinas
+### DAY 5 — Wed Aug 12 · Golden Gate sunrise → Stanford → Apple Park → *(branch)*
 | Time | Stop | What you're seeing |
 |---|---|---|
-| 9:30–11:00 | **Lands End + Sutro Baths** *(free)* | Ruins of the 1896 Sutro Baths — a giant seawater swimming palace that burned in 1966; you walk through the concrete shell. Then the Lands End cliff trail with the bridge framed by cypress. ⚠ Empty the car |
-| 11:15–12:15 | ★ **Walk the Golden Gate Bridge** *(free)* | Park at the Welcome Center, walk out onto the span — 220 ft above the water and it moves under the traffic. Out 15–20 min and back is plenty |
-| 12:30–1:15 | **Lunch** | Mission District taquerias (huge cheap burritos; confirm no lard in the beans) or the Ferry Building. **Roll by 1:15** |
-| 2:40 | Arrive **Moss Landing** | Check in for the paddle |
-| 3:00–5:00 | 🌊 **Elkhorn Slough kayak** *(~$50pp)* | Densest sea otter population in California. Flat protected water — otters, harbor seals and pelicans within feet of the boat |
-| ~6:00 PM | **Salinas** — sleep | Restored: no Bay Area premium, no 6 AM sprint tomorrow. ⚠ **Fill the tank** — Big Sur gas is scarce |
+| 5:45 AM | Leave the hotel | |
+| **6:20** | ★ **GOLDEN GATE SUNRISE — Torpedo Wharf / Crissy Field** *(free)* | Sun comes up behind you over the bay and lights the bridge face orange. Free parking on Marine Dr at that hour, and it's 10 min from Pier 39 |
+| 7:15 | **Pier 39 — sea lions** *(free, 45 min)* | ⚠ Shops don't open till 10 — but the sea lions live on K-Dock 24/7 and are far better without crowds. Coffee on the Embarcadero. South by 8:15 |
+| 9:00 | **Stanford — Main Quad** *(free, 1 hr)* | Memorial Church's mosaic facade is the photo; Hoover Tower deck if open (limited summer hours). Visitor lot off Galvez St |
+| 10:15 | **Apple Park Visitor Center** *(free, 45 min)* | ⚠ **You cannot tour the ring or the campus.** You get an AR model on an iPad, a roof terrace with a distant view, a café, and Apple Park-exclusive merch. 45 min covers it |
+| **11:15** | ⚠ **THE DAY BRANCHES** | See below |
+
+**⚠ The kayak and Big Sur cannot both happen Wednesday.** A 3–5 PM paddle puts you at Point Lobos at 5:30 — Big Sur in the dark.
+
+- **BRANCH A — recommended, keeps everything.** **Santa Cruz Beach Boardwalk** 12:30–2:15 (free entry, 1924 Giant Dipper, real beach — and it's directly on the Cupertino→Moss Landing line) → 🌊 **Elkhorn Slough kayak 3–5** → **Salinas ~6 PM** → Big Sur tomorrow with a civilised 6:45 start.
+- **BRANCH B — drop the kayak.** Straight to **Point Lobos ~12:45**, run Big Sur this afternoon in good light → **Pismo ~8:30 PM**. Frees Thursday entirely. **Cancel the kayak** so you aren't charged.
 
 ### DAY 6 — Thu Aug 13 · Big Sur
 6:45 **El Charrito, Salinas** — collect four packed burritos (vegetarian bean/chile relleno + pollo guisado) → 8:30 **Point Lobos** → 10:15 **Garrapata/Soberanes** → 11:00 **Bixby Bridge** (check QuickMap) → 12:00 **Pfeiffer Beach** ($12 cash) → 1:15 **picnic lunch** → *Café Kevah only as a $18–25 pp scenic backup* → 2:45 **McWay Falls** → *+Sand Dollar Beach & Jade Cove* → **Ragged Point** (restrooms/fuel) → ~4:30 **Elephant seals** → 5:45 **Morro Bay** dinner → ~7:15 **Pismo Beach** — sleep

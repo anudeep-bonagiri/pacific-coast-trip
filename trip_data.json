@@ -83,7 +83,8 @@
       "MAJOR REPLAN Aug 10 (from the road): goal is now the Mendocino/Fort Bragg region. Day 3 extends past Brookings all the way to EUREKA CA (~11:45 PM-12:30 AM; Crescent City is the bail-out if anyone is fading). Day 4 = Eureka -> Avenue of the Giants/Founders Grove + Rockefeller Forest -> Garberville lunch -> Chandelier Drive-Thru Tree -> LEGGETT HILL Hwy 1 winding hour (daylight only) -> Westport -> Glass Beach -> MacKerricher/Laguna Point -> Point Cabrillo -> Mendocino Headlands sunset -> sleep FORT BRAGG. Day 5 exits east on CA-20 to Willits at a hard 7 AM to make the 3 PM kayak. CUT: Samuel Boardman (passed in the dark), Fern Canyon + Klamath Overlook (both north of Eureka, Aug 11 reservation forfeited - it was free), Garberville night.",
       "REPLAN Aug 11 (Eureka morning): cut the DUPLICATE stops to buy ~3 hr of road time — Rockefeller Forest (repeat of Founders Grove), Shrine tree (repeat of Chandelier), Westport-Union Landing (repeat of every bluff), Point Cabrillo (repeat of Heceta Head yesterday), Russian Gulch; Glass Beach trimmed to 25 min. Night 4 moves from Fort Bragg SOUTH to GUALALA (~6:45 PM, daylight) via the golden-hour Hwy 1 run through Elk/Point Arena/Sea Ranch. Night 5 is now SAN FRANCISCO for sunset (~8:05 PM) — Salinas CANCELLED. Kayak is the open branch: if still booked, SF midday + Moss Landing 3 PM + return north for sunset; if not, full SF afternoon. Knock-on: Thursday's Big Sur day starts ~2 hr further north, so 6 AM alarm for Point Lobos by 8:45.",
       "FINAL Aug 11 plan (Option B): Eureka 9:30 gas -> Avenue of the Giants/Founders Grove -> Garberville lunch+fuel -> Chandelier Drive-Thru Tree -> LEGGETT HILL -> MacKerricher/Laguna Point seals -> Glass Beach -> CA-20 east to Willits -> US-101 -> MARIN HEADLANDS/HAWK HILL for sunset ~8:05 -> sleep SAN FRANCISCO. Mendocino Headlands and the whole Sonoma coast traded away for SF tonight. Downstream FIX: Wed = SF morning (Lands End/Sutro Baths, walk the bridge, Mission lunch) -> Moss Landing kayak 3-5 -> sleep SALINAS restored (no Bay Area premium); Thu Big Sur back to a normal 6:45 start. Gualala and Fort Bragg nights cancelled.",
-      "REVISED Aug 11: dropped the CA-20/Willits inland shortcut and took HWY 1 THE ENTIRE WAY to SF. Willits is a junction town with nothing in it, and the inland route only saved time that would have been spent waiting at Hawk Hill for sunset — real cost of the coast is 30-60 min of hotel arrival. Mendocino Headlands restored (20 min). Golden hour runs Elk/Point Arena/Gualala 5:00-6:15, the wild Sea Ranch-Stewarts Point-Jenner cliff section 6:15-7:45, SUNSET AT BODEGA BAY ~8:05, then inland via Valley Ford/Petaluma (easy highway, no cliffs in the dark) to SF ~9:45. Golden Gate is not lost — they walk the bridge Wed 11:15 AM. ⚠ Fuel in Fort Bragg before heading south."
+      "REVISED Aug 11: dropped the CA-20/Willits inland shortcut and took HWY 1 THE ENTIRE WAY to SF. Willits is a junction town with nothing in it, and the inland route only saved time that would have been spent waiting at Hawk Hill for sunset — real cost of the coast is 30-60 min of hotel arrival. Mendocino Headlands restored (20 min). Golden hour runs Elk/Point Arena/Gualala 5:00-6:15, the wild Sea Ranch-Stewarts Point-Jenner cliff section 6:15-7:45, SUNSET AT BODEGA BAY ~8:05, then inland via Valley Ford/Petaluma (easy highway, no cliffs in the dark) to SF ~9:45. Golden Gate is not lost — they walk the bridge Wed 11:15 AM. ⚠ Fuel in Fort Bragg before heading south.",
+      "Aug 11 evening + Aug 12 request: SF night = drive the Golden Gate ~9:40, GHIRARDELLI SQUARE first (⚠ closes ~10 PM weekdays - call ahead), Chinatown walk-through (shops shut, lanterns lit), hotel. Wed reordered for geography (user's order zigzagged SF->Palo Alto->SF->Cupertino): GOLDEN GATE SUNRISE 6:20 at Torpedo Wharf -> PIER 39 sea lions 7:15 (shops shut till 10, sea lions are 24/7) -> STANFORD 9:00 -> APPLE PARK VISITOR CENTER 10:15 (⚠ campus NOT tourable). ⚠ HARD CONFLICT surfaced: 3 PM kayak and starting Big Sur the same day are mutually exclusive. BRANCH A (recommended) = Santa Cruz Boardwalk filler 12:30-2:15, kayak 3-5, sleep Salinas, Big Sur Thu. BRANCH B = drop/cancel kayak, Point Lobos 12:45, Big Sur this afternoon, Pismo ~8:30, Thursday freed."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -104,7 +105,8 @@
       "Big Sur Hwy 1 open but Rocky Creek Bridge has 24/7 one-way signal control through Aug 31 (<=15min delay) - check Caltrans QuickMap",
       "Fern Canyon RESERVATION FORFEITED (it is north of Eureka; the new plan runs south). $12 CASH now only needed for Pfeiffer Beach on Day 6.",
       "Pfeiffer Beach is $12 CASH only",
-      "Car back at LAX FRIDAY Aug 14 by 9:00 PM (modified drop). Gas up before Griffith; leave the observatory by 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for DL2568 at 10:59 AM."
+      "Car back at LAX FRIDAY Aug 14 by 9:00 PM (modified drop). Gas up before Griffith; leave the observatory by 7:50 PM. Saturday is car-less: hotel airport shuttle ~8:30 AM for DL2568 at 10:59 AM.",
+      "Aug 12 mutually exclusive: the 3 PM Elkhorn Slough kayak vs. starting Big Sur the same day. Pick one - a 3-5 PM paddle means driving Big Sur after dark."
     ],
     "safety": {
       "water_temps_august": {
@@ -147,13 +149,13 @@
     {
       "day": 4,
       "title": "Aug 11 · Redwoods → Hwy 1 ALL THE WAY → SAN FRANCISCO",
-      "drive": "9:30 AM Eureka → Bodega sunset 8:05 · ~9 hr · ~430 mi",
+      "drive": "9:30 AM Eureka → SF ~9:40 PM · Ghirardelli + Chinatown · ~430 mi",
       "color": "#ffb000"
     },
     {
       "day": 5,
-      "title": "Aug 12 · SF morning → Otter kayak → Salinas",
-      "drive": "SF 9:30 AM → Moss Landing 2:40 → Salinas ~6 PM · ~3 hr",
+      "title": "Aug 12 · GG sunrise · Pier 39 · Stanford · Apple Park",
+      "drive": "5:45 AM start → branch at 11:15 → Salinas or Pismo",
       "color": "#3cb44b"
     },
     {
@@ -528,6 +530,34 @@
     },
     {
       "day": 4,
+      "kind": "sight",
+      "name": "Drive the Golden Gate Bridge",
+      "time": "~9:40 PM · lit up",
+      "lat": 37.8199,
+      "lon": -122.4783,
+      "desc": "You cross it anyway coming down 101 from Petaluma — the towers are floodlit and the city opens up on the far side. Free (southbound into SF is the toll-free direction; northbound is tolled and billed to Hertz)."
+    },
+    {
+      "day": 4,
+      "kind": "sight",
+      "name": "Ghirardelli Square — chocolate + ice cream",
+      "time": "~9:55 PM · ⚠ CHECK HOURS",
+      "lat": 37.8058,
+      "lon": -122.4229,
+      "desc": "⚠ TIME-CRITICAL — do this FIRST tonight. The Original Ghirardelli Ice Cream & Chocolate Shop typically closes ~10 PM on weekdays (later Fri/Sat), so you are arriving near last call. CALL AHEAD from the road. Hot fudge sundae is the thing. 🅿️ Use the Ghirardelli Square garage on Beach St or a Wharf garage — do NOT street-park a loaded rental here.",
+      "parking": "Ghirardelli Square Garage, 900 North Point St"
+    },
+    {
+      "day": 4,
+      "kind": "sight",
+      "name": "Chinatown — Grant Ave + Dragon Gate",
+      "time": "~10:45 PM · walk-through",
+      "lat": 37.7908,
+      "lon": -122.4056,
+      "desc": "Oldest Chinatown in North America. ⚠ At this hour the shops are shut — but Grant Ave's lanterns and the Dragon Gate at Bush St stay lit and it is a genuinely good night walk. A few late restaurants and bakeries stay open. Treat it as atmosphere, not shopping; 20–30 min, then the hotel."
+    },
+    {
+      "day": 4,
       "kind": "sleep",
       "name": "Sleep: San Francisco area",
       "time": "🛏 Night 4 · check in ~9:45 PM",
@@ -537,49 +567,78 @@
     },
     {
       "day": 5,
-      "kind": "sight",
-      "name": "Lands End + Sutro Baths",
-      "time": "9:30–11:00 AM · free",
-      "lat": 37.78,
-      "lon": -122.5137,
-      "desc": "🅿️ Free lot at the Lands End Lookout visitor center. The best free morning in the city: the ruins of the 1896 Sutro Baths (a giant seawater swimming palace that burned in 1966 — you walk through the concrete shell), then the Lands End Trail along the cliffs with the bridge framed by cypress. ⚠ Classic break-in lot — empty the car.",
-      "parking": "Lands End Lookout, San Francisco, CA"
-    },
-    {
-      "day": 5,
       "kind": "gem",
-      "name": "Golden Gate Bridge — walk it",
-      "time": "★ 11:15 AM–12:15 PM · free",
-      "lat": 37.8199,
-      "lon": -122.4783,
-      "desc": "★ Park at the Welcome Center on the SF side and walk out onto the span — it is 1.7 mi across, but going out 15–20 min and back is enough to feel it move under traffic. 220 ft above the water. Free."
+      "name": "Golden Gate SUNRISE — Torpedo Wharf",
+      "time": "★ 6:20 AM · free",
+      "lat": 37.808,
+      "lon": -122.4655,
+      "desc": "★ Sunrise ~6:20. Torpedo Wharf / Crissy Field on the SF side is the pick: the sun comes up behind you over the bay and lights the bridge face orange, and it is 10 min from Pier 39 so it feeds straight into the morning. (Battery Spencer on the Marin side is the other classic but it is a backtrack.) Leave the hotel ~5:45. Free parking along Marine Dr at that hour.",
+      "parking": "Torpedo Wharf, Crissy Field, San Francisco, CA"
     },
     {
       "day": 5,
       "kind": "sight",
-      "name": "Lunch — Mission burritos or Ferry Building",
-      "time": "12:30–1:15 PM",
-      "lat": 37.7599,
-      "lon": -122.4148,
-      "desc": "Mission District taquerias for a huge cheap burrito (veggie options everywhere; confirm no lard in the beans), or the Ferry Building marketplace if you want to be near the water. Then straight south — you need to roll by 1:15."
+      "name": "Pier 39 — sea lions",
+      "time": "7:15 AM · free · 45 min",
+      "lat": 37.8087,
+      "lon": -122.4098,
+      "desc": "⚠ The SHOPS do not open until ~10 AM — but the sea lions are the actual attraction and they are on K-Dock 24/7, free, and far better without crowds. Barking, piled on the floats, dozens of them. Grab coffee on the Embarcadero. Then head south by 8:15."
+    },
+    {
+      "day": 5,
+      "kind": "sight",
+      "name": "Stanford University — Main Quad",
+      "time": "9:00 AM · free · 1 hr",
+      "lat": 37.4275,
+      "lon": -122.1697,
+      "desc": "~45 min south of SF. Walk the Main Quad and Memorial Church (the mosaic facade is the photo), and Hoover Tower has an observation deck if it is open — hours are limited in summer, check at the base. Campus is open and free; park in a visitor lot off Galvez St. Quiet in August.",
+      "parking": "Stanford Oval, Palo Alto, CA"
+    },
+    {
+      "day": 5,
+      "kind": "sight",
+      "name": "Apple Park Visitor Center",
+      "time": "10:15 AM · free · 45 min",
+      "lat": 37.3327,
+      "lon": -122.0054,
+      "desc": "⚠ SET EXPECTATIONS: you CANNOT tour the ring building or the campus — it is closed to the public. The Visitor Center opens 10 AM and gives you an augmented-reality model of the campus on an iPad, a roof terrace with a distant view toward the ring, a café, and the store with Apple Park-exclusive merch you cannot buy anywhere else. That is the whole thing, and 45 min covers it. Free parking on site.",
+      "parking": "Apple Park Visitor Center, 10600 N Tantau Ave, Cupertino"
+    },
+    {
+      "day": 5,
+      "kind": "water",
+      "name": "⚠ BRANCH — kayak or Big Sur?",
+      "time": "11:15 AM · the day splits here",
+      "lat": 36.8044,
+      "lon": -121.7869,
+      "desc": "⚠ THE CONFLICT: the 3 PM Elkhorn Slough kayak and starting Big Sur today CANNOT both happen — a 3-5 PM paddle puts you at Point Lobos at 5:30, and you would drive Big Sur in the dark. BRANCH A (recommended, keeps everything): Santa Cruz Boardwalk 12:30-2:15 to fill the gap, kayak 3-5, sleep Salinas, Big Sur tomorrow unhurried. BRANCH B (drop the kayak): straight to Point Lobos ~12:45 and run Big Sur this afternoon in good light, Pismo ~8:30 PM, which frees up Thursday entirely."
+    },
+    {
+      "day": 5,
+      "kind": "sight",
+      "name": "Santa Cruz Beach Boardwalk — BRANCH A filler",
+      "time": "12:30–2:15 PM · free entry",
+      "lat": 36.9641,
+      "lon": -122.0175,
+      "desc": "Only if you keep the kayak. Directly on the Cupertino-to-Moss Landing line and it fills the dead midday hours perfectly: California's oldest beachfront amusement park, free to walk in, pay per ride. The 1924 Giant Dipper wooden coaster is the landmark. Actual swimmable-ish beach. Moss Landing is 30 min further south."
     },
     {
       "day": 5,
       "kind": "water",
       "name": "Elkhorn Slough kayak — sea otters",
-      "time": "🌊 3:00–5:00 PM · ~$50 · Moss Landing",
-      "lat": 36.8044,
+      "time": "🌊 3:00–5:00 PM · ~$50 · BRANCH A",
+      "lat": 36.81,
       "lon": -121.7869,
-      "desc": "MAIN EVENT: the densest sea otter population in California. Flat protected water, no surf, no cold-shock risk — otters, harbor seals, and pelicans within feet of the boat. ~1h45 from SF, so leave the city by 1:15 and check in at 2:40. ⚠ CONFIRM THE BOOKING."
+      "desc": "Densest sea otter population in California. Flat protected water, no surf — otters, harbor seals and pelicans within feet of the boat. Check in 2:40. ⚠ CONFIRM THE BOOKING — and if you are taking Branch B, CANCEL IT so you are not charged."
     },
     {
       "day": 5,
       "kind": "sleep",
-      "name": "Sleep: Salinas (NOT Monterey)",
-      "time": "🛏 Night 5 · arrive ~6 PM",
+      "name": "Sleep: Salinas (BRANCH A)",
+      "time": "🛏 Night 5 · ~6 PM · or Pismo if Branch B",
       "lat": 36.6777,
       "lon": -121.6555,
-      "desc": "Restored to the original plan — no Bay Area room premium and no 6 AM sprint tomorrow. 20 min inland and cheap; Monterey is sold out for Car Week. ⚠ FILL THE TANK tonight: Big Sur gas is scarce and Ragged Point prices are brutal."
+      "desc": "BRANCH A: Salinas ~6 PM, 20 min inland and cheap (Monterey is sold out for Car Week), Big Sur tomorrow with a civilised 6:45 start. BRANCH B: you skip Salinas entirely and sleep PISMO ~8:30 PM after running Big Sur this afternoon. ⚠ Fill the tank either way — Big Sur gas is scarce and Ragged Point is brutal."
     },
     {
       "day": 6,
