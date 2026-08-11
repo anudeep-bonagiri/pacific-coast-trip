@@ -87,26 +87,24 @@ New goal: get into California tonight so tomorrow is entirely the Mendocino coas
 
 **⚠ Tonight's two rules:** rotate drivers at every stop, and 2–4 AM is the worst drowsy-driving window on the clock — if you're anywhere near it, take Crescent City. **Book Eureka NOW with a 24-hour front desk** (Motel 6 / Super 8 / Quality Inn / Red Lion on Broadway or 4th St) and call them with your ETA — small motels lock the office at 11.
 
-### DAY 4 — Tue Aug 11 · Redwoods → Leggett Hill → **SAN FRANCISCO**
-Trading the Mendocino village and the Sonoma coast for an SF sunset tonight — and it fixes the next two days as a bonus.
+### DAY 4 — Tue Aug 11 · Redwoods → **Hwy 1 all the way** → SAN FRANCISCO
+No inland shortcut. Willits is a junction town with nothing in it, and CA-20 only saved time you'd have spent sitting at a viewpoint waiting for sunset anyway. Real cost of the coast: 30–60 min of hotel arrival. **You still walk the Golden Gate tomorrow morning**, so the bridge isn't lost.
 
 | Time | Stop | What you're seeing |
 |---|---|---|
-| **9:30** | **GAS — Eureka** | Broadway/US-101 south end. Water + snacks. Next cheap gas is Garberville. Roll 9:40 |
-| 10:25–11:25 | ★ **Avenue of the Giants — Founders Grove** *(free)* | Exit 101 at **Pepperwood**. The 31-mile Avenue tunnels through 300-ft coast redwoods — this IS the drive-through-redwoods bit. At Founders Grove, flat half-mile loop: the 346-ft Founders Tree and the **Dyerville Giant**, a 362-ft monster that fell in 1991 and lies along the trail with a 30-ft root ball. Walking its length is the only way the scale lands |
-| 11:50–12:30 | **Garberville** — lunch + ⚠ **FILL TANK** | Eel River Cafe. **Last cheap gas** before the coast |
-| 12:55–1:10 | **Chandelier Drive-Thru Tree**, Leggett *($15/car)* | Living redwood, 276 ft tall, 21 ft thick, with a 6×9-ft hole cut through the base in the 1930s. You drive through it |
-| 1:10–2:50 | ★ **LEGGETT HILL — Hwy 1 begins** | Hairpins through redwood and fir, over a summit, then the descent where **the Pacific opens up at Rockport** — that's the moment. Then 35 miles of open coastal terrace. 35–45 mph, best driving of the trip. ⚠ Carsick rider up front |
-| 2:50–3:35 | ★ **MacKerricher — Laguna Point** *(FREE)* | Boardwalk over the headland to a **harbor seal haul-out** — dozens of seals on the rocks below, close enough to hear. Tide pools; the old Haul Road along Ten Mile Beach. The one wildlife stop |
-| 3:40–4:05 | **Glass Beach**, Fort Bragg *(free)* | The town dumped trash off this cove 1906–1967; surf tumbled the glass smooth. ⚠ **Picked over** — expect scattered pieces, not a carpet. **Collecting is illegal.** 5 min from Laguna Point, so worth 25 min |
-| 4:05–4:55 | **CA-20 east → Willits** | 33 miles through redwood and fir along the Noyo River — your exit back to 101 |
-| 4:55–7:25 | **US-101 south** | Ukiah, Cloverdale, Healdsburg, Santa Rosa, Petaluma. Fuel/bathroom in Santa Rosa ~6:15 if needed |
-| **7:25–8:30** | ★ **MARIN HEADLANDS — Hawk Hill · SUNSET ~8:05** | Conzelman Rd. **It's on your route** — you hit the Marin side before crossing into the city, so no backtrack. Elevated look south over the Golden Gate with the skyline behind. Battery Spencer is 5 min lower if you're late. August fog is common; towers in fog is its own famous shot |
-| ~9:00 PM | **San Francisco** — check in | South SF / Daly City / Millbrae. **Book from the road NOW** so you go straight to sunset |
-
-**⚠ Car break-ins:** Hawk Hill, Battery Spencer, Lands End and Baker Beach are constant smash-and-grab spots. Leave **nothing** visible; take passports and electronics with you.
-
-**Cut today:** Mendocino Headlands + the whole Sonoma coast (traded for SF), plus the duplicates — Point Cabrillo *(Heceta Head again)*, Rockefeller Forest *(Founders Grove + 50 min)*, Shrine tree *(Chandelier)*, Westport *(every other bluff)*, Russian Gulch.
+| **9:30** | **GAS — Eureka** | Broadway/US-101 south end, water + snacks. Roll 9:40 |
+| 10:25–11:25 | ★ **Avenue of the Giants — Founders Grove** *(free)* | Exit 101 at **Pepperwood**. 31 miles of road tunnelling through 300-ft redwoods. Flat half-mile loop: the 346-ft Founders Tree and the **Dyerville Giant** — 362 ft, fell in 1991, lying along the trail with a 30-ft root ball |
+| 11:50–12:30 | **Garberville** — lunch + fuel | Eel River Cafe |
+| 12:55–1:10 | **Chandelier Drive-Thru Tree** *($15)* | Living redwood, 276 ft, 21 ft thick, 6×9-ft hole cut through in the 1930s. Drive through it |
+| 1:10–2:50 | ★ **LEGGETT HILL** | Hairpins over the coast range, then **the Pacific opens up at Rockport** |
+| 2:50–3:35 | ★ **MacKerricher — Laguna Point** *(FREE)* | Boardwalk over a **harbor seal haul-out** — dozens on the rocks below |
+| 3:40–4:10 | **Glass Beach** + ⚠ **FILL TANK in Fort Bragg** | Picked-over sea-glass cove; collecting illegal. **Fuel now** — next 90 mi of Hwy 1 has almost nothing |
+| 4:35–4:55 | **Mendocino Headlands** *(free, 20 min)* | Village that looks like coastal Maine, free bluff trail with sea arches. Park on Main St, walk to the edge, go |
+| 5:00–6:15 | ★ **Elk · Point Arena · Gualala** | Open cliff above the Pacific, sea stacks off Elk, sun dropping the whole way. Free turnouts constantly |
+| 6:15–7:45 | ★ **Sea Ranch → Stewarts Point → JENNER** | **The best stretch.** True cliff-edge road above the surf. At Jenner the Russian River meets the ocean — **harbor seals on the sandbar**, and the overlook north of town is spectacular in low light |
+| **7:50–8:25** | ★ **BODEGA BAY — SUNSET ~8:05** | Bodega Head is the best free viewpoint; Doran Beach also works. Hitchcock's *Birds* town — schoolhouse up the hill in Bodega |
+| 8:25–9:45 | Inland: **Valley Ford → Petaluma → US-101** | Rolling farmland and easy highway. **No cliffs in the dark** |
+| ~9:45 PM | **San Francisco** — check in | South SF / Daly City / Millbrae. ⚠ Bring everything inside — break-ins are constant |
 
 ### DAY 5 — Wed Aug 12 · SF morning → 🌊 otter kayak → Salinas
 | Time | Stop | What you're seeing |

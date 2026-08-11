@@ -82,7 +82,8 @@
       "ADD Aug 10: Tillamook Creamery is the Day 3 lunch stop (1:00-1:50, free tour + food hall), replacing the Doryland/Cape Kiwanda detour — keeps Brookings at ~9:30 PM instead of 10:30.",
       "MAJOR REPLAN Aug 10 (from the road): goal is now the Mendocino/Fort Bragg region. Day 3 extends past Brookings all the way to EUREKA CA (~11:45 PM-12:30 AM; Crescent City is the bail-out if anyone is fading). Day 4 = Eureka -> Avenue of the Giants/Founders Grove + Rockefeller Forest -> Garberville lunch -> Chandelier Drive-Thru Tree -> LEGGETT HILL Hwy 1 winding hour (daylight only) -> Westport -> Glass Beach -> MacKerricher/Laguna Point -> Point Cabrillo -> Mendocino Headlands sunset -> sleep FORT BRAGG. Day 5 exits east on CA-20 to Willits at a hard 7 AM to make the 3 PM kayak. CUT: Samuel Boardman (passed in the dark), Fern Canyon + Klamath Overlook (both north of Eureka, Aug 11 reservation forfeited - it was free), Garberville night.",
       "REPLAN Aug 11 (Eureka morning): cut the DUPLICATE stops to buy ~3 hr of road time — Rockefeller Forest (repeat of Founders Grove), Shrine tree (repeat of Chandelier), Westport-Union Landing (repeat of every bluff), Point Cabrillo (repeat of Heceta Head yesterday), Russian Gulch; Glass Beach trimmed to 25 min. Night 4 moves from Fort Bragg SOUTH to GUALALA (~6:45 PM, daylight) via the golden-hour Hwy 1 run through Elk/Point Arena/Sea Ranch. Night 5 is now SAN FRANCISCO for sunset (~8:05 PM) — Salinas CANCELLED. Kayak is the open branch: if still booked, SF midday + Moss Landing 3 PM + return north for sunset; if not, full SF afternoon. Knock-on: Thursday's Big Sur day starts ~2 hr further north, so 6 AM alarm for Point Lobos by 8:45.",
-      "FINAL Aug 11 plan (Option B): Eureka 9:30 gas -> Avenue of the Giants/Founders Grove -> Garberville lunch+fuel -> Chandelier Drive-Thru Tree -> LEGGETT HILL -> MacKerricher/Laguna Point seals -> Glass Beach -> CA-20 east to Willits -> US-101 -> MARIN HEADLANDS/HAWK HILL for sunset ~8:05 -> sleep SAN FRANCISCO. Mendocino Headlands and the whole Sonoma coast traded away for SF tonight. Downstream FIX: Wed = SF morning (Lands End/Sutro Baths, walk the bridge, Mission lunch) -> Moss Landing kayak 3-5 -> sleep SALINAS restored (no Bay Area premium); Thu Big Sur back to a normal 6:45 start. Gualala and Fort Bragg nights cancelled."
+      "FINAL Aug 11 plan (Option B): Eureka 9:30 gas -> Avenue of the Giants/Founders Grove -> Garberville lunch+fuel -> Chandelier Drive-Thru Tree -> LEGGETT HILL -> MacKerricher/Laguna Point seals -> Glass Beach -> CA-20 east to Willits -> US-101 -> MARIN HEADLANDS/HAWK HILL for sunset ~8:05 -> sleep SAN FRANCISCO. Mendocino Headlands and the whole Sonoma coast traded away for SF tonight. Downstream FIX: Wed = SF morning (Lands End/Sutro Baths, walk the bridge, Mission lunch) -> Moss Landing kayak 3-5 -> sleep SALINAS restored (no Bay Area premium); Thu Big Sur back to a normal 6:45 start. Gualala and Fort Bragg nights cancelled.",
+      "REVISED Aug 11: dropped the CA-20/Willits inland shortcut and took HWY 1 THE ENTIRE WAY to SF. Willits is a junction town with nothing in it, and the inland route only saved time that would have been spent waiting at Hawk Hill for sunset — real cost of the coast is 30-60 min of hotel arrival. Mendocino Headlands restored (20 min). Golden hour runs Elk/Point Arena/Gualala 5:00-6:15, the wild Sea Ranch-Stewarts Point-Jenner cliff section 6:15-7:45, SUNSET AT BODEGA BAY ~8:05, then inland via Valley Ford/Petaluma (easy highway, no cliffs in the dark) to SF ~9:45. Golden Gate is not lost — they walk the bridge Wed 11:15 AM. ⚠ Fuel in Fort Bragg before heading south."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -145,8 +146,8 @@
     },
     {
       "day": 4,
-      "title": "Aug 11 · Redwoods → Leggett Hill → SAN FRANCISCO",
-      "drive": "9:30 AM Eureka → Marin sunset 8:05 · ~7.5 hr · ~400 mi",
+      "title": "Aug 11 · Redwoods → Hwy 1 ALL THE WAY → SAN FRANCISCO",
+      "drive": "9:30 AM Eureka → Bodega sunset 8:05 · ~9 hr · ~430 mi",
       "color": "#ffb000"
     },
     {
@@ -406,11 +407,11 @@
     {
       "day": 4,
       "kind": "bonus",
-      "name": "Mendocino Headlands + Sonoma coast",
-      "time": "+ CUT — traded for SF tonight",
-      "lat": 39.307,
-      "lon": -123.8,
-      "desc": "CUT: Hwy 1 south from Fort Bragg is ~9 hr of slow cliff road to SF. Cutting inland on CA-20 instead trades the Mendocino village and the Elk/Point Arena/Sea Ranch run for a San Francisco sunset tonight — and it fixes Wed + Thu downstream."
+      "name": "CA-20 / Willits inland shortcut",
+      "time": "+ REJECTED — nothing there",
+      "lat": 39.4096,
+      "lon": -123.3556,
+      "desc": "Dropped. Willits is a 5,000-person junction town — gas, fast food, an arch over Main St. It only saved time you would have spent sitting at Hawk Hill waiting for sunset anyway. Hwy 1 the whole way costs ~30-60 min of hotel arrival and buys 90 miles of the best coast in Northern California."
     },
     {
       "day": 4,
@@ -428,7 +429,7 @@
       "time": "9:30 AM · 10 min",
       "lat": 40.79,
       "lon": -124.165,
-      "desc": "Fill the tank on Broadway/US-101 at the south end of town and grab water + snacks. Next cheap gas is Garberville, 2 hr south. Depart 9:40."
+      "desc": "Fill up on Broadway/US-101 at the south end of town, grab water + snacks. Next cheap gas is Garberville, 2 hr south. Depart 9:40."
     },
     {
       "day": 4,
@@ -437,7 +438,7 @@
       "time": "★ 10:25–11:25 AM · free",
       "lat": 40.354,
       "lon": -123.926,
-      "desc": "🅿️ Signed lot on Dyerville Loop Rd. Exit 101 at PEPPERWOOD onto the 31-mile Avenue — the road itself tunnels through 300-ft coast redwoods, which IS the drive-through-redwoods experience. At Founders Grove, an easy flat half-mile loop: the 346-ft Founders Tree, and the DYERVILLE GIANT — a 362-ft monster that fell in 1991 and now lies along the trail with a 30-ft root ball. Walking its length is the only thing that really conveys the scale. Free, no gate.",
+      "desc": "🅿️ Signed lot on Dyerville Loop Rd. Exit 101 at PEPPERWOOD onto the 31-mile Avenue — the road itself tunnels through 300-ft coast redwoods, which IS the drive-through-redwoods experience. At Founders Grove, a flat half-mile loop: the 346-ft Founders Tree, and the DYERVILLE GIANT — 362 ft, fell in 1991, now lying along the trail with a 30-ft root ball. Walking its length is the only thing that conveys the scale. Free, no gate.",
       "parking": "Founders Grove, Dyerville Loop Rd, Weott, CA"
     },
     {
@@ -447,7 +448,7 @@
       "time": "11:50 AM · out by 12:30",
       "lat": 40.1018,
       "lon": -123.793,
-      "desc": "Eel River Cafe: grilled cheese or veggie omelet for the vegetarians, chicken sandwich or tuna melt for the other two. ⚠ LAST CHEAP GAS before the coast — fill up here, Hwy 1 stations are sparse and expensive."
+      "desc": "Eel River Cafe: grilled cheese or veggie omelet for the vegetarians, chicken sandwich or tuna melt for the other two. ⚠ Cheap gas — fill up, Hwy 1 stations are sparse and pricey."
     },
     {
       "day": 4,
@@ -456,7 +457,7 @@
       "time": "12:55 PM · 15 min · $15/car",
       "lat": 39.8664,
       "lon": -123.7228,
-      "desc": "A living coast redwood ~276 ft tall and 21 ft thick with a 6x9-ft hole cut through the base in the 1930s — you drive the car straight through it. Small private park with a gift shop and a short grove walk. Cash or card at the gate."
+      "desc": "A living coast redwood ~276 ft tall and 21 ft thick with a 6x9-ft hole cut through the base in the 1930s — drive the car straight through it. Small private park, gift shop, short grove walk."
     },
     {
       "day": 4,
@@ -465,7 +466,7 @@
       "time": "★ 1:10–2:50 PM · THE drive",
       "lat": 39.75,
       "lon": -123.8,
-      "desc": "★ Highway 1 starts here at US-101 and corkscrews ~25 miles over the coast range: tight hairpins through redwood and fir, over a summit, then the descent where the Pacific opens up near ROCKPORT — the first ocean view is the moment. After that, ~35 miles of open coastal terrace past Westport. Slow (35–45 mph) and the best driving of the trip. ⚠ Carsick-prone rider up front."
+      "desc": "★ Highway 1 starts here at US-101 and corkscrews ~25 miles over the coast range: hairpins through redwood and fir, over a summit, then the descent where the Pacific opens up near ROCKPORT — the first ocean view is the moment. Then ~35 miles of open coastal terrace past Westport. 35-45 mph and the best driving of the trip. ⚠ Carsick-prone rider up front."
     },
     {
       "day": 4,
@@ -474,46 +475,65 @@
       "time": "★ 2:50–3:35 PM · FREE",
       "lat": 39.489,
       "lon": -123.798,
-      "desc": "★ Free, no entry kiosk. Short boardwalk out over the headland to a HARBOR SEAL HAUL-OUT — usually dozens of seals piled on the rocks directly below, close enough to hear. Tide pools at the base, and the old Haul Road (a former logging railroad grade) runs flat along Ten Mile Beach if you want to stretch. The one wildlife stop of the day.",
+      "desc": "★ Free, no kiosk. Short boardwalk over the headland to a HARBOR SEAL HAUL-OUT — usually dozens of seals on the rocks below, close enough to hear. Tide pools at the base, and the old Haul Road runs flat along Ten Mile Beach.",
       "parking": "Laguna Point, MacKerricher State Park, Fort Bragg, CA"
     },
     {
       "day": 4,
       "kind": "sight",
-      "name": "Glass Beach, Fort Bragg",
-      "time": "3:40–4:05 PM · 25 min · free",
+      "name": "Glass Beach + FUEL, Fort Bragg",
+      "time": "3:40–4:10 PM · free",
       "lat": 39.455,
       "lon": -123.813,
-      "desc": "🅿️ Lot at the end of Glass Beach Dr off W Elm St, 5 min from Laguna Point. The town dumped its trash off this cove from 1906 to 1967; decades of surf tumbled the glass and pottery smooth. ⚠ Reality check: it has been picked over for decades, so expect scattered small pieces, not a carpet — and COLLECTING IS ILLEGAL (it is inside MacKerricher). Best at low tide. Pretty cove regardless, and you are 5 min away.",
+      "desc": "🅿️ Lot at the end of Glass Beach Dr off W Elm St, 5 min from Laguna Point. The town dumped trash off this cove 1906-1967 and the surf tumbled the glass smooth. ⚠ Picked over for decades — expect scattered pieces, not a carpet, and COLLECTING IS ILLEGAL. ⚠⚠ FILL THE TANK IN FORT BRAGG BEFORE HEADING SOUTH — the next 90 miles of Hwy 1 have only a couple of expensive stations.",
       "parking": "Glass Beach Dr, Fort Bragg, CA"
     },
     {
       "day": 4,
       "kind": "sight",
-      "name": "CA-20 east → Willits",
-      "time": "4:05–4:55 PM · the exit",
-      "lat": 39.4096,
-      "lon": -123.3556,
-      "desc": "33 miles east through redwood and fir along the Noyo River — your way back to US-101. From Willits it is a straight 2.5-hr run south: Ukiah, Cloverdale, Healdsburg, Santa Rosa, Petaluma. Quick fuel/bathroom in Santa Rosa ~6:15 if anyone needs it."
+      "name": "Mendocino Headlands — quick stop",
+      "time": "4:35–4:55 PM · free · 20 min",
+      "lat": 39.307,
+      "lon": -123.8,
+      "desc": "Back in the plan. A village that looks like coastal Maine, wrapped on three sides by free state-park bluff trail with sea arches and blowholes. 20 minutes: park on Main St, walk to the bluff edge, go. Coffee for the road.",
+      "parking": "Mendocino Headlands State Park, Mendocino, CA"
     },
     {
       "day": 4,
       "kind": "gem",
-      "name": "Marin Headlands — Hawk Hill · SUNSET",
-      "time": "★ 7:25 PM · sunset ~8:05",
-      "lat": 37.8267,
-      "lon": -122.4995,
-      "desc": "★ THE PAYOFF, and it is ON your route — you reach the Marin side BEFORE crossing into the city, so there is no backtrack. Conzelman Rd climbs to Hawk Hill for the elevated look south over the Golden Gate with the skyline behind it. Battery Spencer is 5 min lower and closer to the bridge if you are running late. ⚠ August fog is common — if it socks in, the towers rising out of the fog is its own famous shot. ⚠ BREAK-INS: leave NOTHING visible in the car, take passports/laptops with you.",
-      "parking": "Hawk Hill, Conzelman Rd, Sausalito, CA"
+      "name": "Hwy 1 — Elk · Point Arena · Gualala",
+      "time": "★ 5:00–6:15 PM · golden hour",
+      "lat": 38.9088,
+      "lon": -123.6934,
+      "desc": "★ Not a stop, the drive. Open cliff above the Pacific through Elk (sea stacks straight offshore), Point Arena, and into Gualala with the sun dropping the whole way. Free turnouts constantly — pull over wherever it looks good. THIS is why you skipped the inland shortcut."
+    },
+    {
+      "day": 4,
+      "kind": "gem",
+      "name": "Sea Ranch → Stewarts Point → Jenner",
+      "time": "★ 6:15–7:45 PM · the wild section",
+      "lat": 38.55,
+      "lon": -123.31,
+      "desc": "★ THE BEST STRETCH. Past the Sea Ranch (famous weathered-timber architecture on open bluff) the road narrows onto true cliff-edge above the surf all the way to Jenner. At JENNER the Russian River meets the ocean — harbor seals haul out on the sandbar at the river mouth, and the overlook just north of town is spectacular in low light."
+    },
+    {
+      "day": 4,
+      "kind": "gem",
+      "name": "Bodega Bay — SUNSET ~8:05",
+      "time": "★ 7:50–8:25 PM",
+      "lat": 38.3332,
+      "lon": -123.048,
+      "desc": "★ Sunset over the water. Bodega Head (the headland west of town) is the best free viewpoint; Doran Beach works too. Also the Hitchcock 'Birds' town — the schoolhouse is up the hill in Bodega. After this, cut inland: Valley Ford → Petaluma → US-101 south, all easy rolling highway, no cliffs in the dark.",
+      "parking": "Bodega Head, Bodega Bay, CA"
     },
     {
       "day": 4,
       "kind": "sleep",
       "name": "Sleep: San Francisco area",
-      "time": "🛏 Night 4 · check in ~9 PM",
+      "time": "🛏 Night 4 · check in ~9:45 PM",
       "lat": 37.6547,
       "lon": -122.4077,
-      "desc": "⚠ BOOK FROM THE ROAD NOW so you can drive straight to sunset instead of checking in first. South San Francisco / Daly City / Millbrae is the cheap chain belt with free parking — downtown lots run $50+/night. Dinner after check-in. Gualala and Fort Bragg nights are both cancelled."
+      "desc": "⚠ BOOK FROM THE ROAD NOW — you are arriving late and going straight there. South San Francisco / Daly City / Millbrae is the cheap chain belt with free parking; downtown lots run $50+/night. ⚠ Break-ins are constant in SF — leave NOTHING visible in the car overnight, bring everything in. You walk the Golden Gate tomorrow at 11:15, so you are not missing the bridge."
     },
     {
       "day": 5,
