@@ -87,37 +87,36 @@ New goal: get into California tonight so tomorrow is entirely the Mendocino coas
 
 **⚠ Tonight's two rules:** rotate drivers at every stop, and 2–4 AM is the worst drowsy-driving window on the clock — if you're anywhere near it, take Crescent City. **Book Eureka NOW with a 24-hour front desk** (Motel 6 / Super 8 / Quality Inn / Red Lion on Broadway or 4th St) and call them with your ETA — small motels lock the office at 11.
 
-### DAY 4 — Tue Aug 11 · Redwoods → Hwy 1 → **GUALALA** *(duplicates cut)*
-Every repeat is gone — that buys ~3 hours and gets you 100 miles further down the coast tonight, which is what makes San Francisco possible tomorrow evening.
+### DAY 4 — Tue Aug 11 · Redwoods → Leggett Hill → **SAN FRANCISCO**
+Trading the Mendocino village and the Sonoma coast for an SF sunset tonight — and it fixes the next two days as a bonus.
 
-| Time | Plan |
-|---|---|
-| 9:00 AM | Depart Eureka, fuel. Exit 101 at **Pepperwood** onto the Avenue |
-| 9:50 | ★ **Avenue of the Giants — Founders Grove** (1 hr, free). Drive the full 31 miles; the road itself tunnels through old growth |
-| 11:30 | **Garberville** — lunch + ⚠ **FILL THE TANK**. Out by 12:10 |
-| 12:35 PM | **Chandelier Drive-Thru Tree, Leggett** ($15, 15 min) — the one drive-thru tree |
-| 12:50–1:50 | ★ **LEGGETT HILL** — Hwy 1's winding hour. Carsick rider up front |
-| 2:15 | **Glass Beach** (25 min, free). ⚠ Collecting is illegal |
-| 2:50 | ★ **MacKerricher — Laguna Point** (45 min, **FREE**) — seals on the boardwalk. The one coastal stop that isn't a repeat |
-| 4:00 | ★ **Mendocino Headlands** (1 hr, free) — sea arches, early dinner in the village. **Roll by 5** |
-| 5:00–6:45 | ★ **THE GOLDEN-HOUR DRIVE** — Hwy 1 south through Elk, Point Arena, Sea Ranch, sun going down over the water. Pull over wherever it looks good |
-| ~6:45 PM | **GUALALA** — sleep, in daylight. Sunset 8:10 from Gualala Point Regional Park |
+| Time | Stop | What you're seeing |
+|---|---|---|
+| **9:30** | **GAS — Eureka** | Broadway/US-101 south end. Water + snacks. Next cheap gas is Garberville. Roll 9:40 |
+| 10:25–11:25 | ★ **Avenue of the Giants — Founders Grove** *(free)* | Exit 101 at **Pepperwood**. The 31-mile Avenue tunnels through 300-ft coast redwoods — this IS the drive-through-redwoods bit. At Founders Grove, flat half-mile loop: the 346-ft Founders Tree and the **Dyerville Giant**, a 362-ft monster that fell in 1991 and lies along the trail with a 30-ft root ball. Walking its length is the only way the scale lands |
+| 11:50–12:30 | **Garberville** — lunch + ⚠ **FILL TANK** | Eel River Cafe. **Last cheap gas** before the coast |
+| 12:55–1:10 | **Chandelier Drive-Thru Tree**, Leggett *($15/car)* | Living redwood, 276 ft tall, 21 ft thick, with a 6×9-ft hole cut through the base in the 1930s. You drive through it |
+| 1:10–2:50 | ★ **LEGGETT HILL — Hwy 1 begins** | Hairpins through redwood and fir, over a summit, then the descent where **the Pacific opens up at Rockport** — that's the moment. Then 35 miles of open coastal terrace. 35–45 mph, best driving of the trip. ⚠ Carsick rider up front |
+| 2:50–3:35 | ★ **MacKerricher — Laguna Point** *(FREE)* | Boardwalk over the headland to a **harbor seal haul-out** — dozens of seals on the rocks below, close enough to hear. Tide pools; the old Haul Road along Ten Mile Beach. The one wildlife stop |
+| 3:40–4:05 | **Glass Beach**, Fort Bragg *(free)* | The town dumped trash off this cove 1906–1967; surf tumbled the glass smooth. ⚠ **Picked over** — expect scattered pieces, not a carpet. **Collecting is illegal.** 5 min from Laguna Point, so worth 25 min |
+| 4:05–4:55 | **CA-20 east → Willits** | 33 miles through redwood and fir along the Noyo River — your exit back to 101 |
+| 4:55–7:25 | **US-101 south** | Ukiah, Cloverdale, Healdsburg, Santa Rosa, Petaluma. Fuel/bathroom in Santa Rosa ~6:15 if needed |
+| **7:25–8:30** | ★ **MARIN HEADLANDS — Hawk Hill · SUNSET ~8:05** | Conzelman Rd. **It's on your route** — you hit the Marin side before crossing into the city, so no backtrack. Elevated look south over the Golden Gate with the skyline behind. Battery Spencer is 5 min lower if you're late. August fog is common; towers in fog is its own famous shot |
+| ~9:00 PM | **San Francisco** — check in | South SF / Daly City / Millbrae. **Book from the road NOW** so you go straight to sunset |
 
-**Cut, and why each is a repeat:** Rockefeller Forest *(same as Founders Grove + a 50-min detour)* · Shrine tree *(same as Chandelier, which is bigger)* · Westport-Union Landing *(same bluff view you get free from Leggett Hill and MacKerricher)* · **Point Cabrillo lighthouse** *(you did Heceta Head yesterday)* · Russian Gulch.
+**⚠ Car break-ins:** Hawk Hill, Battery Spencer, Lands End and Baker Beach are constant smash-and-grab spots. Leave **nothing** visible; take passports and electronics with you.
 
-**⚠ Book Gualala from the road NOW** — mid-August, few rooms. Point Arena is the cheaper fallback, 25 min earlier. *Stretch option: push to Bodega Bay (~2 more hr, ~8:45) — spectacular Jenner cliffs at sunset, but the last stretch is dusk on cliff road.*
+**Cut today:** Mendocino Headlands + the whole Sonoma coast (traded for SF), plus the duplicates — Point Cabrillo *(Heceta Head again)*, Rockefeller Forest *(Founders Grove + 50 min)*, Shrine tree *(Chandelier)*, Westport *(every other bluff)*, Russian Gulch.
 
-### DAY 5 — Wed Aug 12 · Sonoma coast → **SAN FRANCISCO** *(sunset ~8:05)*
-| Time | Plan |
-|---|---|
-| 7:30 AM | Depart Gualala |
-| 7:30–9:30 | **Hwy 1 south — Jenner + Bodega Bay** in morning light. Seals on the Russian River sandbar at Jenner |
-| ~10:45 | ★ **Golden Gate / Battery Spencer** (30 min) — free on the way in, since you arrive from the north |
-| **⚠ BRANCH** | **Is the kayak still booked?** |
-| *If YES* | SF midday 11:00–12:45 → Moss Landing 2:40 → 🌊 **kayak 3–5** → back north 5:15–7:00 → sunset. Costs ~3.5 hr of round-trip driving |
-| *If NO* | Whole afternoon in the city — Lands End, Sutro Baths, Ferry Building, Chinatown, Painted Ladies |
-| 7:30 PM | Be parked for **sunset ~8:05** — **Baker Beach** (bridge + surf), **Marin Headlands / Hawk Hill** (highest, bridge + city), or **Twin Peaks** (whole city) |
-| Night 5 | **San Francisco area** — South SF / Daly City / Millbrae chain belt. *Salinas cancelled.* ⚠ **6:00 AM alarm** tomorrow: Big Sur now starts 2 hr further north |
+### DAY 5 — Wed Aug 12 · SF morning → 🌊 otter kayak → Salinas
+| Time | Stop | What you're seeing |
+|---|---|---|
+| 9:30–11:00 | **Lands End + Sutro Baths** *(free)* | Ruins of the 1896 Sutro Baths — a giant seawater swimming palace that burned in 1966; you walk through the concrete shell. Then the Lands End cliff trail with the bridge framed by cypress. ⚠ Empty the car |
+| 11:15–12:15 | ★ **Walk the Golden Gate Bridge** *(free)* | Park at the Welcome Center, walk out onto the span — 220 ft above the water and it moves under the traffic. Out 15–20 min and back is plenty |
+| 12:30–1:15 | **Lunch** | Mission District taquerias (huge cheap burritos; confirm no lard in the beans) or the Ferry Building. **Roll by 1:15** |
+| 2:40 | Arrive **Moss Landing** | Check in for the paddle |
+| 3:00–5:00 | 🌊 **Elkhorn Slough kayak** *(~$50pp)* | Densest sea otter population in California. Flat protected water — otters, harbor seals and pelicans within feet of the boat |
+| ~6:00 PM | **Salinas** — sleep | Restored: no Bay Area premium, no 6 AM sprint tomorrow. ⚠ **Fill the tank** — Big Sur gas is scarce |
 
 ### DAY 6 — Thu Aug 13 · Big Sur
 6:45 **El Charrito, Salinas** — collect four packed burritos (vegetarian bean/chile relleno + pollo guisado) → 8:30 **Point Lobos** → 10:15 **Garrapata/Soberanes** → 11:00 **Bixby Bridge** (check QuickMap) → 12:00 **Pfeiffer Beach** ($12 cash) → 1:15 **picnic lunch** → *Café Kevah only as a $18–25 pp scenic backup* → 2:45 **McWay Falls** → *+Sand Dollar Beach & Jade Cove* → **Ragged Point** (restrooms/fuel) → ~4:30 **Elephant seals** → 5:45 **Morro Bay** dinner → ~7:15 **Pismo Beach** — sleep
@@ -167,7 +166,7 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 ## Booking checklist
 - ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
 - **Reserve / confirm:** Elkhorn Slough kayak (**Aug 12, 3–5 PM** — confirm today), Malibu surf lesson (**Aug 14, 10 AM**). ~~Fern Canyon Aug 11~~ — **dropped**, it's north of Eureka (free reservation, nothing lost).
-- **Rooms still needed:** **Gualala TONIGHT (Aug 11 — book from the road now; Point Arena is the fallback)**, **San Francisco area (Aug 12)**, Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14). *Fort Bragg and Salinas nights both cancelled.*
+- **Rooms still needed:** **San Francisco area TONIGHT (Aug 11 — book from the road so you can go straight to sunset)**, Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14). *Gualala and Fort Bragg nights cancelled.*
 - **Cash:** Pfeiffer Beach $12 (no cards) · Chandelier Drive-Thru Tree $15 · Russian Gulch $8. *Fern Canyon $12 no longer needed.*
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before
