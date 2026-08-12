@@ -109,24 +109,24 @@ No inland shortcut. Willits is a junction town with nothing in it, and CA-20 onl
 | ~10:45 PM | **Chinatown** — shops are shut, but Grant Ave lanterns and the Dragon Gate are lit. 20–30 min walk |
 | ~11:30 PM | **Hotel** — South SF / Daly City / Millbrae. ⚠ Bring everything inside |
 
-### DAY 5 — Wed Aug 12 · SF sunrise → Apple Park → **BIG SUR** → **LA by ~11 PM**
-**The LA-before-2 AM constraint reshapes everything.** The kayak is cancelled — it and Big Sur cannot both happen. Big Sur moves to this afternoon, and you sleep in LA tonight. Long day (~16 hr), but the last 3.5 hours are easy freeway, not cliffs.
+### DAY 5 — Wed Aug 12 · Pier 39 → Apple Park → **BIG SUR** → **LA by ~11:45 PM**
+9 AM start — sunrise dropped for ~3 hours more sleep. Every Big Sur stop still lands in daylight (sunset ~8 PM), with ~2 hours of margin on the 2 AM deadline.
 
 | Time | Stop | Notes |
 |---|---|---|
-| 5:45 AM | Leave SF — **checked out, car packed** | You're not coming back |
-| **6:20** | ★ **Golden Gate sunrise** — Torpedo Wharf | Sun behind you, lights the bridge face |
-| 7:15 | **Pier 39 sea lions** *(free)* | K-Dock, 24/7, no crowds. ⚠ **Fill the tank** |
-| 9:00 | **Stanford — Main Quad** *(45 min)* | Memorial Church mosaic |
-| 10:15 | **Apple Park Visitor Center** *(45 min)* | ⚠ Campus not tourable. Grab lunch to go after |
-| **12:30** | **Point Lobos** *(45 min, ~$10)* | Big Sur begins. China Cove, otters, Cypress Grove |
-| 2:00 | **Bixby Bridge** *(15 min)* | Check Caltrans QuickMap for the Rocky Creek signal |
-| 3:45 | **McWay Falls** *(20 min, free from turnouts)* | 80-ft tidefall onto a cove beach |
-| 5:20 | **Piedras Blancas elephant seals** *(30 min, FREE)* | Hundreds of them, boardwalk right off Hwy 1 |
-| 6:50 | **Morro Bay — dinner + ⚠ FUEL** | **Out by 7:35.** Last easy stop before the freeway run |
-| ~11:00 PM | **LA (LAX area)** | US-101 through SLO, Santa Barbara, Ventura. Rotate drivers |
+| 8:45 | Leave the hotel — **checked out, packed** | Not coming back |
+| **9:00** | **Pier 39 — sea lions** *(free, 45 min)* | K-Dock. Shops open at 10 — **don't wait for them.** Breakfast on the Embarcadero |
+| 9:45 | Depart + ⚠ **fill the tank** | ~450 miles today |
+| 10:35 | **Stanford — Main Quad** *(40 min)* | Memorial Church mosaic. **First thing to cut if you're behind** — saves ~1 hr with the detour |
+| 11:35 | **Apple Park Visitor Center** *(45 min)* | Campus not tourable. Grab lunch to go after |
+| **1:55** | **Point Lobos** *(35 min, ~$10)* | Big Sur begins. China Cove, otters |
+| 3:00 | **Bixby Bridge** *(15 min)* | Check QuickMap for the Rocky Creek signal |
+| 4:30 | **McWay Falls** *(20 min, free)* | 80-ft tidefall onto a cove beach |
+| 6:05 | **Piedras Blancas elephant seals** *(25 min, FREE)* | **Last daylight stop** |
+| 7:30 | **Morro Bay** — dinner + ⚠ **FUEL** | **Out by 8:15** |
+| **~11:45 PM** | **LA (LAX area)** | US-101 freeway. Rotate drivers |
 
-**Cut:** the **kayak** (cancel it), and **Pfeiffer Beach** — a 2-mile one-lane road each way plus $12 cash, costing ~40 min you need tonight.
+**The risk is Bay Area traffic**, 9:45–10:35 and again leaving Cupertino at 12:35. If either slips much, the elephant seals go dark — cut Stanford to buy the hour back.
 
 ### DAY 6 — Thu Aug 13 · 🎁 **FREE LA DAY**
 The push south bought you a completely open day. Big Sur is behind you, the surf lesson and beaches are tomorrow. **Sleep in.** Pick two or three — everything is within ~45 min of an LAX hotel.

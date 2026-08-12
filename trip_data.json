@@ -85,7 +85,8 @@
       "FINAL Aug 11 plan (Option B): Eureka 9:30 gas -> Avenue of the Giants/Founders Grove -> Garberville lunch+fuel -> Chandelier Drive-Thru Tree -> LEGGETT HILL -> MacKerricher/Laguna Point seals -> Glass Beach -> CA-20 east to Willits -> US-101 -> MARIN HEADLANDS/HAWK HILL for sunset ~8:05 -> sleep SAN FRANCISCO. Mendocino Headlands and the whole Sonoma coast traded away for SF tonight. Downstream FIX: Wed = SF morning (Lands End/Sutro Baths, walk the bridge, Mission lunch) -> Moss Landing kayak 3-5 -> sleep SALINAS restored (no Bay Area premium); Thu Big Sur back to a normal 6:45 start. Gualala and Fort Bragg nights cancelled.",
       "REVISED Aug 11: dropped the CA-20/Willits inland shortcut and took HWY 1 THE ENTIRE WAY to SF. Willits is a junction town with nothing in it, and the inland route only saved time that would have been spent waiting at Hawk Hill for sunset — real cost of the coast is 30-60 min of hotel arrival. Mendocino Headlands restored (20 min). Golden hour runs Elk/Point Arena/Gualala 5:00-6:15, the wild Sea Ranch-Stewarts Point-Jenner cliff section 6:15-7:45, SUNSET AT BODEGA BAY ~8:05, then inland via Valley Ford/Petaluma (easy highway, no cliffs in the dark) to SF ~9:45. Golden Gate is not lost — they walk the bridge Wed 11:15 AM. ⚠ Fuel in Fort Bragg before heading south.",
       "Aug 11 evening + Aug 12 request: SF night = drive the Golden Gate ~9:40, GHIRARDELLI SQUARE first (⚠ closes ~10 PM weekdays - call ahead), Chinatown walk-through (shops shut, lanterns lit), hotel. Wed reordered for geography (user's order zigzagged SF->Palo Alto->SF->Cupertino): GOLDEN GATE SUNRISE 6:20 at Torpedo Wharf -> PIER 39 sea lions 7:15 (shops shut till 10, sea lions are 24/7) -> STANFORD 9:00 -> APPLE PARK VISITOR CENTER 10:15 (⚠ campus NOT tourable). ⚠ HARD CONFLICT surfaced: 3 PM kayak and starting Big Sur the same day are mutually exclusive. BRANCH A (recommended) = Santa Cruz Boardwalk filler 12:30-2:15, kayak 3-5, sleep Salinas, Big Sur Thu. BRANCH B = drop/cancel kayak, Point Lobos 12:45, Big Sur this afternoon, Pismo ~8:30, Thursday freed.",
-      "HARD CONSTRAINT Aug 11 evening: must be in LA before 2 AM Thursday. This FORCES Branch B - the Elkhorn Slough kayak is CANCELLED (it and Big Sur cannot coexist Wednesday). Wed becomes: SF sunrise 6:20 -> Pier 39 -> Stanford -> Apple Park -> BIG SUR compressed (Point Lobos 12:30, Bixby 2:00, McWay 3:45, elephant seals 5:20; PFEIFFER BEACH CUT) -> Morro Bay dinner+fuel 6:50 -> US-101 freeway -> LA ~11 PM, three hours inside the deadline. Thursday is now a FREE LA DAY (Getty Center recommended). Salinas and Pismo nights CANCELLED - book ONE LAX-area hotel with an airport shuttle for Wed/Thu/Fri."
+      "HARD CONSTRAINT Aug 11 evening: must be in LA before 2 AM Thursday. This FORCES Branch B - the Elkhorn Slough kayak is CANCELLED (it and Big Sur cannot coexist Wednesday). Wed becomes: SF sunrise 6:20 -> Pier 39 -> Stanford -> Apple Park -> BIG SUR compressed (Point Lobos 12:30, Bixby 2:00, McWay 3:45, elephant seals 5:20; PFEIFFER BEACH CUT) -> Morro Bay dinner+fuel 6:50 -> US-101 freeway -> LA ~11 PM, three hours inside the deadline. Thursday is now a FREE LA DAY (Getty Center recommended). Salinas and Pismo nights CANCELLED - book ONE LAX-area hotel with an airport shuttle for Wed/Thu/Fri.",
+      "Aug 12 retimed to a 9 AM start (sunrise dropped, ~3 hr more sleep). Pier 39 9:00, Stanford 10:35, Apple Park 11:35, Point Lobos 1:55, Bixby 3:00, McWay 4:30, elephant seals 6:05, Morro Bay 7:30 out by 8:15, LA ~11:45 PM. All Big Sur stops still land in daylight (sunset ~8 PM) and there is ~2 hr of margin on the 2 AM deadline, but the slack is thinner - Bay Area traffic is the risk. Escape hatch: cut Stanford, it saves ~1 hr with the detour."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -155,8 +156,8 @@
     },
     {
       "day": 5,
-      "title": "Aug 12 · SF sunrise → Apple Park → BIG SUR → LA",
-      "drive": "5:45 AM SF → LA ~11 PM · ~16 hr · ~500 mi",
+      "title": "Aug 12 · Pier 39 → Apple Park → BIG SUR → LA",
+      "drive": "9 AM SF → LA ~11:45 PM · ~15 hr · ~450 mi",
       "color": "#3cb44b"
     },
     {
@@ -568,28 +569,28 @@
     },
     {
       "day": 5,
-      "kind": "gem",
-      "name": "Golden Gate SUNRISE — Torpedo Wharf",
-      "time": "★ 6:20 AM · free",
+      "kind": "bonus",
+      "name": "Golden Gate sunrise — DROPPED",
+      "time": "+ cut · 9 AM start instead",
       "lat": 37.808,
       "lon": -122.4655,
-      "desc": "★ Sunrise ~6:20. SF side, so the sun comes up behind you and lights the bridge face. Free parking on Marine Dr at that hour. ⚠ CHECK OUT AND PACK THE CAR BEFORE YOU LEAVE — you are not coming back to the hotel. Leave ~5:45.",
+      "desc": "Dropped for a 9 AM start and ~3 more hours of sleep after four hard days. You already got the bridge last night at Battery Spencer and driving across. ⚠ STILL CHECK OUT AND PACK THE CAR — you are not coming back to the hotel.",
       "parking": "Torpedo Wharf, Crissy Field, San Francisco, CA"
     },
     {
       "day": 5,
       "kind": "sight",
       "name": "Pier 39 — sea lions",
-      "time": "7:15 AM · free · 45 min",
+      "time": "9:00 AM · free · 45 min",
       "lat": 37.8087,
       "lon": -122.4098,
-      "desc": "Shops shut till 10, but the sea lions live on K-Dock 24/7 and are far better with nobody there. Coffee on the Embarcadero. ⚠ FILL THE TANK before leaving the city — today is ~500 miles."
+      "desc": "Sea lions on K-Dock — the actual attraction, and free. Shops open at 10 but do NOT wait for them; you need to be rolling by 9:45. Coffee and breakfast on the Embarcadero. ⚠ FILL THE TANK before leaving the city — today is ~450 miles."
     },
     {
       "day": 5,
       "kind": "sight",
       "name": "Stanford — Main Quad",
-      "time": "9:00 AM · free · 45 min",
+      "time": "10:35 AM · free · 40 min",
       "lat": 37.4275,
       "lon": -122.1697,
       "desc": "Main Quad and Memorial Church (the mosaic facade is the shot). Visitor lots off Galvez St, paid on weekdays. Trimmed to 45 min — today is long.",
@@ -599,7 +600,7 @@
       "day": 5,
       "kind": "sight",
       "name": "Apple Park Visitor Center",
-      "time": "10:15 AM · free · 45 min",
+      "time": "11:35 AM · free · 45 min",
       "lat": 37.3327,
       "lon": -122.0054,
       "desc": "⚠ You CANNOT tour the ring or the campus. You get an AR model on an iPad, a roof terrace with a distant view, a café, and Park-exclusive merch. Opens 10, free parking on site. Grab lunch to go in Cupertino/Sunnyvale after — best South Indian corridor in the country if you want it.",
@@ -609,7 +610,7 @@
       "day": 5,
       "kind": "sight",
       "name": "Point Lobos State Reserve",
-      "time": "12:30 PM · 45 min · Big Sur begins",
+      "time": "1:55 PM · 35 min · Big Sur begins",
       "lat": 36.5158,
       "lon": -121.943,
       "desc": "The north gate of Big Sur and the best short walk on it: Cypress Grove and Bird Island loops, China Cove's turquoise water, sea otters and harbor seals below the bluffs. Small lot fills fast but midweek midday is usually OK. ~$10/vehicle."
@@ -618,7 +619,7 @@
       "day": 5,
       "kind": "sight",
       "name": "Bixby Creek Bridge",
-      "time": "2:00 PM · 15 min",
+      "time": "3:00 PM · 15 min",
       "lat": 36.3714,
       "lon": -121.9018,
       "desc": "The most photographed bridge on the coast — 714 ft of open-spandrel arch across a gorge. Use the marked turnouts on the north and south sides, not the shoulder. ⚠ Expect the Rocky Creek one-way signal delay nearby (≤15 min); check Caltrans QuickMap this morning."
@@ -636,7 +637,7 @@
       "day": 5,
       "kind": "sight",
       "name": "McWay Falls — Julia Pfeiffer Burns SP",
-      "time": "3:45 PM · 20 min",
+      "time": "4:30 PM · 20 min",
       "lat": 36.1577,
       "lon": -121.6716,
       "desc": "An 80-ft waterfall dropping straight onto a cove beach — one of only a couple of tidefalls on the California coast. Roadside pullouts just north and south of the park entrance; the overlook trail has been closed, so the view is from the road. Free from the turnouts."
@@ -645,7 +646,7 @@
       "day": 5,
       "kind": "sight",
       "name": "Piedras Blancas Elephant Seals",
-      "time": "5:20 PM · 30 min · FREE",
+      "time": "6:05 PM · 25 min · FREE · last daylight stop",
       "lat": 35.6628,
       "lon": -121.2558,
       "desc": "Hundreds of northern elephant seals hauled out along a free boardwalk right off Hwy 1 — molting season in August means a lot of them lying around. No fee, no reservation, docents usually on site. Better value than a Hearst Castle tour and it is right on the road."
@@ -654,7 +655,7 @@
       "day": 5,
       "kind": "sight",
       "name": "Morro Bay — dinner + FUEL",
-      "time": "6:50 PM · 45 min · out by 7:35",
+      "time": "7:30 PM · 45 min · out by 8:15",
       "lat": 35.3658,
       "lon": -120.8499,
       "desc": "The 576-ft volcanic plug rising out of the bay. Fish and chips on the Embarcadero, or fast food if you want the time back. ⚠ FILL THE TANK HERE — this is your last easy stop before the 3.5-hr freeway run to LA."
@@ -662,8 +663,8 @@
     {
       "day": 5,
       "kind": "sleep",
-      "name": "Sleep: LA (LAX area) — arrive ~11 PM",
-      "time": "🛏 Night 5 · ~11:00–11:30 PM",
+      "name": "Sleep: LA (LAX area) — arrive ~11:45 PM",
+      "time": "🛏 Night 5 · ~11:45 PM",
       "lat": 33.9192,
       "lon": -118.4165,
       "desc": "⚠ THE BIG CHANGE: you asked to be in LA before 2 AM Thursday, so tonight ends here instead of Salinas. Morro Bay to LA is ~3.5 hr on US-101 through SLO, Santa Barbara and Ventura — a real freeway, easy driving, rotate drivers. Arrive ~11 PM with three hours of margin. ⚠ BOOK ONE LAX-AREA HOTEL WITH AN AIRPORT SHUTTLE FOR ALL THREE NIGHTS (Wed/Thu/Fri) — simpler, cheaper, and Friday needs the shuttle anyway since the car goes back at 9 PM. Salinas and Pismo nights are CANCELLED."
