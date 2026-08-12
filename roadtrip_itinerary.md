@@ -109,23 +109,33 @@ No inland shortcut. Willits is a junction town with nothing in it, and CA-20 onl
 | ~10:45 PM | **Chinatown** — shops are shut, but Grant Ave lanterns and the Dragon Gate are lit. 20–30 min walk |
 | ~11:30 PM | **Hotel** — South SF / Daly City / Millbrae. ⚠ Bring everything inside |
 
-### DAY 5 — Wed Aug 12 · Golden Gate sunrise → Stanford → Apple Park → *(branch)*
-| Time | Stop | What you're seeing |
+### DAY 5 — Wed Aug 12 · SF sunrise → Apple Park → **BIG SUR** → **LA by ~11 PM**
+**The LA-before-2 AM constraint reshapes everything.** The kayak is cancelled — it and Big Sur cannot both happen. Big Sur moves to this afternoon, and you sleep in LA tonight. Long day (~16 hr), but the last 3.5 hours are easy freeway, not cliffs.
+
+| Time | Stop | Notes |
 |---|---|---|
-| 5:45 AM | Leave the hotel | |
-| **6:20** | ★ **GOLDEN GATE SUNRISE — Torpedo Wharf / Crissy Field** *(free)* | Sun comes up behind you over the bay and lights the bridge face orange. Free parking on Marine Dr at that hour, and it's 10 min from Pier 39 |
-| 7:15 | **Pier 39 — sea lions** *(free, 45 min)* | ⚠ Shops don't open till 10 — but the sea lions live on K-Dock 24/7 and are far better without crowds. Coffee on the Embarcadero. South by 8:15 |
-| 9:00 | **Stanford — Main Quad** *(free, 1 hr)* | Memorial Church's mosaic facade is the photo; Hoover Tower deck if open (limited summer hours). Visitor lot off Galvez St |
-| 10:15 | **Apple Park Visitor Center** *(free, 45 min)* | ⚠ **You cannot tour the ring or the campus.** You get an AR model on an iPad, a roof terrace with a distant view, a café, and Apple Park-exclusive merch. 45 min covers it |
-| **11:15** | ⚠ **THE DAY BRANCHES** | See below |
+| 5:45 AM | Leave SF — **checked out, car packed** | You're not coming back |
+| **6:20** | ★ **Golden Gate sunrise** — Torpedo Wharf | Sun behind you, lights the bridge face |
+| 7:15 | **Pier 39 sea lions** *(free)* | K-Dock, 24/7, no crowds. ⚠ **Fill the tank** |
+| 9:00 | **Stanford — Main Quad** *(45 min)* | Memorial Church mosaic |
+| 10:15 | **Apple Park Visitor Center** *(45 min)* | ⚠ Campus not tourable. Grab lunch to go after |
+| **12:30** | **Point Lobos** *(45 min, ~$10)* | Big Sur begins. China Cove, otters, Cypress Grove |
+| 2:00 | **Bixby Bridge** *(15 min)* | Check Caltrans QuickMap for the Rocky Creek signal |
+| 3:45 | **McWay Falls** *(20 min, free from turnouts)* | 80-ft tidefall onto a cove beach |
+| 5:20 | **Piedras Blancas elephant seals** *(30 min, FREE)* | Hundreds of them, boardwalk right off Hwy 1 |
+| 6:50 | **Morro Bay — dinner + ⚠ FUEL** | **Out by 7:35.** Last easy stop before the freeway run |
+| ~11:00 PM | **LA (LAX area)** | US-101 through SLO, Santa Barbara, Ventura. Rotate drivers |
 
-**⚠ The kayak and Big Sur cannot both happen Wednesday.** A 3–5 PM paddle puts you at Point Lobos at 5:30 — Big Sur in the dark.
+**Cut:** the **kayak** (cancel it), and **Pfeiffer Beach** — a 2-mile one-lane road each way plus $12 cash, costing ~40 min you need tonight.
 
-- **BRANCH A — recommended, keeps everything.** **Santa Cruz Beach Boardwalk** 12:30–2:15 (free entry, 1924 Giant Dipper, real beach — and it's directly on the Cupertino→Moss Landing line) → 🌊 **Elkhorn Slough kayak 3–5** → **Salinas ~6 PM** → Big Sur tomorrow with a civilised 6:45 start.
-- **BRANCH B — drop the kayak.** Straight to **Point Lobos ~12:45**, run Big Sur this afternoon in good light → **Pismo ~8:30 PM**. Frees Thursday entirely. **Cancel the kayak** so you aren't charged.
+### DAY 6 — Thu Aug 13 · 🎁 **FREE LA DAY**
+The push south bought you a completely open day. Big Sur is behind you, the surf lesson and beaches are tomorrow. **Sleep in.** Pick two or three — everything is within ~45 min of an LAX hotel.
 
-### DAY 6 — Thu Aug 13 · Big Sur
-6:45 **El Charrito, Salinas** — collect four packed burritos (vegetarian bean/chile relleno + pollo guisado) → 8:30 **Point Lobos** → 10:15 **Garrapata/Soberanes** → 11:00 **Bixby Bridge** (check QuickMap) → 12:00 **Pfeiffer Beach** ($12 cash) → 1:15 **picnic lunch** → *Café Kevah only as a $18–25 pp scenic backup* → 2:45 **McWay Falls** → *+Sand Dollar Beach & Jade Cove* → **Ragged Point** (restrooms/fuel) → ~4:30 **Elephant seals** → 5:45 **Morro Bay** dinner → ~7:15 **Pismo Beach** — sleep
+- ★ **The Getty Center** — *my pick.* Free admission (parking ~$25), hilltop travertine complex reached by tram, Van Gogh's *Irises*, and the best free view in LA. Open Thursdays. Easily half a day.
+- **Hollywood** — Walk of Fame is grubbier than expected, but the TCL Chinese Theatre handprint forecourt is free and genuinely fun. Add Hollywood Sign views from Lake Hollywood Park.
+- **Downtown** — Grand Central Market (a hundred cheap food stalls, great for the vegetarians), The Broad (free but needs advance timed tickets), Angels Flight.
+- **Manhattan / Hermosa Beach** — 15 min from the hotel, lifeguarded, ~68°F, pier and beach path. The lowest-effort good day, and it saves budget.
+- *Splurge option:* **Universal Studios** — full day, ~$110–140pp. Only if the group actually wants a theme park.
 
 ### DAY 7 — Fri Aug 14 · 🌊 Surf, swim → Griffith sunset
 | Time | Plan |
@@ -171,8 +181,8 @@ Range: **$4,700 (frugal)** to **$5,500**. The two extra days cost ~$320/person o
 
 ## Booking checklist
 - ✅ **Done / behind you:** Ashford night 1, Hertz modification, Rainier entry. Night 2 ended up at the **Quality Inn, Kelso WA** (not Seaside).
-- **Reserve / confirm:** Elkhorn Slough kayak (**Aug 12, 3–5 PM** — confirm today), Malibu surf lesson (**Aug 14, 10 AM**). ~~Fern Canyon Aug 11~~ — **dropped**, it's north of Eureka (free reservation, nothing lost).
-- **Rooms still needed:** **San Francisco area TONIGHT (Aug 11 — book from the road so you can go straight to sunset)**, Salinas (Aug 12, Car Week), Pismo (Aug 13), LAX area **with airport shuttle** (Aug 14). *Gualala and Fort Bragg nights cancelled.*
+- **CANCEL:** the Elkhorn Slough kayak — Wednesday is now a Big Sur + LA drive day. **Confirm:** Malibu surf lesson (**Aug 14, 10 AM**). ~~Fern Canyon Aug 11~~ — **dropped**, it's north of Eureka (free reservation, nothing lost).
+- **Rooms:** **ONE LAX-area hotel WITH AN AIRPORT SHUTTLE for all three nights — Wed Aug 12, Thu Aug 13, Fri Aug 14.** *Salinas and Pismo cancelled.* (Friday needs the shuttle anyway — the car goes back at 9 PM.)
 - **Cash:** Pfeiffer Beach $12 (no cards) · Chandelier Drive-Thru Tree $15 · Russian Gulch $8. *Fern Canyon $12 no longer needed.*
 - **Check each morning:** Caltrans QuickMap (Big Sur), tide chart (Thor's Well, tide pools)
 - **Food:** order ahead for Days 1, 4, 5, and 6; repeat the dietary restrictions when collecting every order; buy Day 2 hike snacks the night before
