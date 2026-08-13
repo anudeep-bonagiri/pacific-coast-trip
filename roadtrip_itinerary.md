@@ -137,7 +137,10 @@ Starting at noon. **Griffith moves to tonight** so Friday isn't a scramble again
 | **1:15–4:30** | ★ **THE GETTY CENTER** *(FREE, $25 parking)* | Driverless tram up a hill to a travertine complex with Van Gogh's *Irises*, the Central Garden, and downtown + Hollywood Sign + ocean in one view. **Closes 5 PM** — be up the hill by 1:30 |
 | 5:15–6:15 | **TCL Chinese Theatre forecourt** *(free)* | Walk of Fame is grubby; the **handprint forecourt** since 1927 is the good part. One hour is right |
 | **6:45** | ★ **GRIFFITH OBSERVATORY** — sunset **7:45** *(FREE)* | Hollywood Sign one way, the whole basin lighting up the other. Free telescope viewing after dark. ⚠ **Parking fills by 7** — arrive 6:45, or park on Fern Dell and walk, or take the DASH shuttle. Stay till ~8:30 |
-| 9:00 | **Dinner — Los Feliz or Thai Town** | Straight down the hill. Thai Town is cheaper and open late — say no fish sauce |
+| **9:15** | ★ **THE LIGHTHOUSE CAFE** — 30 Pier Ave, Hermosa Beach | The *La La Land* club, and a real jazz room since 1949 — Miles, Chet Baker and Coltrane all played it. Dinner + live music at the foot of Hermosa Pier, then **10 min home**. ⚠ **CALL ABOUT THE AGE POLICY** — evening sets are often 21+ |
+| ~11:00 | Hotel | |
+
+**⚠ Lighthouse is 45 min from Griffith and all three of you are under 21.** Call before you drive down: ask whether tonight's set is 21+ and what the cover is. **If it's 21+**, eat on Hermosa Pier instead — you still get the beach-town evening and you're next to the hotel. Backup if you'd rather not drive: Los Feliz or Thai Town, straight down the hill from Griffith.
 
 *Splurge alternative: Universal Studios (~$110–140pp) swaps out the whole day including Griffith. I wouldn't make that trade.*
 

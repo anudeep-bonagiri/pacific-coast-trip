@@ -88,7 +88,8 @@
       "HARD CONSTRAINT Aug 11 evening: must be in LA before 2 AM Thursday. This FORCES Branch B - the Elkhorn Slough kayak is CANCELLED (it and Big Sur cannot coexist Wednesday). Wed becomes: SF sunrise 6:20 -> Pier 39 -> Stanford -> Apple Park -> BIG SUR compressed (Point Lobos 12:30, Bixby 2:00, McWay 3:45, elephant seals 5:20; PFEIFFER BEACH CUT) -> Morro Bay dinner+fuel 6:50 -> US-101 freeway -> LA ~11 PM, three hours inside the deadline. Thursday is now a FREE LA DAY (Getty Center recommended). Salinas and Pismo nights CANCELLED - book ONE LAX-area hotel with an airport shuttle for Wed/Thu/Fri.",
       "Aug 12 retimed to a 9 AM start (sunrise dropped, ~3 hr more sleep). Pier 39 9:00, Stanford 10:35, Apple Park 11:35, Point Lobos 1:55, Bixby 3:00, McWay 4:30, elephant seals 6:05, Morro Bay 7:30 out by 8:15, LA ~11:45 PM. All Big Sur stops still land in daylight (sunset ~8 PM) and there is ~2 hr of margin on the 2 AM deadline, but the slack is thinner - Bay Area traffic is the risk. Escape hatch: cut Stanford, it saves ~1 hr with the detour.",
       "LA TWO-DAY PLAN (Thu Aug 13 from noon + Fri Aug 14). GRIFFITH MOVED TO THURSDAY so Friday is not a scramble against the 9 PM car return. Thu: In-N-Out at the LAX approach (planes 200 ft overhead) -> THE GETTY 1:15-4:30 (free, closes 5) -> Hollywood/TCL forecourt 5:15 -> GRIFFITH 6:45, sunset 7:45, stay till the city lights -> Los Feliz/Thai Town dinner. Fri: surf Surfrider 10-12 -> Malibu Seafood -> El Matador 1:15 -> Point Dume 2:30 -> SANTA MONICA SWIM 3:45 -> Venice + the canals 5:30 -> GAS + drop bags 7:00 -> HERTZ LAX 8:45 (due 9) -> Uber -> DIN TAI FUNG 10 PM. ⚠ TWO RISKS FLAGGED: DTF at 10 PM may be past last seating (most locations close 9:30-10) and many are walk-in only - call today; and the surf lesson still needs confirming.",
-      "TATTOOS added to Friday Aug 14, 4:45-7:30 PM. ⚠ HARD ORDERING CONSTRAINT SURFACED: fresh tattoos cannot go in ocean/pool water for 2-4 weeks, so they MUST come after the surf lesson and the Santa Monica swim - not before. Santa Monica shortened to 2:30-4:00 and POINT DUME CUT to free the time. Flagged: book the shop today (3 walk-ins on a Friday evening is a gamble), bring government photo ID (CA is 18+), do not get sunburnt where you want ink (artists refuse burnt skin), budget cash + 15-20% tip, Venice shop minimums ~$100-150."
+      "TATTOOS added to Friday Aug 14, 4:45-7:30 PM. ⚠ HARD ORDERING CONSTRAINT SURFACED: fresh tattoos cannot go in ocean/pool water for 2-4 weeks, so they MUST come after the surf lesson and the Santa Monica swim - not before. Santa Monica shortened to 2:30-4:00 and POINT DUME CUT to free the time. Flagged: book the shop today (3 walk-ins on a Friday evening is a gamble), bring government photo ID (CA is 18+), do not get sunburnt where you want ink (artists refuse burnt skin), budget cash + 15-20% tip, Venice shop minimums ~$100-150.",
+      "ADDED The Lighthouse Cafe (30 Pier Ave, Hermosa Beach) as Thursday's 9:15 PM dinner + live jazz, replacing the Los Feliz dinner. The La La Land club and a real 1949 West Coast jazz room. Chosen for Thursday because Friday is full (tattoos 4:45-7:30, car back 8:45, DTF 10) and because Hermosa is ~10 min from the LAX hotel, so the night ends next to bed. ⚠ FLAGGED: evening shows at LA venues are often 21+ and all three travellers are under 21 — must call about the age policy and cover. Fallback: eat on Hermosa Pier, or the original Los Feliz/Thai Town option."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -132,7 +133,8 @@
       "Malibu surf lesson — Fri Aug 14, 10 AM. CONFIRM IT IS BOOKED. Leave the LAX hotel by 9:00.",
       "Rooms: ONE LAX-AREA HOTEL WITH AIRPORT SHUTTLE for ALL THREE nights Wed Aug 12 / Thu Aug 13 / Fri Aug 14. Salinas and Pismo CANCELLED. (Friday needs the shuttle regardless - the car goes back 9 PM.)",
       "Din Tai Fung Fri Aug 14, 10 PM — CALL TODAY. Most locations stop seating 9:30-10 PM and many are walk-in only. Torrance (Del Amo) is closest to LAX; Santa Monica is open later on Fridays.",
-      "Tattoo shop — Fri Aug 14, ~4:45 PM, three people. BOOK TODAY. Venice/Santa Monica boardwalk or Melrose Ave. Bring photo ID (18+), cash + 15-20% tip, expect ~$100-150 shop minimum each."
+      "Tattoo shop — Fri Aug 14, ~4:45 PM, three people. BOOK TODAY. Venice/Santa Monica boardwalk or Melrose Ave. Bring photo ID (18+), cash + 15-20% tip, expect ~$100-150 shop minimum each.",
+      "The Lighthouse Cafe, Hermosa Beach — Thu Aug 13 ~9:15 PM. CALL ABOUT THE AGE POLICY: evening jazz sets are often 21+ and all three are under 21. Ask about cover charge too."
     ]
   },
   "days": [
@@ -168,8 +170,8 @@
     },
     {
       "day": 6,
-      "title": "Aug 13 · In-N-Out · Getty · Hollywood · GRIFFITH SUNSET",
-      "drive": "12 PM start · sunset 7:45 · ~40 mi",
+      "title": "Aug 13 · Getty · Hollywood · GRIFFITH · Lighthouse Cafe",
+      "drive": "12 PM start · Griffith sunset 7:45 · jazz 9:15 · ~65 mi",
       "color": "#4363d8"
     },
     {
@@ -717,12 +719,22 @@
     },
     {
       "day": 6,
-      "kind": "sight",
+      "kind": "gem",
+      "name": "★ The Lighthouse Cafe — Hermosa Beach",
+      "time": "★ 9:15 PM · dinner + live jazz",
+      "lat": 33.8622,
+      "lon": -118.4009,
+      "desc": "★ THE LA LA LAND CLUB — this is where Sebastian plays and Mia watches. It is also the real thing: a working jazz room since 1949 and one of the birthplaces of West Coast jazz (Miles, Chet Baker, Coltrane all played here). Live music most nights, food served, right at the foot of Hermosa Pier. ⚠⚠ CALL FIRST — evening shows at LA music venues are frequently 21+ and all three of you are under 21. Ask specifically about the age policy for tonight's set and whether there is a cover. IF THEY SAY 21+: eat on Hermosa Pier instead — the beach-town strip is right there and you still get the evening. 45 min from Griffith, then only 10 min home.",
+      "parking": "The Lighthouse Cafe, 30 Pier Ave, Hermosa Beach"
+    },
+    {
+      "day": 6,
+      "kind": "bonus",
       "name": "Dinner — Los Feliz or Thai Town",
-      "time": "9:00 PM · down the hill",
+      "time": "+ backup if Lighthouse is 21+",
       "lat": 34.1016,
       "lon": -118.287,
-      "desc": "Straight down from Griffith. Los Feliz (Hillhurst/Vermont Ave) has the range for a mixed table; Thai Town on Hollywood Blvd is cheaper and open late, with real vegetarian options — just say no fish sauce. Both are 10 min from the observatory."
+      "desc": "The original plan, kept as a fallback: straight down the hill from Griffith. Los Feliz (Hillhurst/Vermont) has the range for a mixed table; Thai Town is cheaper and open late with real vegetarian options — say no fish sauce. Only use this if you would rather not drive to Hermosa."
     },
     {
       "day": 6,
@@ -740,7 +752,7 @@
       "time": "🛏 Night 6 · no packing",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "Second of three nights in the same room. ⚠ Tomorrow the car goes back at 9 PM — pack tonight so Friday evening is not a scramble."
+      "desc": "Second of three nights in the same room, and Hermosa Beach is only ~10 min away so the night ends easy. ⚠ Tomorrow the car goes back at 9 PM — pack tonight so Friday evening is not a scramble."
     },
     {
       "day": 7,
