@@ -141,21 +141,28 @@ Starting at noon. **Griffith moves to tonight** so Friday isn't a scramble again
 
 *Splurge alternative: Universal Studios (~$110–140pp) swaps out the whole day including Griffith. I wouldn't make that trade.*
 
-### DAY 7 — Fri Aug 14 · Surf → Malibu → Santa Monica → Venice → **Din Tai Fung 10 PM**
+### DAY 7 — Fri Aug 14 · Surf → Malibu → Swim → **TATTOOS** → Din Tai Fung
+**⚠ The order is forced:** fresh tattoos can't go in the ocean for 2–4 weeks, so all the water happens *before* the ink. Santa Monica is shortened and **Point Dume is cut** to make room.
+
 | Time | Stop | Notes |
 |---|---|---|
-| 9:00 | Leave the hotel | Malibu is ~45 min up PCH |
-| **10:00–12:00** | 🌊 **Surf lesson, Surfrider** *(~$90pp)* | ⚠ **Confirm this is booked.** Wetsuit included, ~69°F, long gentle point break |
-| 12:15 | **Malibu Seafood** *(counter, $11–20pp)* | Picnic tables across PCH from the water |
-| **1:15** | ★ **El Matador State Beach** *(45 min, $8)* | Most photogenic beach in LA County — sea stacks, arches, caves. Steep stairs, real shoes |
-| 2:30 | **Point Dume** *(30 min, free)* | Headland boardwalk, sea lions below, the whole bay |
-| **3:45** | 🌊 **Santa Monica — SWIM** *(free, lifeguarded)* | **The swim of the trip.** After a week of 52–59°F, finally get in. Pier + Route 66 sign |
-| 5:30 | **Venice Boardwalk + the CANALS** *(1 hr, free)* | Skate park and Muscle Beach, then walk two blocks inland — the canals are silent, and almost nobody finds them |
-| **7:00** | ⛽ **GAS UP + hotel, drop bags** | Fill near the hotel, **not** at the airport |
-| **8:45** | ⚠ **RETURN THE HERTZ CAR — due 9 PM** | Photograph car, odometer, fuel gauge. Car-less from here |
-| **10:00** | ★ **DIN TAI FUNG** | Uber from LAX. **Torrance/Del Amo ~20 min**, Santa Monica ~25 min and open later Fridays |
+| 9:00 | Leave the hotel | Malibu ~45 min up PCH |
+| **10:00–12:00** | 🌊 **Surf lesson, Surfrider** *(~$90pp)* | ⚠ Confirm booked. ⚠ **Sunscreen the spot you want tattooed** — burnt skin gets you turned away |
+| 12:15 | **Malibu Seafood** *(45 min)* | Picnic tables across PCH from the water |
+| **1:00** | ★ **El Matador State Beach** *(45 min, $8)* | Sea stacks, arches, caves. Steep stairs — real shoes |
+| ~~2:30~~ | ~~Point Dume~~ | **Cut** for tattoo time |
+| **2:30–4:00** | 🌊 **SANTA MONICA — THE SWIM** *(free, lifeguarded)* | ⚠ **Your last ocean of the trip.** 69°F, gentle, after a week of 52°F water. Rinse and change by 4:15 |
+| **4:45–7:30** | ★ **TATTOOS** — Venice / Santa Monica | See the five checks below |
+| 7:45 | ⛽ **Gas + hotel, drop bags** | Fill near the hotel, not the airport |
+| **8:45** | ⚠ **RETURN THE CAR — due 9 PM** | Photograph car, odometer, fuel gauge |
+| **10:00** | ★ **Din Tai Fung** | Uber. Torrance ~20 min, Santa Monica ~25 min |
 
-**⚠ Call Din Tai Fung today.** Most locations stop seating between 9:30 and 10 PM, and many are walk-in only. A 10 PM arrival could find the kitchen closed — confirm before you build the evening around it.
+**Five things before you sit down for ink:**
+1. **Book today.** Three people walking in on a Friday evening in Venice is a long wait or a flat no.
+2. **Government photo ID, everyone.** California is 18+ — out-of-state licences are fine, but no ID means no tattoo.
+3. **Don't get sunburnt** where you want it. Artists refuse to work on burnt skin, and you'll be in the sun all day.
+4. **No ocean, pool or hot tub for 2–4 weeks** after. That's why this is last.
+5. **Cash + 15–20% tip.** Venice shop minimums usually start ~$100–150 each.
 
 ### DAY 8 — Sat Aug 15 · Fly home
 | Time | Plan |
