@@ -99,7 +99,8 @@
       "FINAL Aug 13-14: rooms confirmed BOTH nights (no airport sleeping), NO haircut. Thu: Getty 12:15-2:45, Santa Monica swim 3:05-4:30 (only ocean of the trip), Beverly Hills 5:30-6:15, GRIFFITH 6:45 sunset 7:45, Lighthouse 9:15-11:00, In-N-Out ~11:20, check in ~midnight. Fri: El Matador 11:00, Malibu Seafood 12:15, Point Dume 1:15, Venice+canals 2:45, TATTOOS 4:00-6:30, hotel+gas 7:00-8:15, HERTZ 8:45 (due 9), DTF 10:00, back ~11:30. Sat: shuttle/Uber 8:15, airside 9:30, DL2568 10:59. Remaining actions: tattoo booking, DTF 10 PM seating, Lighthouse 21+ policy, Saturday shuttle time.",
       "Aug 13: In-N-Out moved to right after the Santa Monica swim, at the WESTWOOD branch (922 Gayley Ave) rather than the LAX plane-spotting one. Westwood sits directly between Santa Monica and Beverly Hills (~10 min each way) so it costs nothing; the LAX branch would have added ~30 min of round trip and halved the Beverly Hills hour, putting Griffith parking at risk. Order holds: swim 3:05-4:30, In-N-Out 4:45-5:15, Beverly Hills 5:30-6:15, Griffith 6:45.",
       "Aug 13 FINAL CHANGE: Lighthouse Cafe confirmed 21+ and is CANCELLED — which frees the 9-11 PM block and lets the TATTOOS happen TONIGHT. Thu now: Getty 12:15-2:45, swim 3:05-4:30, In-N-Out Westwood 4:45, Beverly Hills 5:30-6:15, GRIFFITH 6:45-8:30, dinner Los Feliz/Thai Town 8:45-9:45 (EAT BEFORE INKING - low blood sugar in the chair), TATTOOS 10 PM-12:30 AM Hollywood/Sunset, check in ~1:15 AM. Upside: they sleep in a hotel bed for the first night of healing, and Friday 4:00-6:30 is now free. Downside: Friday's El Matador becomes NO WATER AT ALL and the ink must stay out of the sun. ⚠ Must call shops immediately for three chairs at ~10 PM, and check for sunburn from today's swim before driving over.",
-      "Aug 13: TATTOOS CANCELLED entirely, and the Lighthouse Cafe is 21+ so it is gone too. Two things come back: HOLLYWOOD BLVD returns tonight (10-11 PM, the Chinese Theatre forecourt is open air and night is the better time for it), and WATER IS BACK ON for Friday — El Matador is swimmable again and a bonus beach block lands 4:15-6:15 at Manhattan Beach or Santa Monica Pier. Thu final: Getty 12:15-2:45, swim 3:05-4:30, In-N-Out Westwood 4:45, Beverly Hills 5:30-6:15, GRIFFITH 6:45-8:30, dinner Los Feliz/Thai Town 8:45-9:45, Hollywood Blvd 10-11, In-N-Out LAX ~11:30 for the planes, check in ~12:15 AM. Fri final: El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, Venice+canals 2:45, beach 4:15-6:15, hotel+gas 7:00, HERTZ 8:45, DTF 10:00. Only open action left: confirm Din Tai Fung seats at 10 PM. Money back to the group: ~$270 surf + ~$300-450 tattoos."
+      "Aug 13: TATTOOS CANCELLED entirely, and the Lighthouse Cafe is 21+ so it is gone too. Two things come back: HOLLYWOOD BLVD returns tonight (10-11 PM, the Chinese Theatre forecourt is open air and night is the better time for it), and WATER IS BACK ON for Friday — El Matador is swimmable again and a bonus beach block lands 4:15-6:15 at Manhattan Beach or Santa Monica Pier. Thu final: Getty 12:15-2:45, swim 3:05-4:30, In-N-Out Westwood 4:45, Beverly Hills 5:30-6:15, GRIFFITH 6:45-8:30, dinner Los Feliz/Thai Town 8:45-9:45, Hollywood Blvd 10-11, In-N-Out LAX ~11:30 for the planes, check in ~12:15 AM. Fri final: El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, Venice+canals 2:45, beach 4:15-6:15, hotel+gas 7:00, HERTZ 8:45, DTF 10:00. Only open action left: confirm Din Tai Fung seats at 10 PM. Money back to the group: ~$270 surf + ~$300-450 tattoos.",
+      "Aug 13: Friday takes ALL the options — resequenced west-to-east-to-south so nothing backtracks. El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, SANTA MONICA PIER 3:00-4:15 (the pier itself this time, not just the swim), VENICE + canals 4:30-5:45, MANHATTAN BEACH 6:00-6:45 (directly on the line home), hotel+gas 7:00-8:15, HERTZ 8:45, DTF 10:00. Three beaches, all swimmable now the tattoos are cancelled."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -186,8 +187,8 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · El Matador · Point Dume · Venice · beach · DTF",
-      "drive": "relaxed · extra swim 4:15 · car back 9 PM · ~85 mi",
+      "title": "Aug 14 · El Matador · Point Dume · Santa Monica · Venice · Manhattan",
+      "drive": "11 AM–11:30 PM · three beaches · car back 9 PM · ~95 mi",
       "color": "#911eb4"
     },
     {
@@ -795,27 +796,27 @@
     {
       "day": 7,
       "kind": "bonus",
-      "name": "Getty + surf lesson — both off Friday",
-      "time": "+ Getty done Thursday · surf never booked",
+      "name": "Surf lesson + tattoos — both cancelled",
+      "time": "+ ~$570-720 back to the group",
       "lat": 34.0381,
       "lon": -118.677,
-      "desc": "Two things came off Friday: the surf lesson was never booked, and the Getty moved to Thursday morning. That buys back roughly four hours — which goes into POINT DUME returning, VENICE returning, and an EARLIER TATTOO SLOT with real buffer before the 9 PM car return. Friday is now the most relaxed day of the trip."
+      "desc": "Surf was never booked and the tattoos are off. Result: Friday is wide open, water is back on everywhere, and roughly $570-720 stays in the group."
     },
     {
       "day": 7,
       "kind": "gem",
       "name": "★ El Matador State Beach",
-      "time": "★ 11:00 AM–12:15 PM · $8 · swim OK again",
+      "time": "★ 11:00 AM–12:15 PM · $8",
       "lat": 34.0369,
       "lon": -118.879,
-      "desc": "★ The most photogenic beach in LA County. Small lot right off PCH, then a steep staircase and dirt path down to a cove of sea stacks, arches and caves — late-morning light angles through them. ⚠ REAL SHOES for the stairs — the path down is steep and sandy. ✅ WATER IS BACK ON now that the tattoos are cancelled: wade or swim, though it is open coast here with no lifeguard, so nobody goes out past their waist.",
+      "desc": "★ The most photogenic beach in LA County — steep staircase and dirt path down to a cove of sea stacks, arches and caves, late-morning light angling through them. ⚠ REAL SHOES, the path is steep and sandy. ✅ Swimmable again now the tattoos are off — but this is open coast with NO LIFEGUARD, so nobody goes past their waist.",
       "parking": "El Matador State Beach, 32350 Pacific Coast Hwy, Malibu"
     },
     {
       "day": 7,
       "kind": "sight",
       "name": "Malibu Seafood — lunch",
-      "time": "12:15–1:00 PM · $11-20pp",
+      "time": "12:30–1:15 PM · $11-20pp",
       "lat": 34.0378,
       "lon": -118.6989,
       "desc": "Walk-up counter with picnic tables straight across PCH from the water. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. Fast, no reservations."
@@ -823,39 +824,50 @@
     {
       "day": 7,
       "kind": "gem",
-      "name": "★ Point Dume — BACK IN",
-      "time": "★ 1:15–1:45 PM · free street parking",
+      "name": "★ Point Dume",
+      "time": "★ 1:30–2:00 PM · free street parking",
       "lat": 34.0006,
       "lon": -118.8065,
-      "desc": "★ Restored now that the Getty moved. Short climb up a headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free, 30 minutes."
-    },
-    {
-      "day": 7,
-      "kind": "gem",
-      "name": "★ Venice — canals + boardwalk",
-      "time": "★ 2:45–3:45 PM · free · BACK IN",
-      "lat": 33.985,
-      "lon": -118.4695,
-      "desc": "★ Also restored. Skate park, Muscle Beach, boardwalk chaos — then walk two blocks inland to the VENICE CANALS: silent residential water, arched footbridges, and almost nobody finds them. The canals are the better half; give them 20 of the 60 minutes. 🅿️ PAID LOT on Washington or Venice Blvd, never a side street — this is a break-in hotspot and the tattoo shop is walkable from here.",
-      "parking": "Venice Blvd or Washington Blvd paid lots"
+      "desc": "★ Short climb up the headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free."
     },
     {
       "day": 7,
       "kind": "water",
-      "name": "🌊 Santa Monica or Manhattan Beach",
-      "time": "🌊 4:15–6:15 PM · free · lifeguarded",
+      "name": "🌊 Santa Monica Pier — properly this time",
+      "time": "🌊 3:00–4:15 PM · free · lifeguarded",
+      "lat": 34.0089,
+      "lon": -118.4973,
+      "desc": "🌊 Yesterday you swam here and left. Today you get the pier itself: Pacific Park's Ferris wheel, the ROUTE 66 END OF THE TRAIL sign, the carousel, and the original Muscle Beach rings just south on the sand. Swim again if you want — lifeguarded, ~69°F. 🅿️ Pier deck lot; bags are still in the car so nothing visible.",
+      "parking": "Santa Monica Pier Deck lot, 200 Santa Monica Pier"
+    },
+    {
+      "day": 7,
+      "kind": "gem",
+      "name": "★ Venice Boardwalk + the CANALS",
+      "time": "★ 4:30–5:45 PM · free · 10 min south",
+      "lat": 33.985,
+      "lon": -118.4695,
+      "desc": "★ Ten minutes down from Santa Monica. Skate park right on the sand (worth watching even if nobody skates), Muscle Beach, buskers and the boardwalk circus — then walk two blocks inland to the VENICE CANALS: silent residential water, arched footbridges, and almost nobody finds them. Give the canals 20 of the 75 minutes; they are the better half. 🅿️ PAID LOT on Washington or Venice Blvd, never a side street.",
+      "parking": "Washington Blvd or Venice Blvd paid lots"
+    },
+    {
+      "day": 7,
+      "kind": "water",
+      "name": "🌊 Manhattan Beach — last stop",
+      "time": "🌊 6:00–6:45 PM · free · on the way in",
       "lat": 33.8847,
       "lon": -118.4109,
-      "desc": "🌊 The freed tattoo block, and with no ink you can actually swim again. MANHATTAN BEACH is 15 min from the hotel and flows straight into the 7 PM gas stop — lifeguarded, ~68°F, pier and beach path, and much quieter than Santa Monica. SANTA MONICA PIER is the alternative if you want the Ferris wheel and the Route 66 sign properly rather than just the sand. Either way this is now your LAST swim of the trip, and unlike yesterday it is a bonus rather than the only one."
+      "desc": "🌊 The quiet one, and it is directly on the line from Venice back to the hotel. Lifeguarded, ~68°F, a short pier with the Roundhouse Aquarium at the end, and a beach path with none of the Venice chaos. LAST SWIM OF THE TRIP — this time as a bonus rather than the only one. Rinse off here; you shower at the hotel at 7.",
+      "parking": "Manhattan Beach Pier, 1 Manhattan Beach Blvd"
     },
     {
       "day": 7,
       "kind": "sight",
       "name": "⛽ Hotel + GAS UP",
-      "time": "7:00–8:15 PM · unhurried",
+      "time": "7:00–8:15 PM",
       "lat": 33.93,
       "lon": -118.4,
-      "desc": "⚠ Fill the tank near the hotel, NOT at the airport — LAX-adjacent pumps are brutal. Over an hour here: shower, change, repack for the flight. Same room both nights means the bags never left it; if it is a second hotel, this is your check-in and bag drop."
+      "desc": "⚠ Fill the tank near the hotel, NOT at the airport — LAX-adjacent pumps are brutal. Over an hour here: shower off the salt, change, repack for the flight."
     },
     {
       "day": 7,
@@ -874,17 +886,17 @@
       "time": "★ ⚠ VERIFY THEY SEAT AT 10",
       "lat": 33.832,
       "lon": -118.341,
-      "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ CALL TODAY: most locations stop seating 9:30-10 PM and many take no reservations. TORRANCE (Del Amo) ~20 min by Uber from LAX; SANTA MONICA (395 Santa Monica Pl) ~25 min, usually open later Fridays. VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup — the easiest menu of the trip for a mixed table.",
+      "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ THE LAST OPEN ITEM ON THE WHOLE TRIP: call and confirm they seat at 10. Most locations stop 9:30-10 PM and many take no reservations. TORRANCE (Del Amo) ~20 min by Uber from LAX; SANTA MONICA (395 Santa Monica Pl) ~25 min, usually later on Fridays. VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup.",
       "parking": "Din Tai Fung, Del Amo Fashion Center, Torrance"
     },
     {
       "day": 7,
       "kind": "sleep",
-      "name": "Sleep: same hotel — LAST NIGHT",
+      "name": "Sleep: hotel — LAST NIGHT",
       "time": "🛏 Night 7 · Uber back ~11:30 PM",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "⚠ SATURDAY IS CAR-LESS. TONIGHT: confirm the hotel airport shuttle and book it for ~8:15 AM, or pre-order an Uber (budget $40-60 with surge). DL2568 is at 10:59 — airside by 9:30. Repack tonight. ⚠ Keep the fresh tattoos wrapped exactly as the artist says — you have a real bed for the first night of healing, which matters."
+      "desc": "⚠ SATURDAY IS CAR-LESS. TONIGHT: confirm the hotel airport shuttle and book it for ~8:15 AM, or pre-order an Uber (budget $40-60 with surge). DL2568 is at 10:59 — airside by 9:30. Repack before dinner, not after."
     },
     {
       "day": 8,
