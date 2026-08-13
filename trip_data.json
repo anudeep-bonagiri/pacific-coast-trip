@@ -92,7 +92,8 @@
       "ADDED The Lighthouse Cafe (30 Pier Ave, Hermosa Beach) as Thursday's 9:15 PM dinner + live jazz, replacing the Los Feliz dinner. The La La Land club and a real 1949 West Coast jazz room. Chosen for Thursday because Friday is full (tattoos 4:45-7:30, car back 8:45, DTF 10) and because Hermosa is ~10 min from the LAX hotel, so the night ends next to bed. ⚠ FLAGGED: evening shows at LA venues are often 21+ and all three travellers are under 21 — must call about the age policy and cover. Fallback: eat on Hermosa Pier, or the original Los Feliz/Thai Town option.",
       "SWAP Aug 13: swimming and Beverly Hills move to THURSDAY; Getty pushed to Friday. Two structural pins explained: GRIFFITH MUST BE THURSDAY (sunset 7:45; Friday at that hour is tattoos + car return) and ALL WATER MUST PRECEDE TATTOOS. Thu: Santa Monica swim 2:00-3:30 -> Beverly Hills/Rodeo 4:15-5:30 (city garages = 2 hr FREE) -> Chinese Theatre 5:50 only if clear by 5:35 -> GRIFFITH 6:45 -> Lighthouse Cafe 9:15. Fri: surf 10-12 (LAST WATER) -> Malibu Seafood -> EITHER El Matador OR the Getty, not both -> tattoos 5:00-7:30 -> gas 7:45 -> car 8:45 -> DTF 10. ⚠ The Getty is the casualty of the swap: it wants 3 hr, closes at 5, and Friday only offers a rushed 2:45-4:30 before the tattoo appointment.",
       "⚠ NEW RISK Aug 13: Friday night is a DIFFERENT hotel and its location is unknown. Consequences: check out of hotel #1 Friday morning with all bags riding in the car all day; check into hotel #2 ~7:45 PM just before the 9 PM car return; and from 9 PM they are CAR-LESS, so hotel #2 must be Uber-reachable to Din Tai Fung and — critically — to LAX on Saturday for the 10:59 flight. If no airport shuttle, Uber ~8:15 AM, budget $40-60.",
-      "FINAL two-day LA plan (Aug 13-14). SURF LESSON CANCELLED (never booked) — frees Friday morning and means El Matador AND the Getty both fit; also makes Thursday's Santa Monica swim the ONLY ocean of the trip. NO ROOM BOOKED for Thursday night and bags have been in the car since the Hilton noon checkout — book LAX/El Segundo/Hawthorne immediately AND FOR BOTH NIGHTS, cancelling Friday's unknown hotel if refundable. That one change removes the Friday checkout, the all-day bags-in-car exposure, the 7:45 PM check-in squeeze and the Saturday airport unknown. Check in at 4:15 BEFORE Griffith so luggage is not sitting in a dark Griffith lot 6:45-8:30. Thu: swim 2:00-3:30, check in 4:15, Beverly Hills 5:15-6:15, Griffith 6:45 (sunset 7:45), Lighthouse 9:15. Chinese Theatre cut. Fri: El Matador 10:45, Malibu Seafood 12:00, GETTY 1:30-4:30 full three hours, tattoos 5:00-7:30, gas 7:50, Hertz 8:45, DTF 10:00, Uber back ~11:30. Sat: shuttle/Uber 8:15, airside 9:30, DL2568 10:59."
+      "FINAL two-day LA plan (Aug 13-14). SURF LESSON CANCELLED (never booked) — frees Friday morning and means El Matador AND the Getty both fit; also makes Thursday's Santa Monica swim the ONLY ocean of the trip. NO ROOM BOOKED for Thursday night and bags have been in the car since the Hilton noon checkout — book LAX/El Segundo/Hawthorne immediately AND FOR BOTH NIGHTS, cancelling Friday's unknown hotel if refundable. That one change removes the Friday checkout, the all-day bags-in-car exposure, the 7:45 PM check-in squeeze and the Saturday airport unknown. Check in at 4:15 BEFORE Griffith so luggage is not sitting in a dark Griffith lot 6:45-8:30. Thu: swim 2:00-3:30, check in 4:15, Beverly Hills 5:15-6:15, Griffith 6:45 (sunset 7:45), Lighthouse 9:15. Chinese Theatre cut. Fri: El Matador 10:45, Malibu Seafood 12:00, GETTY 1:30-4:30 full three hours, tattoos 5:00-7:30, gas 7:50, Hertz 8:45, DTF 10:00, Uber back ~11:30. Sat: shuttle/Uber 8:15, airside 9:30, DL2568 10:59.",
+      "Aug 13: 2 AM curfew available BOTH nights. In-N-Out slotted 4:35-5:05 Thursday (LAX approach location, 5 min from hotel, best in daylight; open till ~1 AM as a fallback). Three late options added for tonight, ranked by effort: Manhattan Beach Pier (5 min), Santa Monica Pier at night (30 min), Hollywood Blvd at midnight (45 min each way). ⚠ NOTE the 2 AM freedom is far less useful FRIDAY — the car goes back at 9 PM and they are car-less after, so Friday's extra time was spent on daylight instead (Venice canals added after the tattoos)."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -177,13 +178,13 @@
     {
       "day": 6,
       "title": "Aug 13 · SWIM · check in · Beverly Hills · GRIFFITH · jazz",
-      "drive": "swim 2 PM · sunset 7:45 · jazz 9:15 · ~65 mi",
+      "drive": "swim 2 PM · In-N-Out 4:35 · sunset 7:45 · jazz 9:15 · late till 2 AM",
       "color": "#4363d8"
     },
     {
       "day": 7,
       "title": "Aug 14 · El Matador · THE GETTY · TATTOOS · DTF",
-      "drive": "9:45 AM–11:30 PM · car back 9 PM · ~90 mi",
+      "drive": "10:45 AM–11:30 PM · car back 9 PM · car-less after · ~90 mi",
       "color": "#911eb4"
     },
     {
@@ -687,39 +688,40 @@
       "day": 6,
       "kind": "water",
       "name": "🌊 Santa Monica — YOUR ONLY SWIM",
-      "time": "🌊 2:00–3:30 PM · free · lifeguarded",
+      "time": "🌊 2:00–3:30 PM · free",
       "lat": 34.0089,
       "lon": -118.4973,
-      "desc": "🌊 ⚠ THE LAST OCEAN OF THE TRIP. The surf lesson is cancelled and tomorrow's tattoos close the water for 2-4 weeks — this is it. ~69°F, lifeguarded, gentle, after a week of 52-59°F. Pier, Route 66 end-of-trail sign, Muscle Beach rings just south. ⚠ BAGS ARE IN THE CAR — use the PIER DECK GARAGE, never the street, and leave nothing visible. Do not cut this short if it is good.",
+      "desc": "🌊 ⚠ THE LAST OCEAN OF THE TRIP — surf lesson is cancelled and tomorrow's tattoos close the water for 2-4 weeks. ~69°F, lifeguarded, gentle. Pier, Route 66 end-of-trail sign, Muscle Beach rings just south. 🅿️ PIER DECK GARAGE — bags are in the car, nothing visible, never the street. Rinse and change 3:30-3:50.",
       "parking": "Santa Monica Pier Deck lot, 200 Santa Monica Pier"
     },
     {
       "day": 6,
       "kind": "sleep",
-      "name": "⚠ CHECK IN — book this NOW",
-      "time": "⚠ 4:15 PM · BOOK FROM THE CAR",
+      "name": "⚠ CHECK IN — BOOK THIS NOW",
+      "time": "⚠ 4:10 PM · LAX / El Segundo belt",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "⚠⚠ YOU HAVE NO ROOM TONIGHT. Book in the LAX / El Segundo / Hawthorne belt — cheapest cluster, ~10 min from tonight's jazz club, and it sets up the Friday 9 PM car return and the Saturday flight. Expect $130-200 same-day in August. ⚠ BOOK IT FOR BOTH NIGHTS and cancel Friday's mystery hotel if it is refundable: that removes the Friday checkout, keeps your bags locked in a room instead of riding through Malibu and a tattoo shop, kills the 7:45 PM check-in squeeze, and gives you a known address for Saturday morning. ⚠ CHECK IN BEFORE GRIFFITH — you would otherwise be parked there in the dark 6:45-8:30 with a week of luggage aboard."
+      "desc": "⚠⚠ NO ROOM BOOKED. Book LAX / El Segundo / Hawthorne, ~$130-200 same-day. ⚠ BOOK BOTH NIGHTS and cancel Friday's mystery hotel if refundable — that kills the Friday checkout, keeps bags locked in a room instead of riding through Malibu and a tattoo shop, removes the 7:45 PM check-in squeeze, and gives a known address for Saturday. ⚠ CHECK IN BEFORE GRIFFITH: you would otherwise be parked in a dark Griffith lot 6:45-8:30 with a week of luggage aboard."
+    },
+    {
+      "day": 6,
+      "kind": "sight",
+      "name": "🍔 In-N-Out — LAX plane spotting",
+      "time": "4:35–5:05 PM · ~$8pp · 5 min from hotel",
+      "lat": 33.9491,
+      "lon": -118.3924,
+      "desc": "🍔 THE In-N-Out to go to. It sits directly under the LAX final approach — jets pass ~200 ft overhead every 90 seconds and there are patio tables to watch from. Best in daylight, which is why it lands here. VEGETARIANS: order the GRILLED CHEESE — off the menu board but always available, same build without the patty. Everyone else: Double-Double animal style, fries well-done. ⚠ Open until ~1 AM, so you can also come back tonight after the jazz — it is 5 min from the hotel.",
+      "parking": "In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles"
     },
     {
       "day": 6,
       "kind": "gem",
       "name": "★ Beverly Hills — Rodeo Drive",
-      "time": "★ 5:15–6:15 PM · free",
+      "time": "★ 5:35–6:15 PM · free",
       "lat": 34.0674,
       "lon": -118.4009,
-      "desc": "★ 🅿️ THE TRICK: Beverly Hills city garages give the FIRST 2 HOURS FREE — 461 N Bedford or 345 N Beverly, never the meters. Walk Rodeo and Via Rodeo (the cobblestone street with the steps), the Beverly Wilshire at the foot of it, then two blocks north to the BEVERLY HILLS SIGN at Beverly Gardens Park. All free unless you buy something.",
+      "desc": "★ 🅿️ THE TRICK: Beverly Hills city garages give the FIRST 2 HOURS FREE — 461 N Bedford or 345 N Beverly. Never the meters. It is a compact walk: Rodeo Drive, then VIA RODEO (the little cobblestone European street with the steps — the photo spot), the Beverly Wilshire at the foot of it, then two blocks north on Rodeo to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. ⚠ Tight at 40 min — park fast, walk straight to Via Rodeo, then the sign. Leave by 6:15 sharp.",
       "parking": "Beverly Hills city garage, 461 N Bedford Dr"
-    },
-    {
-      "day": 6,
-      "kind": "bonus",
-      "name": "TCL Chinese Theatre",
-      "time": "+ CUT — the check-in took its slot",
-      "lat": 34.1022,
-      "lon": -118.341,
-      "desc": "Cut. The hotel check-in is worth more than the handprint forecourt, and Griffith parking is the thing you cannot be late for."
     },
     {
       "day": 6,
@@ -728,37 +730,54 @@
       "time": "★ 6:45 PM · sunset 7:45 · FREE",
       "lat": 34.1184,
       "lon": -118.3004,
-      "desc": "★ ⚠ TONIGHT OR NEVER — tomorrow at 7:45 you are finishing tattoos and driving to the car return. Free entry, free Zeiss telescope after dark. Hollywood Sign one way, the whole basin lighting up the other. ⚠ PARKING FILLS BY 7 — arrive 6:45, or park lower on Fern Dell Dr and walk up, or take the DASH Observatory shuttle from Vermont/Sunset. Stay until the city is fully lit, ~8:30.",
+      "desc": "★ ⚠ TONIGHT OR NEVER — tomorrow at 7:45 you are finishing tattoos and driving to the car return. Free entry, free Zeiss telescope viewing after dark on a clear night. Hollywood Sign on one side, the entire basin lighting up on the other. ⚠ PARKING FILLS BY 7 — arrive 6:45, or park lower on Fern Dell Dr and walk up, or take the DASH Observatory shuttle from Vermont/Sunset. Stay until the city is fully lit, ~8:30.",
       "parking": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles"
     },
     {
       "day": 6,
       "kind": "gem",
-      "name": "★ The Lighthouse Cafe — Hermosa Beach",
-      "time": "★ 9:15 PM · dinner + live jazz",
+      "name": "★ The Lighthouse Cafe — Hermosa",
+      "time": "★ 9:15–11:00 PM · dinner + jazz",
       "lat": 33.8622,
       "lon": -118.4009,
-      "desc": "★ The LA LA LAND club, and a real jazz room since 1949 — Miles, Chet Baker and Coltrane all played it. Live music, food served, foot of Hermosa Pier, ~10 min from your hotel so the night ends next to bed. ⚠⚠ CALL BEFORE YOU DRIVE DOWN — evening sets are frequently 21+ and all three of you are under 21. Ask the age policy and the cover. IF 21+: eat on Hermosa Pier instead, same evening, same 10 min from bed.",
+      "desc": "★ The LA LA LAND club, and a real jazz room since 1949 — Miles, Chet Baker and Coltrane all played it. Live music, food served, foot of Hermosa Pier, ~10 min from your hotel. ⚠⚠ CALL BEFORE THE 45-MIN DRIVE DOWN FROM GRIFFITH — evening sets are frequently 21+ and all three of you are under 21. Ask the age policy and the cover. IF 21+: eat on Hermosa Pier instead, same beach-town evening, still 10 min from bed.",
       "parking": "The Lighthouse Cafe, 30 Pier Ave, Hermosa Beach"
     },
     {
       "day": 6,
       "kind": "bonus",
-      "name": "In-N-Out — LAX plane spotting",
-      "time": "+ 5 min from the hotel · anytime",
-      "lat": 33.9491,
-      "lon": -118.3924,
-      "desc": "Slot it wherever a meal fits. This location sits directly under the LAX final approach — jets ~200 ft overhead every 90 seconds. Vegetarians: order the off-menu GRILLED CHEESE.",
-      "parking": "In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles"
+      "name": "LATE OPTION A — Manhattan Beach Pier",
+      "time": "+ 11:15 PM · 5 min · free · EASIEST",
+      "lat": 33.8847,
+      "lon": -118.4109,
+      "desc": "Closest late-night add: 5 min north of Hermosa. A lit pier over black water, the Roundhouse Aquarium at the end, and a quiet beach path. Twenty minutes, costs nothing, and you are still 10 min from the hotel. The low-effort way to use the late curfew."
+    },
+    {
+      "day": 6,
+      "kind": "bonus",
+      "name": "LATE OPTION B — Santa Monica Pier at night",
+      "time": "+ 11:45 PM · 30 min drive · free",
+      "lat": 34.0089,
+      "lon": -118.4973,
+      "desc": "The Ferris wheel and the pier lit up over the water — a genuinely different thing from the daytime version you saw this afternoon. 30 min each way from Hermosa. ⚠ Rides usually stop ~11 PM but the pier itself stays open and lit."
+    },
+    {
+      "day": 6,
+      "kind": "bonus",
+      "name": "LATE OPTION C — Hollywood Blvd at midnight",
+      "time": "+ 11:45 PM · 45 min drive · free",
+      "lat": 34.1022,
+      "lon": -118.341,
+      "desc": "Hollywood Blvd is genuinely alive at midnight and the TCL Chinese Theatre FORECOURT with the handprints is open air and always accessible — this is the version of Hollywood worth seeing, and parking is easier late. ⚠ 45 min each way from Hermosa and 40 min home, so ~1.5 hr of driving. Keep valuables on you; the Blvd attracts pickpockets late."
     },
     {
       "day": 7,
       "kind": "bonus",
-      "name": "Surf lesson — CANCELLED",
-      "time": "+ never booked",
+      "name": "Surf lesson — CANCELLED (never booked)",
+      "time": "+ frees the morning · ~$270 back",
       "lat": 34.0381,
       "lon": -118.677,
-      "desc": "Never booked, so it is off. Two upsides: the morning is yours, and you no longer have to choose between El Matador and the Getty — you get both. One real loss: yesterday's Santa Monica swim was therefore the only ocean of the whole trip. ~$270 back to the group."
+      "desc": "Never booked. Upside: the morning is yours and you no longer choose between El Matador and the Getty — you get both, and the Getty gets its full three hours. Downside, worth naming: Thursday's Santa Monica session was therefore the ONLY ocean swim of a two-week coastal trip."
     },
     {
       "day": 7,
@@ -767,7 +786,7 @@
       "time": "★ 10:45–11:45 AM · $8 parking",
       "lat": 34.0369,
       "lon": -118.879,
-      "desc": "★ The most photogenic beach in LA County. Steep staircase and dirt path down to a cove of sea stacks, arches and caves; morning light angles through them. ⚠ Real shoes for the stairs, not flip-flops. ⚠ Wading only — you are getting tattooed this afternoon.",
+      "desc": "★ The most photogenic beach in LA County. Small lot right off PCH, then a steep staircase and dirt path down to a cove of sea stacks, arches and caves. ⚠ REAL SHOES for the stairs. ⚠ Wading only — you are getting tattooed this afternoon and salt water on fresh ink is out for weeks.",
       "parking": "El Matador State Beach, 32350 Pacific Coast Hwy, Malibu"
     },
     {
@@ -777,7 +796,7 @@
       "time": "12:00–12:45 PM · $11-20pp",
       "lat": 34.0378,
       "lon": -118.6989,
-      "desc": "Walk-up counter with picnic tables straight across PCH from the water. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. No reservations, fast."
+      "desc": "Walk-up counter with picnic tables straight across PCH from the water. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. No reservations, fast, cash-friendly."
     },
     {
       "day": 7,
@@ -786,7 +805,7 @@
       "time": "★ 1:30–4:30 PM · FREE (parking $25)",
       "lat": 34.078,
       "lon": -118.474,
-      "desc": "★ With the surf lesson gone this finally gets the three hours it deserves. Free admission — you pay only parking. Park at the bottom, ride a driverless tram up the hill to Richard Meier's travertine complex: Van Gogh's Irises, the Central Garden, and a terrace holding downtown, the Hollywood Sign and the ocean in one view. Closes 5 PM. Even if nobody is an art person, the architecture and the view carry it.",
+      "desc": "★ The cancelled surf lesson bought this its full length. Free admission — you pay only parking. Park at the bottom, ride the driverless tram up to Richard Meier's travertine complex: Van Gogh's IRISES, the Central Garden, and a terrace holding downtown, the Hollywood Sign and the ocean in one frame. Closes 5 PM. Even if nobody is an art person, the building and the view carry it.",
       "parking": "Getty Center, 1200 Getty Center Dr, Los Angeles"
     },
     {
@@ -796,26 +815,35 @@
       "time": "★ 5:00–7:30 PM · ⚠ BOOK TODAY",
       "lat": 33.988,
       "lon": -118.472,
-      "desc": "★ 25 min from the Getty. ⚠ FIVE CHECKS: (1) BOOK TODAY — three walk-ins on a Friday evening is a long wait or a no. (2) GOVERNMENT PHOTO ID for everyone — California is 18+, out-of-state licences fine, no ID no tattoo. (3) NO SUNBURN where you want ink — artists refuse burnt skin and you are at the beach this morning, so sunscreen that spot. (4) NO OCEAN, POOL OR HOT TUB FOR 2-4 WEEKS after. (5) CASH + 15-20% TIP; Venice minimums usually start ~$100-150 each.",
+      "desc": "★ 25 min from the Getty. ⚠ FIVE CHECKS: (1) BOOK TODAY — three walk-ins on a Friday evening is a long wait or a flat no. (2) GOVERNMENT PHOTO ID for all three — California is 18+, out-of-state licences are fine, no ID means no tattoo. (3) NO SUNBURN where you want ink — you are at El Matador this morning, so sunscreen that spot; artists refuse burnt skin. (4) NO OCEAN, POOL OR HOT TUB FOR 2-4 WEEKS. (5) CASH + 15-20% TIP; Venice minimums usually start ~$100-150 each.",
       "parking": "Windward Ave, Venice, CA"
     },
     {
       "day": 7,
+      "kind": "bonus",
+      "name": "Venice canals — 15 min while you are there",
+      "time": "+ 7:30 PM · free · two blocks inland",
+      "lat": 33.9835,
+      "lon": -118.465,
+      "desc": "You are already in Venice for the tattoos and this is two blocks inland: silent residential canals with arched footbridges, and almost nobody finds them. Fifteen minutes, free, and a much better last look at Venice than the boardwalk."
+    },
+    {
+      "day": 7,
       "kind": "sight",
-      "name": "⛽ GAS UP — then straight to LAX",
-      "time": "7:50 PM · near the hotel",
+      "name": "⛽ GAS UP — near the hotel",
+      "time": "7:55 PM · NOT at the airport",
       "lat": 33.93,
       "lon": -118.4,
-      "desc": "⚠ Fill the tank near the hotel, NOT at the airport — LAX-adjacent pumps are brutal. If you booked both nights in the same room, your bags are already upstairs and this is a 15-minute stop, not a check-in."
+      "desc": "⚠ Fill the tank near the hotel; LAX-adjacent pumps are brutal. If you booked both nights in one room your bags are already upstairs, so this is a 15-minute stop rather than a check-in."
     },
     {
       "day": 7,
       "kind": "air",
       "name": "Return the Hertz car — LAX",
-      "time": "⚠ 8:45 PM · DUE 9 PM",
+      "time": "⚠ 8:45 PM · DUE 9 PM · HARD",
       "lat": 33.9416,
       "lon": -118.4085,
-      "desc": "⚠ HARD DEADLINE, and the last fixed thing on the trip. Tank full. Photograph the car, the odometer and the fuel gauge at drop-off, and keep the receipt. Then Uber to dinner — car-less from here.",
+      "desc": "⚠ THE LAST FIXED THING ON THE TRIP. Tank full. Photograph the car from all four corners, the odometer and the fuel gauge, and keep the receipt. Then Uber to dinner — car-less from here, which is why the late curfew matters less tonight than last night.",
       "parking": "Hertz Car Return, 9000 Airport Blvd, Los Angeles"
     },
     {
@@ -825,8 +853,17 @@
       "time": "★ ⚠ VERIFY THEY SEAT AT 10",
       "lat": 33.832,
       "lon": -118.341,
-      "desc": "★ Xiao long bao are the point — pork soup dumplings, and the glass kitchen where you watch them folded. ⚠⚠ CALL TODAY: most locations stop seating 9:30-10 PM and many are walk-in only, so 10 PM may be past last call. TORRANCE (Del Amo) ~20 min by Uber from LAX; SANTA MONICA (395 Santa Monica Pl) ~25 min and usually open later Fridays. Vegetarian: vegan dumplings, veggie buns, green beans, cucumber salad.",
+      "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ CALL TODAY: most locations stop seating 9:30-10 PM and many take no reservations, so 10 PM may be past last call. TORRANCE (Del Amo) ~20 min by Uber from LAX; SANTA MONICA (395 Santa Monica Pl) ~25 min and usually open later on Fridays. VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup — one of the easiest menus of the trip for a mixed table.",
       "parking": "Din Tai Fung, Del Amo Fashion Center, Torrance"
+    },
+    {
+      "day": 7,
+      "kind": "bonus",
+      "name": "LATE — Manhattan Beach by Uber",
+      "time": "+ after 11:15 PM · if anyone is still up",
+      "lat": 33.8847,
+      "lon": -118.4109,
+      "desc": "You are car-less, so the 2 AM curfew is less useful tonight. If people still want it: Manhattan Beach Pier is ~15 min by Uber from the Torrance DTF and a lit pier at night is a decent last image of California. Otherwise go back — the flight is 10:59 and Saturday morning has no slack."
     },
     {
       "day": 7,
@@ -835,7 +872,7 @@
       "time": "🛏 Night 7 · Uber back ~11:30 PM",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "⚠ SATURDAY IS CAR-LESS. Tonight: confirm the hotel airport shuttle and book it for ~8:15 AM, or pre-order an Uber (budget $40-60 with surge). Flight is DL2568 at 10:59 — you want to be airside by 9:30. Repack tonight, and keep the fresh tattoos covered per the artist's aftercare."
+      "desc": "⚠ SATURDAY IS CAR-LESS. TONIGHT: confirm the hotel airport shuttle and book it for ~8:15 AM, or pre-order an Uber (budget $40-60 with surge). DL2568 is at 10:59 and you want to be airside by 9:30. Repack tonight and keep the fresh tattoos covered per the artist's aftercare."
     },
     {
       "day": 8,
