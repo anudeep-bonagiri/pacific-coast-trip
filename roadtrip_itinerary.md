@@ -128,28 +128,34 @@ No inland shortcut. Willits is a junction town with nothing in it, and CA-20 onl
 
 **The risk is Bay Area traffic**, 9:45–10:35 and again leaving Cupertino at 12:35. If either slips much, the elephant seals go dark — cut Stanford to buy the hour back.
 
-### DAY 6 — Thu Aug 13 · 🎁 **FREE LA DAY**
-The push south bought you a completely open day. Big Sur is behind you, the surf lesson and beaches are tomorrow. **Sleep in.** Pick two or three — everything is within ~45 min of an LAX hotel.
+### DAY 6 — Thu Aug 13 · In-N-Out → **The Getty** → Hollywood → **GRIFFITH SUNSET**
+Starting at noon. **Griffith moves to tonight** so Friday isn't a scramble against the 9 PM car return.
 
-- ★ **The Getty Center** — *my pick.* Free admission (parking ~$25), hilltop travertine complex reached by tram, Van Gogh's *Irises*, and the best free view in LA. Open Thursdays. Easily half a day.
-- **Hollywood** — Walk of Fame is grubbier than expected, but the TCL Chinese Theatre handprint forecourt is free and genuinely fun. Add Hollywood Sign views from Lake Hollywood Park.
-- **Downtown** — Grand Central Market (a hundred cheap food stalls, great for the vegetarians), The Broad (free but needs advance timed tickets), Angels Flight.
-- **Manhattan / Hermosa Beach** — 15 min from the hotel, lifeguarded, ~68°F, pier and beach path. The lowest-effort good day, and it saves budget.
-- *Splurge option:* **Universal Studios** — full day, ~$110–140pp. Only if the group actually wants a theme park.
+| Time | Stop | Why |
+|---|---|---|
+| **12:00** | **In-N-Out, 9149 S Sepulveda** *(~$8pp)* | Not just any In-N-Out — this one sits **under the LAX final approach**, jets ~200 ft overhead every 90 seconds. Vegetarians: order the **Grilled Cheese** (off-menu, always available) |
+| **1:15–4:30** | ★ **THE GETTY CENTER** *(FREE, $25 parking)* | Driverless tram up a hill to a travertine complex with Van Gogh's *Irises*, the Central Garden, and downtown + Hollywood Sign + ocean in one view. **Closes 5 PM** — be up the hill by 1:30 |
+| 5:15–6:15 | **TCL Chinese Theatre forecourt** *(free)* | Walk of Fame is grubby; the **handprint forecourt** since 1927 is the good part. One hour is right |
+| **6:45** | ★ **GRIFFITH OBSERVATORY** — sunset **7:45** *(FREE)* | Hollywood Sign one way, the whole basin lighting up the other. Free telescope viewing after dark. ⚠ **Parking fills by 7** — arrive 6:45, or park on Fern Dell and walk, or take the DASH shuttle. Stay till ~8:30 |
+| 9:00 | **Dinner — Los Feliz or Thai Town** | Straight down the hill. Thai Town is cheaper and open late — say no fish sauce |
 
-### DAY 7 — Fri Aug 14 · 🌊 Surf, swim → Griffith sunset
-| Time | Plan |
-|---|---|
-| ~7:00 AM | Depart Pismo (~2.5 hr to Malibu); the **Gaviota US-101 roadside rest area is closed through Oct 1** — if a break is essential, use paid Gaviota State Park |
-| 10:00–12:00 | 🌊 **Surf lesson, Malibu/Surfrider (~$90pp)** — wetsuit included, long gentle beginner wave, ~69°F water (warmest of the trip). **Book for Aug 14.** |
-| 12:00 PM | **Malibu Seafood lunch** — veggie burgers for two; fish/shrimp tacos, sandwiches, or chicken for two |
-| 12:30 PM | **El Matador State Beach** — sea stacks, steep stairs to the sand |
-| 1:30 PM | **Point Dume** — short climb, sweeping Malibu view, sea lions below |
-| 2:30 PM | 🌊 **Santa Monica — swim** (~69°F, lifeguarded) + pier, Route 66 sign. No flight today — stay as long as it's fun |
-| ~4:30 PM | **Venice Beach Boardwalk** — skate park, Muscle Beach, the canals two blocks in |
-| 6:30 PM | **Griffith Observatory / Hollywood Sign** — free, sunset ~7:45, city lights up. **HARD STOP: leave by 7:50 — the car is due back at 9** |
-| ~8:50 PM | **Return the Hertz car at LAX** (due 9 PM) — gas up BEFORE Griffith so this is a straight shot. Photograph the car + fuel gauge |
-| ~9:15 PM | **Hotel shuttle to El Segundo / Inglewood** — must be a hotel WITH an airport shuttle. Pack tonight |
+*Splurge alternative: Universal Studios (~$110–140pp) swaps out the whole day including Griffith. I wouldn't make that trade.*
+
+### DAY 7 — Fri Aug 14 · Surf → Malibu → Santa Monica → Venice → **Din Tai Fung 10 PM**
+| Time | Stop | Notes |
+|---|---|---|
+| 9:00 | Leave the hotel | Malibu is ~45 min up PCH |
+| **10:00–12:00** | 🌊 **Surf lesson, Surfrider** *(~$90pp)* | ⚠ **Confirm this is booked.** Wetsuit included, ~69°F, long gentle point break |
+| 12:15 | **Malibu Seafood** *(counter, $11–20pp)* | Picnic tables across PCH from the water |
+| **1:15** | ★ **El Matador State Beach** *(45 min, $8)* | Most photogenic beach in LA County — sea stacks, arches, caves. Steep stairs, real shoes |
+| 2:30 | **Point Dume** *(30 min, free)* | Headland boardwalk, sea lions below, the whole bay |
+| **3:45** | 🌊 **Santa Monica — SWIM** *(free, lifeguarded)* | **The swim of the trip.** After a week of 52–59°F, finally get in. Pier + Route 66 sign |
+| 5:30 | **Venice Boardwalk + the CANALS** *(1 hr, free)* | Skate park and Muscle Beach, then walk two blocks inland — the canals are silent, and almost nobody finds them |
+| **7:00** | ⛽ **GAS UP + hotel, drop bags** | Fill near the hotel, **not** at the airport |
+| **8:45** | ⚠ **RETURN THE HERTZ CAR — due 9 PM** | Photograph car, odometer, fuel gauge. Car-less from here |
+| **10:00** | ★ **DIN TAI FUNG** | Uber from LAX. **Torrance/Del Amo ~20 min**, Santa Monica ~25 min and open later Fridays |
+
+**⚠ Call Din Tai Fung today.** Most locations stop seating between 9:30 and 10 PM, and many are walk-in only. A 10 PM arrival could find the kitchen closed — confirm before you build the evening around it.
 
 ### DAY 8 — Sat Aug 15 · Fly home
 | Time | Plan |
