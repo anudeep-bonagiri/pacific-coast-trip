@@ -128,40 +128,37 @@ No inland shortcut. Willits is a junction town with nothing in it, and CA-20 onl
 
 **The risk is Bay Area traffic**, 9:45–10:35 and again leaving Cupertino at 12:35. If either slips much, the elephant seals go dark — cut Stanford to buy the hour back.
 
-### DAY 6 — Thu Aug 13 · 🌊 **SWIM** → **Beverly Hills** → **GRIFFITH** → Lighthouse Cafe
-**Two things pin this day:** Griffith only works tonight (sunset 7:45 — tomorrow at that hour you're finishing tattoos), and all swimming has to happen before tomorrow's ink.
+### DAY 6 — Thu Aug 13 · 🌊 SWIM → check in → Beverly Hills → **GRIFFITH** → jazz
+**⚠ You have no room tonight and your bags are in the car.** Book LAX/El Segundo/Hawthorne now — **and book it for both nights**, cancelling Friday's mystery hotel if it's refundable.
 
 | Time | Stop | Notes |
 |---|---|---|
-| **2:00–3:30** | 🌊 **SANTA MONICA — THE SWIM** *(free, lifeguarded)* | ~69°F after a week of 52°F water. Pier, Route 66 sign, Muscle Beach rings. 🅿️ Pier deck lot or 2nd/4th St structures — never street park. Rinse and change after |
-| *+ optional* | **Venice boardwalk + canals** *(5 min south)* | Only if you're ahead — the canals two blocks inland are the good part |
-| **4:15–5:30** | ★ **BEVERLY HILLS — Rodeo Drive** *(free)* | 🅿️ **City garages give you 2 HOURS FREE** — use 461 N Bedford or 345 N Beverly, never the meters. Rodeo + Via Rodeo (the cobblestone steps), the Beverly Wilshire at the foot, then the **Beverly Hills sign** at Beverly Gardens Park two blocks north |
-| 5:50–6:20 | **TCL Chinese Theatre** *(free)* | ⚠ **Only if you're clear of Beverly Hills by 5:35.** The handprint forecourt is the good part |
-| **6:45** | ★ **GRIFFITH OBSERVATORY** — sunset **7:45** *(FREE)* | ⚠ **Tonight or never.** Parking fills by 7 — arrive 6:45, or park on Fern Dell and walk. Stay till ~8:30 for the city lights |
-| **9:15** | ★ **THE LIGHTHOUSE CAFE**, Hermosa Beach | *La La Land* club and a real 1949 jazz room. ⚠ **Call about the age policy** — evening sets are often 21+. If so, eat on Hermosa Pier. Either way you're 10 min from the hotel |
+| **2:00–3:30** | 🌊 **SANTA MONICA — your ONLY swim** | Surf lesson is off and tomorrow's tattoos close the water for 2–4 weeks. **This is the last ocean of the trip.** 🅿️ Pier deck garage, nothing visible |
+| **4:15** | ⚠ **CHECK IN — bags out of the car** | Before Griffith, not after — you'd otherwise be parked in a dark Griffith lot 6:45–8:30 with a week of luggage |
+| **5:15–6:15** | ★ **Beverly Hills** | 🅿️ City garages **2 hrs FREE** — 461 N Bedford. Rodeo, Via Rodeo, Beverly Wilshire, **Beverly Hills sign** at Beverly Gardens Park |
+| **6:45** | ★ **GRIFFITH** — sunset **7:45** | ⚠ **Tonight or never.** Parking fills by 7. Stay till ~8:30 for the city lights |
+| **9:15** | ★ **Lighthouse Cafe**, Hermosa Beach | ⚠ **Call about 21+ first.** If yes, eat on Hermosa Pier — same evening, 10 min from bed |
+| ~11:00 | Hotel | |
 
-*In-N-Out at 9149 S Sepulveda (under the LAX approach, jets 200 ft overhead) fits wherever a meal does — it's 5 min from the hotel.*
+*Chinese Theatre cut — the check-in is worth more. In-N-Out at 9149 S Sepulveda (under the LAX approach) fits any meal, 5 min from the hotel.*
 
-### DAY 7 — Fri Aug 14 · Surf → Malibu → **TATTOOS** → Din Tai Fung
+### DAY 7 — Fri Aug 14 · El Matador → **THE GETTY** → **TATTOOS** → Din Tai Fung
+**The cancelled surf lesson is a gift** — you get El Matador *and* the full Getty, and ~$270 back.
+
 | Time | Stop | Notes |
 |---|---|---|
-| 9:00 | Leave the hotel | Malibu ~45 min up PCH |
-| **10:00–12:00** | 🌊 **Surf lesson, Surfrider** *(~$90pp)* | ⚠ Confirm booked. **Last water of the trip.** ⚠ Sunscreen the spot you want tattooed |
-| 12:15 | **Malibu Seafood** *(45 min)* | |
-| **1:15** | ⚠ **PICK ONE: El Matador *or* The Getty** | See below |
-| **5:00–7:30** | ★ **TATTOOS** — Venice / Santa Monica | Book today · photo ID · no sunburn · cash + tip |
-| 7:45 | ⛽ **Gas + drop bags** | Near the hotel, not the airport |
-| **8:45** | ⚠ **RETURN THE CAR — due 9 PM** | |
-| **10:00** | ★ **Din Tai Fung** | Uber. Torrance ~20 min, Santa Monica ~25 min |
-
-**⚠ El Matador or the Getty — not both.** El Matador is 45 min at a cove of sea stacks and arches, right where you already are. The Getty is free, world-class, and closes at 5 — but from Malibu you'd only get 2:45–4:30, which is a rushed version of a three-hour place, and you still have to be at the tattoo shop by 5:15. **The Getty is the better thing; El Matador is the better fit.** Decide at lunch.
+| 9:45 | Leave *(bags stay in the room if you booked both nights)* | |
+| **10:45–11:45** | ★ **El Matador State Beach** *($8)* | Sea stacks, arches, caves. Steep stairs — real shoes. ⚠ Wading only, you're getting inked today |
+| 12:00–12:45 | **Malibu Seafood** | Counter + picnic tables across PCH from the water |
+| **1:30–4:30** | ★ **THE GETTY CENTER** *(FREE, $25 parking)* | The **full three hours** it deserves. Tram up the hill, Van Gogh's *Irises*, the Central Garden, downtown + Hollywood Sign + ocean in one view. **Closes 5** |
+| **5:00–7:30** | ★ **TATTOOS** — Venice | Book today · photo ID · no sunburn · cash + 15–20% tip |
+| 7:50 | ⛽ **Gas up near the hotel** | Not at the airport |
+| **8:45** | ⚠ **RETURN THE CAR — due 9 PM** | Photograph car, odometer, fuel gauge. Keep the receipt |
+| **10:00** | ★ **Din Tai Fung** *(Uber)* | Torrance ~20 min · Santa Monica ~25 min |
+| ~11:30 | Uber back | |
 
 ### DAY 8 — Sat Aug 15 · Fly home
-| Time | Plan |
-|---|---|
-| ~8:30 AM | **Hotel shuttle to LAX** — no car to return; it went back last night |
-| ~9:00 AM | Airside |
-| 10:59 AM | **DL2568** departs → lands **San Antonio 3:59 PM**. 8 days, ~1,550 miles, one whole coast |
+**⚠ No car.** Confirm the hotel shuttle tonight and book it for **~8:15 AM**, or pre-order an Uber ($40–60 with surge). Airside by 9:30. **DL2568 departs 10:59 → San Antonio 3:59 PM.**
 
 ---
 
