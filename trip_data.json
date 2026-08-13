@@ -96,7 +96,8 @@
       "Aug 13: 2 AM curfew available BOTH nights. In-N-Out slotted 4:35-5:05 Thursday (LAX approach location, 5 min from hotel, best in daylight; open till ~1 AM as a fallback). Three late options added for tonight, ranked by effort: Manhattan Beach Pier (5 min), Santa Monica Pier at night (30 min), Hollywood Blvd at midnight (45 min each way). ⚠ NOTE the 2 AM freedom is far less useful FRIDAY — the car goes back at 9 PM and they are car-less after, so Friday's extra time was spent on daylight instead (Venice canals added after the tattoos).",
       "Aug 13 FINAL: THE GETTY MOVED TO THURSDAY MORNING (~12:15-2:45). Knock-on is all upside — Friday gets ~4 hr back (Getty + the never-booked surf lesson), so POINT DUME and VENICE/the canals both return and the TATTOO SLOT MOVES EARLIER to 4:00-6:30, giving real buffer before the 9 PM car return instead of a sprint. Thu: Getty 12:15-2:45 -> Santa Monica swim 3:05-4:15 (ONLY ocean of the trip) -> check in 4:35 -> Beverly Hills 5:30-6:15 -> GRIFFITH 6:45 (sunset 7:45) -> Lighthouse 9:15-11:00 -> In-N-Out ~11:20 (open till ~1 AM, 5 min from hotel) -> optional Manhattan Beach Pier. Fri: El Matador 11:00 -> Malibu Seafood 12:15 -> Point Dume 1:15 -> Venice + canals 2:45 -> TATTOOS 4:00-6:30 -> gas/freshen 7:00-8:15 -> Hertz 8:45 -> DTF 10:00.",
       "Aug 13 CHANGE: check-in moves to LATE (~midnight, after In-N-Out) rather than 4:35 PM, with Friday-morning checkout. Frees ~40 min, which went to the Santa Monica swim (now 3:05-4:30, 85 min) since it is the only ocean of the trip. ⚠ TRADE-OFF ACCEPTED: luggage rides in the car all day Thursday AND all day Friday. Mitigations recorded: valuables on person, bags into the trunk BEFORE arriving at each stop (never rearrange in the lot - thieves watch for it), attended/paid garages only (Getty garage, Santa Monica pier deck, Beverly Hills city garage), and Griffith 6:45-8:30 is the highest-risk stop of the two days. Also: call the hotel today to hold a ~midnight arrival - small properties release late no-shows.",
-      "FINAL Aug 13-14: rooms confirmed BOTH nights (no airport sleeping), NO haircut. Thu: Getty 12:15-2:45, Santa Monica swim 3:05-4:30 (only ocean of the trip), Beverly Hills 5:30-6:15, GRIFFITH 6:45 sunset 7:45, Lighthouse 9:15-11:00, In-N-Out ~11:20, check in ~midnight. Fri: El Matador 11:00, Malibu Seafood 12:15, Point Dume 1:15, Venice+canals 2:45, TATTOOS 4:00-6:30, hotel+gas 7:00-8:15, HERTZ 8:45 (due 9), DTF 10:00, back ~11:30. Sat: shuttle/Uber 8:15, airside 9:30, DL2568 10:59. Remaining actions: tattoo booking, DTF 10 PM seating, Lighthouse 21+ policy, Saturday shuttle time."
+      "FINAL Aug 13-14: rooms confirmed BOTH nights (no airport sleeping), NO haircut. Thu: Getty 12:15-2:45, Santa Monica swim 3:05-4:30 (only ocean of the trip), Beverly Hills 5:30-6:15, GRIFFITH 6:45 sunset 7:45, Lighthouse 9:15-11:00, In-N-Out ~11:20, check in ~midnight. Fri: El Matador 11:00, Malibu Seafood 12:15, Point Dume 1:15, Venice+canals 2:45, TATTOOS 4:00-6:30, hotel+gas 7:00-8:15, HERTZ 8:45 (due 9), DTF 10:00, back ~11:30. Sat: shuttle/Uber 8:15, airside 9:30, DL2568 10:59. Remaining actions: tattoo booking, DTF 10 PM seating, Lighthouse 21+ policy, Saturday shuttle time.",
+      "Aug 13: In-N-Out moved to right after the Santa Monica swim, at the WESTWOOD branch (922 Gayley Ave) rather than the LAX plane-spotting one. Westwood sits directly between Santa Monica and Beverly Hills (~10 min each way) so it costs nothing; the LAX branch would have added ~30 min of round trip and halved the Beverly Hills hour, putting Griffith parking at risk. Order holds: swim 3:05-4:30, In-N-Out 4:45-5:15, Beverly Hills 5:30-6:15, Griffith 6:45."
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -180,7 +181,7 @@
     {
       "day": 6,
       "title": "Aug 13 · GETTY · swim · Beverly Hills · GRIFFITH · jazz",
-      "drive": "Getty 12:15 · swim 3:05 · sunset 7:45 · jazz 9:15 · check in ~midnight",
+      "drive": "Getty 12:15 · swim 3:05 · In-N-Out 4:45 · sunset 7:45 · jazz 9:15",
       "color": "#4363d8"
     },
     {
@@ -748,12 +749,12 @@
     {
       "day": 6,
       "kind": "sight",
-      "name": "🍔 In-N-Out — LATE, after the jazz",
-      "time": "~11:20 PM · open till ~1 AM · 5 min from hotel",
-      "lat": 33.9491,
-      "lon": -118.3924,
-      "desc": "🍔 Last stop before check-in — open until roughly 1 AM and 5 min from the hotel, so it is directly on your way in. It is the location directly under the LAX final approach; there are fewer jets after the late-evening curfew than at midday, but arrivals still come over low. VEGETARIANS: order the GRILLED CHEESE — off the menu board, always available. Others: Double-Double animal style, fries well-done.",
-      "parking": "In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles"
+      "name": "🍔 In-N-Out — Westwood",
+      "time": "4:45–5:15 PM · ~$8pp · ON THE WAY",
+      "lat": 34.0616,
+      "lon": -118.4468,
+      "desc": "🍔 922 Gayley Ave, Westwood Village by UCLA. Chosen over the famous LAX plane-spotting branch for one reason: it sits DIRECTLY between Santa Monica and Beverly Hills — ~10 min from each — so it costs you nothing. The LAX one would add ~30 min of round trip and eat half your Beverly Hills hour. VEGETARIANS: order the GRILLED CHEESE — off the menu board, always available, same build without the patty. Everyone else: Double-Double animal style, fries well-done. ⚠ Westwood Village street parking is metered and tight; there are garages on Broxton and Kinross. ⚠ You still drive past the LAX branch (9149 S Sepulveda) on the way to the hotel around midnight if anyone wants the planes — though arrivals thin out late.",
+      "parking": "In-N-Out Burger, 922 Gayley Ave, Los Angeles (Westwood Village)"
     },
     {
       "day": 6,
