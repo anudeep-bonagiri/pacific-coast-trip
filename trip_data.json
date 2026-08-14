@@ -140,6 +140,10 @@
       {
         "when": "2026-08-14 09:15 PT",
         "what": "Rebuilt Friday around Griffith's noon opening so the interior finally happens. Fern Dell + Trails Cafe breakfast 9:50-10:45 (free parking, fills the wait with zero wasted miles), Griffith exterior 11-12, INTERIOR 12-1:15 with the planetarium show flagged. Then Rodeo 1:45, El Matador 3:40 in afternoon light (better for the arches than late morning), Point Dume 5:00, Malibu Seafood 5:55 as early dinner, hotel 7:25, gas 8:05, Hertz 8:40. VENICE CUT — the price of the interior; the canals are the real loss. Shape is one long drive out to El Matador then a clean run back, so no rush-hour backtracking before the hard 9 PM return."
+      },
+      {
+        "when": "2026-08-14 09:30 PT",
+        "what": "Reanchored Friday to a 9:30 departure and added a Walmart stop at 1:35 (Burbank, 20 min past Griffith) — the only point in the day with real slack, and far clear of the 9 PM car return. It doubles as lunch. MALIBU SEAFOOD CUT to pay for it, which was the right loss since eating at 6:35 and again at Din Tai Fung at 10 was redundant. Day now: Fern Dell breakfast 10:15, Griffith exterior 11:10, interior 12-1:15, Walmart 1:35, Rodeo 2:45, El Matador 4:35, Point Dume 5:55, hotel 7:30 (shower + pack), gas 8:15, Hertz 8:45."
       }
     ],
     "decisions_made": [
@@ -227,8 +231,8 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · GRIFFITH inside · Rodeo Dr · El Matador · Point Dume",
-      "drive": "9 AM–2 AM · Griffith noon · Rodeo · Malibu · CAR BACK 9 PM HARD · ~140 mi",
+      "title": "Aug 14 · GRIFFITH inside · Walmart · Rodeo Dr · El Matador · Point Dume",
+      "drive": "9:30 AM–2 AM · Griffith noon · Walmart · Rodeo · Malibu · CAR BACK 9 PM · ~150 mi",
       "color": "#911eb4"
     },
     {
@@ -836,7 +840,7 @@
       "day": 7,
       "kind": "sight",
       "name": "Fern Dell + Trails Cafe — breakfast",
-      "time": "9:50–10:45 AM · FREE parking",
+      "time": "10:15–11:00 AM · FREE parking",
       "lat": 34.115,
       "lon": -118.3095,
       "desc": "⚠ PARK HERE FIRST, NOT AT THE OBSERVATORY — Fern Dell parking is free, Trails Cafe is right at the trailhead, and you drive up to the observatory lot at 11 when you actually want it. Fern Dell itself is a shaded creek walk with stone bridges running below the observatory, and it fills the wait until noon without a single wasted mile. Drive up from here, do not walk — the climb is 25 min uphill.",
@@ -846,7 +850,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Griffith Observatory — EXTERIOR then INTERIOR",
-      "time": "★ 11:00 AM–1:15 PM · opens 12 · FREE",
+      "time": "★ 11:10 AM–1:15 PM · opens 12 · FREE",
       "lat": 34.1184,
       "lon": -118.3004,
       "desc": "★ RECOVERED PROPERLY after two failed attempts. ⚠ THE BUILDING OPENS AT 12 PM Tue-Fri, which is the whole reason the day got rebuilt around it. 11:00-12:00 OUTSIDE: lawn, terrace, the Hollywood Sign sightline, and the CHARLIE TURNER TRAILHEAD right at the building — 30-40 min round trip to a better viewpoint than the terrace. 12:00-1:15 INSIDE, and this is what you have been chasing: the Foucault pendulum in the rotunda, the Tesla coil, the exhibit halls. 🎟 PLANETARIUM SHOWS run roughly hourly through the afternoon, about $10 — the one thing here you cannot get anywhere else. Check the board as you walk in and take the 12:15 if it lines up. 🅿️ Paid on the observatory lot on weekdays. ⚠ OUT BY 1:15 — everything behind this stacks onto a 9 PM car return that does not move.",
@@ -856,7 +860,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ El Matador State Beach",
-      "time": "★ 3:40–4:45 PM · $8 · BEST LIGHT of the day",
+      "time": "★ 4:35–5:40 PM · $8 · BEST LIGHT of the day",
       "lat": 34.0369,
       "lon": -118.879,
       "desc": "★ The most photogenic beach in LA County — steep staircase and dirt path down to a cove of sea stacks, arches and caves, late-morning light angling through them. ⚠ REAL SHOES, the path is steep and sandy. ✅ Swimmable again now the tattoos are off — but this is open coast with NO LIFEGUARD, so nobody goes past their waist.",
@@ -866,7 +870,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Point Dume",
-      "time": "★ 5:00–5:40 PM · free street parking",
+      "time": "★ 5:55–6:35 PM · free street parking",
       "lat": 34.0006,
       "lon": -118.8065,
       "desc": "★ Short climb up the headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free."
@@ -882,18 +886,28 @@
     },
     {
       "day": 7,
-      "kind": "sight",
-      "name": "Malibu Seafood — early dinner",
-      "time": "5:55–6:35 PM · early dinner · 25653 PCH",
+      "kind": "bonus",
+      "name": "Malibu Seafood — CUT for Walmart",
+      "time": "+ dinner was redundant anyway",
       "lat": 34.0378,
       "lon": -118.6989,
-      "desc": "Walk-up counter with picnic tables straight across PCH from the water. ⚠ MOVED AFTER POINT DUME — it sits ~7 miles EAST of Point Dume, so eating before the headland meant doubling back west. This order runs clean west-to-east down PCH. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. Fast, no reservations."
+      "desc": "Traded for the Walmart stop, and it was the right thing to lose: eating at 6:35 and again at Din Tai Fung at 10 was always doubling up. Lunch happens at Walmart instead. Put this back only if the Griffith interior runs short and the afternoon opens up."
+    },
+    {
+      "day": 7,
+      "kind": "sight",
+      "name": "🛒 Walmart Supercenter — supplies + lunch",
+      "time": "1:35–2:15 PM · 20 min from Griffith",
+      "lat": 34.178,
+      "lon": -118.332,
+      "desc": "🛒 PLACED HERE ON PURPOSE — this is the only point in the day with real slack, and doing it now keeps it well clear of the 9 PM car return. You are back at the hotel at 7:30, so anything bought here goes straight into a suitcase. ⚠ IT DOUBLES AS LUNCH — Malibu Seafood got cut to pay for this stop, so eat here, and grab plane snacks for tomorrow in the same trip while you are at it. ⚠ If Maps shows a Walmart closer to your actual line, take that one instead — Burbank is simply the one that fits between Griffith and Rodeo. The point is the 40 minutes, not the store.",
+      "parking": "Walmart Supercenter, 1301 N Victory Pl, Burbank"
     },
     {
       "day": 7,
       "kind": "gem",
       "name": "★ Beverly Hills — Rodeo Drive, DAYLIGHT",
-      "time": "★ 1:45–2:45 PM · shops open · garage free 2 hrs",
+      "time": "★ 2:45–3:40 PM · shops open · garage free 2 hrs",
       "lat": 34.0674,
       "lon": -118.4009,
       "desc": "★ The daylight version, and a genuinely different visit from the midnight photo stop — this time the street is open and alive. Rodeo Drive itself, VIA RODEO with its cobblestones and curving steps, the Beverly Wilshire at the foot of it, then two blocks north to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. 🅿️ USE THE CITY GARAGES, not the meters — 461 N Bedford or 345 N Beverly give the FIRST 2 HOURS FREE. (The free-meters-after-6 trick is a night-time thing only.) ⚠ MOST STORES CLOSE 6-7 PM, so 4:40 is close to the last useful hour. ⚠ This stop costs ~20 min of backtracking east and it cost Manhattan Beach — do not let it run past 5:40, because everything behind it stacks onto a 9 PM car return that does not move.",
@@ -921,7 +935,7 @@
       "day": 7,
       "kind": "sight",
       "name": "🛏 Hotel — shower and change",
-      "time": "7:25–8:00 PM · same room as last night",
+      "time": "7:30–8:10 PM · shower + PACK · same room",
       "lat": 33.9192,
       "lon": -118.4165,
       "desc": "Bags never left the room, so this is just a shower, a change of clothes, and clearing your own junk out of the car — sunglasses, chargers, the parking receipts, whatever slid under the seats. Do a proper sweep of the footwells and the trunk; this is the last time you are in that car in daylight. Repack for the flight AFTER dinner tonight, not now."
@@ -930,7 +944,7 @@
       "day": 7,
       "kind": "sight",
       "name": "⛽ GAS — Sepulveda in El Segundo",
-      "time": "8:05–8:20 PM · NOT at the airport",
+      "time": "8:15–8:30 PM · NOT at the airport",
       "lat": 33.925,
       "lon": -118.395,
       "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and sits directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
@@ -939,7 +953,7 @@
       "day": 7,
       "kind": "air",
       "name": "Return the Hertz car — LAX",
-      "time": "⚠ 8:40 PM · DUE 9 PM · HARD",
+      "time": "⚠ 8:45 PM · DUE 9 PM · HARD",
       "lat": 33.9416,
       "lon": -118.4085,
       "desc": "⚠ THE LAST FIXED THING ON THE TRIP. Tank full. Photograph all four corners, the odometer and the fuel gauge, keep the receipt. Then Uber to dinner — car-less from here, including the airport tomorrow. IF YOU ARE SOMEHOW GOING TO MISS 9: call Hertz from the road (number is on the rental agreement) rather than just turning up late — the call is the difference between a grace period and a late charge.",
