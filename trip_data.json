@@ -112,6 +112,10 @@
       {
         "when": "2026-08-13 19:20 PT",
         "what": "Added clubbing as a Friday-night bonus. All three travelers are under 21, so it only works at a designated 18+/19+ event; those cluster Fri/Sat, which is why it went on Friday rather than tonight. Ticket must be bought online in advance for an explicitly 18+ event. Car is already returned by then, so Uber both ways. Cost is sleep: ends ~2 AM against a 7:30 alarm for DL2568."
+      },
+      {
+        "when": "2026-08-13 19:35 PT",
+        "what": "Beverly Hills added for real by moving it to the END of Thursday night (12:30 AM) instead of before Griffith. From Hollywood Blvd it is 15 min southwest and sits on the straight run down La Cienega to In-N-Out and the hotel, so it costs almost no extra driving and does not eat Griffith's 10 PM building close. Also corrected an earlier overstatement: Griffith Park mountain roads close at 10 PM, so the terrace is NOT casually open all night — leaving the hotel by 8:30 is what buys the real 45 minutes."
       }
     ],
     "decisions_made": [
@@ -193,8 +197,8 @@
     },
     {
       "day": 6,
-      "title": "Aug 13 · Getty · swim · GRIFFITH at night · Hollywood Blvd",
-      "drive": "checked in 7 PM · out 8:30 · GRIFFITH 9:15 (closes 10) · Hollywood · In-N-Out",
+      "title": "Aug 13 · Getty · swim · GRIFFITH · Hollywood Blvd · Rodeo Drive",
+      "drive": "OUT BY 8:30 · Griffith 9:15 · dinner · Hollywood · Rodeo 12:30 · hotel ~1:45",
       "color": "#4363d8"
     },
     {
@@ -731,22 +735,12 @@
     },
     {
       "day": 6,
-      "kind": "bonus",
-      "name": "Beverly Hills — only if you roll out at 8:30",
-      "time": "+ 15 min, en route, lit at night",
-      "lat": 34.0674,
-      "lon": -118.4009,
-      "desc": "+ CONDITIONAL. The shops are shut by now, so this is a photo stop, not a visit. It is roughly on the line from the hotel up to Griffith via La Cienega, and VIA RODEO — the cobblestone street with the steps — is genuinely better lit at night than in daylight. Metered parking is free after 6 PM. ⚠ ONLY if you are moving by 8:30. If it is 9 when you leave, drive past and go straight to Griffith; the observatory building closes at 10 and that clock is the one that matters.",
-      "parking": "Rodeo Dr & Dayton Way, Beverly Hills"
-    },
-    {
-      "day": 6,
       "kind": "gem",
       "name": "★ Griffith Observatory — NIGHT, not sunset",
-      "time": "★ 9:15 PM · building closes 10 · FREE",
+      "time": "★ 9:15–10:15 PM · building closes 10 · FREE",
       "lat": 34.1184,
       "lon": -118.3004,
-      "desc": "★ ⚠ STILL TONIGHT OR NEVER — tomorrow you are on Malibu beaches all day and the car is due at LAX at 9 PM, so there is no second Griffith. Sunset (7:44) is lost, but LATE IS GENUINELY BETTER HERE: the 7 PM parking crush has cleared and you can usually get a spot in the actual lot instead of walking up from Fern Dell, and a fully lit basin is the better photograph anyway. ⚠ THE BUILDING CLOSES AT 10 PM — leave the hotel by 8:30 and you get ~45 min inside (Foucault pendulum, Tesla coil, and the free Zeiss telescope, which stops taking a line around 9:45 on a clear night). Leave at 9 and you arrive to a closing building — but the TERRACE, LAWN AND VIEW STAY OPEN and cost nothing, and that was always the main event. 🧥 BRING A LAYER — this is the thing people get wrong. Griffith sits at ~1,100 ft and the terrace is exposed; after dark in August it runs low 60s with a breeze off the hills, and you are coming straight from a beach day, so it will feel colder than the number. Closed shoes too, in case the lot is full and you walk up from Fern Dell.",
+      "desc": "★ ⚠ STILL TONIGHT OR NEVER — tomorrow is Malibu beaches all day and the car is due at LAX at 9 PM. Sunset (7:44) is lost, but LATE IS BETTER HERE in one real way: the 7 PM parking crush has cleared, so you can usually get the actual lot instead of walking up from Fern Dell, and a fully lit basin is the better photograph anyway. ⚠ CORRECTION — I earlier said the terrace stays open after the building closes. Do not count on that: the observatory shuts at 10 PM Tue-Fri and the Griffith Park mountain roads close at 10 as well, so vehicle access up Observatory Road goes away rather than the grounds staying casually open all night. That makes LEAVING THE HOTEL BY 8:30 the whole ballgame — 8:30 out means ~9:15 arrival and a real 45 minutes (Foucault pendulum, Tesla coil, the free Zeiss telescope, which stops taking a line about 9:45 on a clear night, and the terrace with the Hollywood Sign one way and the basin the other). Leave at 9 and you get maybe fifteen rushed minutes. 🧥 BRING A LAYER — this is the thing people get wrong. Griffith sits at ~1,100 ft on an exposed terrace; after dark in August it runs low 60s with a breeze off the hills, and you are coming straight from a beach day, so it feels colder than the number. Closed shoes in case you do end up walking up from Fern Dell.",
       "parking": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles"
     },
     {
@@ -771,7 +765,7 @@
       "day": 6,
       "kind": "sight",
       "name": "Dinner — Thai Town (call first)",
-      "time": "10:30–11:15 PM · 10 min down the hill",
+      "time": "10:25–11:15 PM · 10 min down the hill",
       "lat": 34.1016,
       "lon": -118.287,
       "desc": "Straight down from Griffith and on the way to Hollywood Blvd. ⚠ AT THIS HOUR, PHONE AHEAD — plenty of Los Feliz kitchens stop around 10, while Thai Town on Hollywood Blvd near Western is the stretch that reliably runs latest. It is also the cheapest and by far the easiest vegetarian ordering of the trip: say NO FISH SAUCE, NO OYSTER SAUCE and almost the whole menu opens up. If everything is shut, In-N-Out at the end of the night is open to ~1 AM and becomes dinner instead of a snack."
@@ -780,7 +774,7 @@
       "day": 6,
       "kind": "gem",
       "name": "★ Hollywood Blvd at night — RECOVERED",
-      "time": "★ 11:15 PM–12:15 AM · free · open air",
+      "time": "★ 11:30 PM–12:15 AM · free · open air",
       "lat": 34.1022,
       "lon": -118.341,
       "desc": "★ Cut twice already, and the late start does not hurt it at all — this is an open-air, after-dark stop by nature. The TCL CHINESE THEATRE FORECOURT is open air and always accessible: nearly 200 sets of handprints and footprints pressed in concrete since 1927. The Walk of Fame is lit and lively, parking is finally easy, and it is 20 min from Griffith and dinner. ⚠ Keep wallets and phones in front pockets — the Blvd draws pickpockets late.",
@@ -788,9 +782,19 @@
     },
     {
       "day": 6,
+      "kind": "gem",
+      "name": "★ Beverly Hills — Rodeo Drive, late and empty",
+      "time": "★ 12:30–12:55 AM · free parking · 15 min from Hollywood",
+      "lat": 34.0674,
+      "lon": -118.4009,
+      "desc": "★ CUT TWICE, IN FOR REAL NOW — and it earned its slot by moving to the END of the night instead of the front. From Hollywood Blvd it is 15 minutes southwest and it puts you on the straight run down La Cienega to In-N-Out and the hotel, so it costs almost no extra driving. ⚠ THE SHOPS ARE SHUT — they were shut by 9 anyway, so this was always a photo stop and nothing was lost by going late. What you actually came for is lit all night: RODEO DRIVE itself, and VIA RODEO, the cobblestone street with the curving steps and the lamps, which genuinely photographs better after dark and at this hour will be completely empty. The Beverly Wilshire sits at the foot of it. 🅿️ Street meters are FREE AFTER 6 PM — park right on Rodeo or Dayton, do not hunt for a garage this late.",
+      "parking": "Rodeo Dr & Dayton Way, Beverly Hills"
+    },
+    {
+      "day": 6,
       "kind": "sight",
       "name": "🍔 In-N-Out LAX — the plane one",
-      "time": "~12:30 AM · open to ~1 AM · by the hotel",
+      "time": "~1:15 AM · ⚠ closes ~1 AM — call or skip",
       "lat": 33.9491,
       "lon": -118.3924,
       "desc": "🍔 The famous one, sitting directly under the LAX final approach — and it is literally on your way to the hotel, open until roughly 1 AM. Even if nobody is hungry after dinner, stand in the lot for ten minutes and watch the arrivals come in low over the sign. ⚠ Fewer jets this late than at midday, but they still come. Vegetarians who do want food: GRILLED CHEESE, off the menu board, always available.",
