@@ -100,7 +100,11 @@
       "Aug 13: In-N-Out moved to right after the Santa Monica swim, at the WESTWOOD branch (922 Gayley Ave) rather than the LAX plane-spotting one. Westwood sits directly between Santa Monica and Beverly Hills (~10 min each way) so it costs nothing; the LAX branch would have added ~30 min of round trip and halved the Beverly Hills hour, putting Griffith parking at risk. Order holds: swim 3:05-4:30, In-N-Out 4:45-5:15, Beverly Hills 5:30-6:15, Griffith 6:45.",
       "Aug 13 FINAL CHANGE: Lighthouse Cafe confirmed 21+ and is CANCELLED — which frees the 9-11 PM block and lets the TATTOOS happen TONIGHT. Thu now: Getty 12:15-2:45, swim 3:05-4:30, In-N-Out Westwood 4:45, Beverly Hills 5:30-6:15, GRIFFITH 6:45-8:30, dinner Los Feliz/Thai Town 8:45-9:45 (EAT BEFORE INKING - low blood sugar in the chair), TATTOOS 10 PM-12:30 AM Hollywood/Sunset, check in ~1:15 AM. Upside: they sleep in a hotel bed for the first night of healing, and Friday 4:00-6:30 is now free. Downside: Friday's El Matador becomes NO WATER AT ALL and the ink must stay out of the sun. ⚠ Must call shops immediately for three chairs at ~10 PM, and check for sunburn from today's swim before driving over.",
       "Aug 13: TATTOOS CANCELLED entirely, and the Lighthouse Cafe is 21+ so it is gone too. Two things come back: HOLLYWOOD BLVD returns tonight (10-11 PM, the Chinese Theatre forecourt is open air and night is the better time for it), and WATER IS BACK ON for Friday — El Matador is swimmable again and a bonus beach block lands 4:15-6:15 at Manhattan Beach or Santa Monica Pier. Thu final: Getty 12:15-2:45, swim 3:05-4:30, In-N-Out Westwood 4:45, Beverly Hills 5:30-6:15, GRIFFITH 6:45-8:30, dinner Los Feliz/Thai Town 8:45-9:45, Hollywood Blvd 10-11, In-N-Out LAX ~11:30 for the planes, check in ~12:15 AM. Fri final: El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, Venice+canals 2:45, beach 4:15-6:15, hotel+gas 7:00, HERTZ 8:45, DTF 10:00. Only open action left: confirm Din Tai Fung seats at 10 PM. Money back to the group: ~$270 surf + ~$300-450 tattoos.",
-      "Aug 13: Friday takes ALL the options — resequenced west-to-east-to-south so nothing backtracks. El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, SANTA MONICA PIER 3:00-4:15 (the pier itself this time, not just the swim), VENICE + canals 4:30-5:45, MANHATTAN BEACH 6:00-6:45 (directly on the line home), hotel+gas 7:00-8:15, HERTZ 8:45, DTF 10:00. Three beaches, all swimmable now the tattoos are cancelled."
+      "Aug 13: Friday takes ALL the options — resequenced west-to-east-to-south so nothing backtracks. El Matador 11:00, Malibu Seafood 12:30, Point Dume 1:30, SANTA MONICA PIER 3:00-4:15 (the pier itself this time, not just the swim), VENICE + canals 4:30-5:45, MANHATTAN BEACH 6:00-6:45 (directly on the line home), hotel+gas 7:00-8:15, HERTZ 8:45, DTF 10:00. Three beaches, all swimmable now the tattoos are cancelled.",
+      {
+        "when": "2026-08-14 19:45 PT",
+        "what": "Beaches ran long. Replanned the Friday tail against the 9 PM Hertz deadline: hotel bag-drop capped at 20 min with a hard 8:30 departure, gas on Sepulveda in El Segundo (non-skippable, on the line), Hertz at 8:50. Din Tai Fung escalated from 'verify' to 'call now' — Del Amo's Friday last seating is likely before a 10 PM arrival. Saturday pinned: leave hotel 8:15, LAX Terminal 3, airside 9:30, DL2568 at 10:59."
+      }
     ],
     "decisions_made": [
       "Extended trip to Aug 15 (8 days, 7 nights) — return flight BOOKED: DL2568 LAX 10:59 AM -> SAT 3:59 PM",
@@ -188,13 +192,13 @@
     {
       "day": 7,
       "title": "Aug 14 · El Matador · Point Dume · Santa Monica · Venice · Manhattan",
-      "drive": "11 AM–11:30 PM · three beaches · car back 9 PM · ~95 mi",
+      "drive": "beaches ran long · 7:45 PM reset · CAR BACK 9 PM HARD · ~95 mi",
       "color": "#911eb4"
     },
     {
       "day": 8,
       "title": "Aug 15 · Fly home",
-      "drive": "no car — hotel shuttle ~8:30 AM",
+      "drive": "no car — leave hotel 8:15 AM · T3 · airside 9:30",
       "color": "#f032e6"
     }
   ],
@@ -863,20 +867,29 @@
     {
       "day": 7,
       "kind": "sight",
-      "name": "⛽ Hotel + GAS UP",
-      "time": "7:00–8:15 PM",
-      "lat": 33.93,
-      "lon": -118.4,
-      "desc": "⚠ Fill the tank near the hotel, NOT at the airport — LAX-adjacent pumps are brutal. Over an hour here: shower off the salt, change, repack for the flight."
+      "name": "🛏 Hotel — BAG DROP ONLY, 20 min",
+      "time": "⚠ 8:05–8:25 PM · OUT BY 8:30 NO MATTER WHAT",
+      "lat": 33.9192,
+      "lon": -118.4165,
+      "desc": "⚠ RUNNING LATE — this is a bag drop, not a check-in evening. Everything out of the car and into the room, rinse the salt off if there is time, done. HARD RULE: if you are not pulling out of the lot by 8:30, stop unpacking and leave — the car matters more than the bags. Repacking for the flight happens after dinner, not now."
+    },
+    {
+      "day": 7,
+      "kind": "sight",
+      "name": "⛽ GAS — Sepulveda in El Segundo",
+      "time": "⚠ 8:30–8:42 PM · NOT at the airport",
+      "lat": 33.925,
+      "lon": -118.395,
+      "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and it is directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are both the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
     },
     {
       "day": 7,
       "kind": "air",
       "name": "Return the Hertz car — LAX",
-      "time": "⚠ 8:45 PM · DUE 9 PM · HARD",
+      "time": "⚠ 8:50 PM · DUE 9 PM · HARD",
       "lat": 33.9416,
       "lon": -118.4085,
-      "desc": "⚠ THE LAST FIXED THING ON THE TRIP. Tank full. Photograph the car from all four corners, the odometer and the fuel gauge, and keep the receipt. Then Uber to dinner — car-less from here.",
+      "desc": "⚠ THE LAST FIXED THING ON THE TRIP, and tonight there is no slack left in front of it. Tank full. Photograph all four corners, the odometer and the fuel gauge, keep the receipt. Then Uber to dinner — car-less from here. IF YOU ARE GOING TO MISS 9: call Hertz from the road (the number is on the rental agreement) rather than just showing up late — a phone call ahead is the difference between a grace period and a late-return charge.",
       "parking": "Hertz Car Return, 9000 Airport Blvd, Los Angeles"
     },
     {
@@ -886,7 +899,7 @@
       "time": "★ ⚠ VERIFY THEY SEAT AT 10",
       "lat": 33.832,
       "lon": -118.341,
-      "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ THE LAST OPEN ITEM ON THE WHOLE TRIP: call and confirm they seat at 10. Most locations stop 9:30-10 PM and many take no reservations. TORRANCE (Del Amo) ~20 min by Uber from LAX; SANTA MONICA (395 Santa Monica Pl) ~25 min, usually later on Fridays. VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup.",
+      "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ CALL RIGHT NOW, FROM THE CAR. Del Amo commonly closes 10 PM on a Friday, which means last seating is nearer 9:30 — a 10:00 arrival by Uber may simply be too late, and they take walk-ins only. Ask one question: 'what is your last seating tonight?' If the answer is before 10, do not chase the Santa Monica branch — it is 25 min the wrong way from the hotel and you would be car-less. Fall back to a late kitchen you can reach: Torrance's Korean BBQ strip along Western Ave runs late on weekends (verify hours by phone, do not just show up). VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup.",
       "parking": "Din Tai Fung, Del Amo Fashion Center, Torrance"
     },
     {
@@ -896,16 +909,16 @@
       "time": "🛏 Night 7 · Uber back ~11:30 PM",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "⚠ SATURDAY IS CAR-LESS. TONIGHT: confirm the hotel airport shuttle and book it for ~8:15 AM, or pre-order an Uber (budget $40-60 with surge). DL2568 is at 10:59 — airside by 9:30. Repack before dinner, not after."
+      "desc": "⚠ SATURDAY IS CAR-LESS. Repacking got pushed to tonight-after-dinner, so do it before anyone lies down: everything liquid into one bag, chargers off the walls, nothing left in the bathroom. ASK THE FRONT DESK ON THE WAY IN whether they run an LAX shuttle and what time the first ones go — if there is one, book 8:15 AM; if there is not, pre-schedule an Uber tonight (budget $25-40 for a hotel this close in, more if it surges). DL2568 is at 10:59 — airside by 9:30."
     },
     {
       "day": 8,
       "kind": "air",
-      "name": "LAX — Los Angeles Airport",
-      "time": "✈ no car — shuttle ~8:30 AM · DL2568 10:59 AM",
+      "name": "LAX Terminal 3 — Delta",
+      "time": "✈ leave hotel 8:15 · airside 9:30 · DL2568 10:59 AM",
       "lat": 33.9416,
       "lon": -118.4085,
-      "desc": "The car went back last night (Friday 9 PM). Hotel shuttle to the terminal ~8:30, airside by ~9. DL2568 departs 10:59 AM, lands San Antonio 3:59 PM. Trip done — 8 days, ~1,550 miles, one whole coast."
+      "desc": "⏰ 7:30 wake · 8:15 leave the hotel · 8:45 curbside · bags checked and through security by 9:30 · 10:29 boarding. Delta flies out of LAX TERMINAL 3 — confirm on the app the night before, Delta splits between T2 and T3 and gate assignments move. Saturday morning LAX security is the busy one, so 9:30 airside is the number that matters, not the 10:59 departure. No car, so leaving 'a bit later' is not a lever you have. Lands San Antonio 3:59 PM. Trip done — 8 days, one whole coast."
     }
   ]
 }
