@@ -104,6 +104,10 @@
       {
         "when": "2026-08-14 19:45 PT",
         "what": "Beaches ran long. Replanned the Friday tail against the 9 PM Hertz deadline: hotel bag-drop capped at 20 min with a hard 8:30 departure, gas on Sepulveda in El Segundo (non-skippable, on the line), Hertz at 8:50. Din Tai Fung escalated from 'verify' to 'call now' — Del Amo's Friday last seating is likely before a 10 PM arrival. Saturday pinned: leave hotel 8:15, LAX Terminal 3, airside 9:30, DL2568 at 10:59."
+      },
+      {
+        "when": "2026-08-13 19:00 PT",
+        "what": "Day correction: it is Thursday, not Friday. Checked into the hotel at 7 PM straight from the beach (big win — luggage is out of the car for the rest of the trip, and it is the same room both nights). Leaving 8:30-9 PM, so Griffith sunset is lost; retimed Griffith to 9:15 PM as a night visit (building closes 10, terrace and view stay open and are the real draw, and late parking is easier). Beverly Hills downgraded to a conditional 15-min lit photo stop only if rolling by 8:30. Dinner pushed to Thai Town 10:30, Hollywood Blvd 11:15, In-N-Out ~12:30. Friday's tail restored to unrushed timing since nothing is behind there."
       }
     ],
     "decisions_made": [
@@ -185,14 +189,14 @@
     },
     {
       "day": 6,
-      "title": "Aug 13 · GETTY · swim · Beverly Hills · GRIFFITH · Hollywood",
-      "drive": "Getty 12:15 · swim 3:05 · sunset 7:45 · Hollywood 10 PM · in ~12:15 AM",
+      "title": "Aug 13 · Getty · swim · GRIFFITH at night · Hollywood Blvd",
+      "drive": "checked in 7 PM · out 8:30 · GRIFFITH 9:15 (closes 10) · Hollywood · In-N-Out",
       "color": "#4363d8"
     },
     {
       "day": 7,
       "title": "Aug 14 · El Matador · Point Dume · Santa Monica · Venice · Manhattan",
-      "drive": "beaches ran long · 7:45 PM reset · CAR BACK 9 PM HARD · ~95 mi",
+      "drive": "11 AM–11:30 PM · three beaches · CAR BACK 9 PM HARD · ~95 mi",
       "color": "#911eb4"
     },
     {
@@ -715,30 +719,30 @@
     {
       "day": 6,
       "kind": "sleep",
-      "name": "🛏 Check in — late, after In-N-Out",
-      "time": "🛏 ~12:00 AM · booked",
+      "name": "🛏 Checked in at 7 PM — bags are OUT of the car",
+      "time": "🛏 done · showered · both nights booked",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "Rooms are sorted for BOTH nights — no airport floor. ⚠ Call ahead and say you are arriving around midnight so the desk holds it; small properties sometimes release late no-shows. ⚠ Because you check in late, a week of luggage rides in the car through the Getty, Santa Monica, Beverly Hills and a DARK GRIFFITH LOT 6:45-8:30: load the trunk BEFORE arriving at each stop (never rearrange bags in the lot — that is the tell thieves watch for) and keep passports, wallets and electronics on you."
+      "desc": "✅ The single best thing that happened today. Check-in moved from midnight to 7 PM, which means a week of luggage is in the room instead of riding through a dark Griffith lot at 10 PM. The whole theft worry for tonight is simply gone — take wallets and phones, leave everything else. Same room tomorrow night, so nothing needs repacking until Friday after dinner."
     },
     {
       "day": 6,
-      "kind": "gem",
-      "name": "★ Beverly Hills — Rodeo Drive",
-      "time": "★ 5:30–6:15 PM · free · 45 min",
+      "kind": "bonus",
+      "name": "Beverly Hills — only if you roll out at 8:30",
+      "time": "+ 15 min, en route, lit at night",
       "lat": 34.0674,
       "lon": -118.4009,
-      "desc": "★ 🅿️ Beverly Hills city garages give the FIRST 2 HOURS FREE — 461 N Bedford or 345 N Beverly, never the meters. Compact walk: Rodeo Drive, then VIA RODEO (the cobblestone street with the steps — the photo), the Beverly Wilshire at the foot, then two blocks north to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. ⚠ LEAVE BY 6:15 SHARP — Griffith parking is the one thing you cannot be late for.",
-      "parking": "Beverly Hills city garage, 461 N Bedford Dr"
+      "desc": "+ CONDITIONAL. The shops are shut by now, so this is a photo stop, not a visit. It is roughly on the line from the hotel up to Griffith via La Cienega, and VIA RODEO — the cobblestone street with the steps — is genuinely better lit at night than in daylight. Metered parking is free after 6 PM. ⚠ ONLY if you are moving by 8:30. If it is 9 when you leave, drive past and go straight to Griffith; the observatory building closes at 10 and that clock is the one that matters.",
+      "parking": "Rodeo Dr & Dayton Way, Beverly Hills"
     },
     {
       "day": 6,
       "kind": "gem",
-      "name": "★ Griffith Observatory — SUNSET",
-      "time": "★ 6:45 PM · sunset 7:45 · FREE",
+      "name": "★ Griffith Observatory — NIGHT, not sunset",
+      "time": "★ 9:15 PM · building closes 10 · FREE",
       "lat": 34.1184,
       "lon": -118.3004,
-      "desc": "★ ⚠ TONIGHT OR NEVER — tomorrow at 7:45 you are in a tattoo chair or driving to the car return. Free entry, free Zeiss telescope after dark on a clear night. Hollywood Sign one way, the whole basin lighting up the other. ⚠ PARKING FILLS BY 7 — arrive 6:45, or park lower on Fern Dell Dr and walk up, or take the DASH Observatory shuttle from Vermont/Sunset. Stay until the city is fully lit, ~8:30.",
+      "desc": "★ ⚠ STILL TONIGHT OR NEVER — tomorrow you are on Malibu beaches all day and the car is due at LAX at 9 PM, so there is no second Griffith. Sunset (7:44) is lost, but LATE IS GENUINELY BETTER HERE: the 7 PM parking crush has cleared and you can usually get a spot in the actual lot instead of walking up from Fern Dell, and a fully lit basin is the better photograph anyway. ⚠ THE BUILDING CLOSES AT 10 PM — leave the hotel by 8:30 and you get ~45 min inside (Foucault pendulum, Tesla coil, and the free Zeiss telescope, which stops taking a line around 9:45 on a clear night). Leave at 9 and you arrive to a closing building — but the TERRACE, LAWN AND VIEW STAY OPEN and cost nothing, and that was always the main event.",
       "parking": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles"
     },
     {
@@ -762,40 +766,31 @@
     {
       "day": 6,
       "kind": "sight",
-      "name": "Dinner — Los Feliz or Thai Town",
-      "time": "8:45–9:45 PM · 10 min from Griffith",
+      "name": "Dinner — Thai Town (call first)",
+      "time": "10:30–11:15 PM · 10 min down the hill",
       "lat": 34.1016,
       "lon": -118.287,
-      "desc": "Straight down the hill from Griffith. Los Feliz (Hillhurst/Vermont Ave) has the range for a mixed table; Thai Town on Hollywood Blvd is cheaper, open late, and the easiest vegetarian ordering of the trip — just say no fish sauce, no oyster sauce."
+      "desc": "Straight down from Griffith and on the way to Hollywood Blvd. ⚠ AT THIS HOUR, PHONE AHEAD — plenty of Los Feliz kitchens stop around 10, while Thai Town on Hollywood Blvd near Western is the stretch that reliably runs latest. It is also the cheapest and by far the easiest vegetarian ordering of the trip: say NO FISH SAUCE, NO OYSTER SAUCE and almost the whole menu opens up. If everything is shut, In-N-Out at the end of the night is open to ~1 AM and becomes dinner instead of a snack."
     },
     {
       "day": 6,
       "kind": "gem",
       "name": "★ Hollywood Blvd at night — RECOVERED",
-      "time": "★ 10:00–11:00 PM · free",
+      "time": "★ 11:15 PM–12:15 AM · free · open air",
       "lat": 34.1022,
       "lon": -118.341,
-      "desc": "★ Cut twice already, back now that the evening is free — and night is genuinely the better time for it. The TCL CHINESE THEATRE FORECOURT is open air and always accessible: nearly 200 sets of handprints and footprints pressed in concrete since 1927. The Walk of Fame is lit and lively, parking is finally easy, and it is 20 min from Griffith and dinner. ⚠ Keep wallets and phones in front pockets — the Blvd draws pickpockets late.",
+      "desc": "★ Cut twice already, and the late start does not hurt it at all — this is an open-air, after-dark stop by nature. The TCL CHINESE THEATRE FORECOURT is open air and always accessible: nearly 200 sets of handprints and footprints pressed in concrete since 1927. The Walk of Fame is lit and lively, parking is finally easy, and it is 20 min from Griffith and dinner. ⚠ Keep wallets and phones in front pockets — the Blvd draws pickpockets late.",
       "parking": "Hollywood & Highland garage"
     },
     {
       "day": 6,
       "kind": "sight",
       "name": "🍔 In-N-Out LAX — the plane one",
-      "time": "~11:30 PM · on the way to the hotel",
+      "time": "~12:30 AM · open to ~1 AM · by the hotel",
       "lat": 33.9491,
       "lon": -118.3924,
       "desc": "🍔 The famous one, sitting directly under the LAX final approach — and it is literally on your way to the hotel, open until roughly 1 AM. Even if nobody is hungry after dinner, stand in the lot for ten minutes and watch the arrivals come in low over the sign. ⚠ Fewer jets this late than at midday, but they still come. Vegetarians who do want food: GRILLED CHEESE, off the menu board, always available.",
       "parking": "In-N-Out Burger, 9149 S Sepulveda Blvd, Los Angeles"
-    },
-    {
-      "day": 6,
-      "kind": "sleep",
-      "name": "🛏 Check in",
-      "time": "🛏 ~12:15 AM · call ahead",
-      "lat": 33.9192,
-      "lon": -118.4165,
-      "desc": "Rooms sorted for both nights. ⚠ CALL TODAY and say you are arriving after midnight so the desk holds it. ⚠ Luggage has been in the car since noon: load the trunk BEFORE arriving at each stop, never rearrange bags in the lot, and keep passports and electronics on you. Griffith after dark and Hollywood Blvd are the two stops that matter."
     },
     {
       "day": 7,
@@ -867,29 +862,29 @@
     {
       "day": 7,
       "kind": "sight",
-      "name": "🛏 Hotel — BAG DROP ONLY, 20 min",
-      "time": "⚠ 8:05–8:25 PM · OUT BY 8:30 NO MATTER WHAT",
+      "name": "🛏 Hotel — shower and change",
+      "time": "7:00–8:15 PM · same room as tonight",
       "lat": 33.9192,
       "lon": -118.4165,
-      "desc": "⚠ RUNNING LATE — this is a bag drop, not a check-in evening. Everything out of the car and into the room, rinse the salt off if there is time, done. HARD RULE: if you are not pulling out of the lot by 8:30, stop unpacking and leave — the car matters more than the bags. Repacking for the flight happens after dinner, not now."
+      "desc": "Bags never left the room, so this is just a shower, a change of clothes, and clearing your own junk out of the car — sunglasses, chargers, the parking receipts, whatever slid under the seats. Do a proper sweep of the footwells and the trunk; this is the last time you are in that car in daylight. Repack for the flight AFTER dinner tonight, not now."
     },
     {
       "day": 7,
       "kind": "sight",
       "name": "⛽ GAS — Sepulveda in El Segundo",
-      "time": "⚠ 8:30–8:42 PM · NOT at the airport",
+      "time": "8:20–8:32 PM · NOT at the airport",
       "lat": 33.925,
       "lon": -118.395,
-      "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and it is directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are both the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
+      "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and sits directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
     },
     {
       "day": 7,
       "kind": "air",
       "name": "Return the Hertz car — LAX",
-      "time": "⚠ 8:50 PM · DUE 9 PM · HARD",
+      "time": "⚠ 8:45 PM · DUE 9 PM · HARD",
       "lat": 33.9416,
       "lon": -118.4085,
-      "desc": "⚠ THE LAST FIXED THING ON THE TRIP, and tonight there is no slack left in front of it. Tank full. Photograph all four corners, the odometer and the fuel gauge, keep the receipt. Then Uber to dinner — car-less from here. IF YOU ARE GOING TO MISS 9: call Hertz from the road (the number is on the rental agreement) rather than just showing up late — a phone call ahead is the difference between a grace period and a late-return charge.",
+      "desc": "⚠ THE LAST FIXED THING ON THE TRIP. Tank full. Photograph all four corners, the odometer and the fuel gauge, keep the receipt. Then Uber to dinner — car-less from here, including the airport tomorrow. IF YOU ARE SOMEHOW GOING TO MISS 9: call Hertz from the road (number is on the rental agreement) rather than just turning up late — the call is the difference between a grace period and a late charge.",
       "parking": "Hertz Car Return, 9000 Airport Blvd, Los Angeles"
     },
     {
