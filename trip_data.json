@@ -120,6 +120,10 @@
       {
         "when": "2026-08-13 21:19 PT",
         "what": "Live update from Prairie Ave at 9:19 PM. Griffith arrival lands ~9:55 against a 10 PM close, so the call is: go anyway, skip the interior, terrace only, and bail to Hollywood Blvd if the lot is coned rather than walking up from Fern Dell. Rest of the night pushed ~30 min. In-N-Out moved off Thursday (would have arrived 1:35 vs a ~1 AM close) to Friday 8:15 PM, where it sits on Sepulveda between the hotel and the gas stop en route to the Hertz return — no detour and more planes overhead."
+      },
+      {
+        "when": "2026-08-13 21:30 PT",
+        "what": "Griffith is lost — called ahead and were turned down against the 10 PM close. Not deferrable: the observatory opens at noon Tue-Fri so there is no Friday morning, and Friday evening the car is due at LAX at 9. Rebuilt the night from Hollywood Blvd and put DINNER FIRST, because Thai Town kitchens are the only thing left with a hard clock while the Chinese Theatre forecourt never closes. Ruen Pair 10:00, Hollywood Blvd 11:05, Via Rodeo 12:15, hotel ~1:15. Partial consolation noted: the Hollywood & Highland terraces frame the Hollywood Sign and they are parking there anyway."
       }
     ],
     "decisions_made": [
@@ -201,8 +205,8 @@
     },
     {
       "day": 6,
-      "title": "Aug 13 · Getty · swim · GRIFFITH · Hollywood Blvd · Rodeo Drive",
-      "drive": "left 9:19 · Griffith ~9:55 terrace only · Thai Town · Hollywood · Rodeo 12:45",
+      "title": "Aug 13 · Getty · swim · Hollywood Blvd · Rodeo Drive",
+      "drive": "Griffith missed · dinner 10 · Hollywood Blvd 11:05 · Rodeo 12:15 · hotel ~1:15",
       "color": "#4363d8"
     },
     {
@@ -739,13 +743,12 @@
     },
     {
       "day": 6,
-      "kind": "gem",
-      "name": "★ Griffith Observatory — NIGHT, not sunset",
-      "time": "★ ~9:55–10:30 PM · TERRACE ONLY · FREE",
+      "kind": "bonus",
+      "name": "Griffith Observatory — MISSED",
+      "time": "+ called ahead, they said no",
       "lat": 34.1184,
       "lon": -118.3004,
-      "desc": "★ ⚠ RUNNING LATE — left the hotel 9:19 from Prairie Ave, so arrival is ~9:55 and the building closes at 10. PLAN ACCORDINGLY: skip the interior entirely, park and walk straight to the TERRACE. Expect 15-25 minutes before staff start clearing people around 10:15. That view was always the prize — Hollywood Sign one way, the whole basin lit the other — and the Foucault pendulum, Tesla coil and Zeiss telescope were the bonus, not the point. ⚠ IF THE LOT IS FULL OR THE ROAD IS CONED, BAIL IMMEDIATELY — do NOT try Fern Dell and walk up, that is 25 min uphill arriving at 10:30 to a closed everything. Turn around for Hollywood Blvd, 20 min away and open all night. That fallback is exactly why attempting this is still right: it costs ~20 extra minutes over driving straight to Hollywood, which is the next stop regardless. 🧥 LAYER — exposed terrace at ~1,100 ft, low 60s with wind off the hills, and you are coming off a beach day.",
-      "parking": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles"
+      "desc": "Called from the road and were turned down — arrival would have been ~9:55 against a 10 PM close. GENUINELY LOST, not deferred: the observatory opens at noon Tue-Fri so there is no Friday morning, and Friday evening the car is due back at LAX at 9. Nothing else in LA reliably replaces it late at night either — the Mulholland overlooks gate after dark, so chasing one at 11 PM would have traded a real stop for a locked gate. The partial consolation is on the way: the upper terraces of the Hollywood & Highland complex frame the Hollywood Sign straight down the sightline, free, and you are parking there anyway."
     },
     {
       "day": 6,
@@ -769,26 +772,26 @@
       "day": 6,
       "kind": "sight",
       "name": "Dinner — Thai Town (call first)",
-      "time": "10:45–11:30 PM · 10 min down the hill",
+      "time": "10:00–10:50 PM · EAT FIRST · 5257 Hollywood Blvd",
       "lat": 34.1016,
       "lon": -118.287,
-      "desc": "Straight down from Griffith and on the way to Hollywood Blvd. ⚠ AT THIS HOUR, PHONE AHEAD — plenty of Los Feliz kitchens stop around 10, while Thai Town on Hollywood Blvd near Western is the stretch that reliably runs latest. It is also the cheapest and by far the easiest vegetarian ordering of the trip: say NO FISH SAUCE, NO OYSTER SAUCE and almost the whole menu opens up. If everything is shut, In-N-Out at the end of the night is open to ~1 AM and becomes dinner instead of a snack."
+      "desc": "⚠ EAT FIRST TONIGHT — this is the only stop left with a hard clock. The Chinese Theatre forecourt is open air and never closes, so it can absorb a delay; a Thai kitchen cannot. RUEN PAIR, 5257 Hollywood Blvd, is the reliably-late one and sits at the east end of the Blvd, so you drive straight past it on the way in. BACKUP: Sanamluang Cafe, 5176 Hollywood Blvd. If both are shut, eat on the Blvd near Highland rather than burning 40 minutes hunting. Cheapest and easiest vegetarian ordering of the trip: say NO FISH SAUCE, NO OYSTER SAUCE and most of the menu opens up. Street parking is easy at this hour."
     },
     {
       "day": 6,
       "kind": "gem",
       "name": "★ Hollywood Blvd at night — RECOVERED",
-      "time": "★ 11:45 PM–12:30 AM · free · open air",
+      "time": "★ 11:05 PM–12:00 AM · free · open air",
       "lat": 34.1022,
       "lon": -118.341,
-      "desc": "★ Cut twice already, and the late start does not hurt it at all — this is an open-air, after-dark stop by nature. The TCL CHINESE THEATRE FORECOURT is open air and always accessible: nearly 200 sets of handprints and footprints pressed in concrete since 1927. The Walk of Fame is lit and lively, parking is finally easy, and it is 20 min from Griffith and dinner. ⚠ Keep wallets and phones in front pockets — the Blvd draws pickpockets late.",
+      "desc": "★ Cut twice already, and the late start does not hurt it at all — this is an open-air, after-dark stop by nature. The TCL CHINESE THEATRE FORECOURT is open air and always accessible: nearly 200 sets of handprints and footprints pressed in concrete since 1927. The Walk of Fame is lit and lively, parking is finally easy, and it is 20 min from Griffith and dinner. ⚠ Keep wallets and phones in front pockets — the Blvd draws pickpockets late. 🎬 SINCE GRIFFITH IS GONE: the upper terraces of the Hollywood & Highland complex — the garage you are already parking in — frame the HOLLYWOOD SIGN straight down the sightline. Not the basin view you lost, but free, right there, and the best sign view in the city at street level.",
       "parking": "Hollywood & Highland garage"
     },
     {
       "day": 6,
       "kind": "gem",
       "name": "★ Beverly Hills — Rodeo Drive, late and empty",
-      "time": "★ 12:45–1:10 AM · free parking · 15 min from Hollywood",
+      "time": "★ 12:15–12:45 AM · free parking · 15 min from Hollywood",
       "lat": 34.0674,
       "lon": -118.4009,
       "desc": "★ CUT TWICE, IN FOR REAL NOW — and it earned its slot by moving to the END of the night instead of the front. From Hollywood Blvd it is 15 minutes southwest and it puts you on the straight run down La Cienega to In-N-Out and the hotel, so it costs almost no extra driving. ⚠ THE SHOPS ARE SHUT — they were shut by 9 anyway, so this was always a photo stop and nothing was lost by going late. What you actually came for is lit all night: RODEO DRIVE itself, and VIA RODEO, the cobblestone street with the curving steps and the lamps, which genuinely photographs better after dark and at this hour will be completely empty. The Beverly Wilshire sits at the foot of it. 🅿️ Street meters are FREE AFTER 6 PM — park right on Rodeo or Dayton, do not hunt for a garage this late.",
