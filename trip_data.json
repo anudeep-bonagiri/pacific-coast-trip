@@ -144,6 +144,10 @@
       {
         "when": "2026-08-14 09:30 PT",
         "what": "Reanchored Friday to a 9:30 departure and added a Walmart stop at 1:35 (Burbank, 20 min past Griffith) — the only point in the day with real slack, and far clear of the 9 PM car return. It doubles as lunch. MALIBU SEAFOOD CUT to pay for it, which was the right loss since eating at 6:35 and again at Din Tai Fung at 10 was redundant. Day now: Fern Dell breakfast 10:15, Griffith exterior 11:10, interior 12-1:15, Walmart 1:35, Rodeo 2:45, El Matador 4:35, Point Dume 5:55, hotel 7:30 (shower + pack), gas 8:15, Hertz 8:45."
+      },
+      {
+        "when": "2026-08-14 10:00 PT",
+        "what": "Walmart and breakfast both done before 10, which handed the afternoon a spare hour. Reordered: Rodeo Drive 10:30-11:30 (shops open at 10) then Griffith at 12:00 to walk in exactly as the interior opens — both windows hit precisely. VENICE RESTORED with the spare hour; Malibu Seafood stays cut since Walmart food is eaten and Din Tai Fung is at 10. Day: Rodeo 10:30, Griffith 12-1:30 inside first, El Matador 3:00, Point Dume 4:35, Venice 6:10, hotel 7:30 shower+pack, gas 8:15, Hertz 8:45."
       }
     ],
     "decisions_made": [
@@ -231,8 +235,8 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · GRIFFITH inside · Walmart · Rodeo Dr · El Matador · Point Dume",
-      "drive": "9:30 AM–2 AM · Griffith noon · Walmart · Rodeo · Malibu · CAR BACK 9 PM · ~150 mi",
+      "title": "Aug 14 · Rodeo Dr · GRIFFITH inside · El Matador · Point Dume · Venice",
+      "drive": "Rodeo 10:30 · GRIFFITH 12 · El Matador 3 · Venice 6:10 · CAR BACK 9 PM · ~150 mi",
       "color": "#911eb4"
     },
     {
@@ -840,7 +844,7 @@
       "day": 7,
       "kind": "sight",
       "name": "Fern Dell + Trails Cafe — breakfast",
-      "time": "10:15–11:00 AM · FREE parking",
+      "time": "✅ DONE · before 10 AM",
       "lat": 34.115,
       "lon": -118.3095,
       "desc": "⚠ PARK HERE FIRST, NOT AT THE OBSERVATORY — Fern Dell parking is free, Trails Cafe is right at the trailhead, and you drive up to the observatory lot at 11 when you actually want it. Fern Dell itself is a shaded creek walk with stone bridges running below the observatory, and it fills the wait until noon without a single wasted mile. Drive up from here, do not walk — the climb is 25 min uphill.",
@@ -850,7 +854,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Griffith Observatory — EXTERIOR then INTERIOR",
-      "time": "★ 11:10 AM–1:15 PM · opens 12 · FREE",
+      "time": "★ 12:00–1:30 PM · INSIDE FIRST · FREE",
       "lat": 34.1184,
       "lon": -118.3004,
       "desc": "★ RECOVERED PROPERLY after two failed attempts. ⚠ THE BUILDING OPENS AT 12 PM Tue-Fri, which is the whole reason the day got rebuilt around it. 11:00-12:00 OUTSIDE: lawn, terrace, the Hollywood Sign sightline, and the CHARLIE TURNER TRAILHEAD right at the building — 30-40 min round trip to a better viewpoint than the terrace. 12:00-1:15 INSIDE, and this is what you have been chasing: the Foucault pendulum in the rotunda, the Tesla coil, the exhibit halls. 🎟 PLANETARIUM SHOWS run roughly hourly through the afternoon, about $10 — the one thing here you cannot get anywhere else. Check the board as you walk in and take the 12:15 if it lines up. 🅿️ Paid on the observatory lot on weekdays. ⚠ OUT BY 1:15 — everything behind this stacks onto a 9 PM car return that does not move.",
@@ -860,7 +864,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ El Matador State Beach",
-      "time": "★ 4:35–5:40 PM · $8 · BEST LIGHT of the day",
+      "time": "★ 3:00–4:15 PM · $8 · BEST LIGHT of the day",
       "lat": 34.0369,
       "lon": -118.879,
       "desc": "★ The most photogenic beach in LA County — steep staircase and dirt path down to a cove of sea stacks, arches and caves, late-morning light angling through them. ⚠ REAL SHOES, the path is steep and sandy. ✅ Swimmable again now the tattoos are off — but this is open coast with NO LIFEGUARD, so nobody goes past their waist.",
@@ -870,7 +874,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Point Dume",
-      "time": "★ 5:55–6:35 PM · free street parking",
+      "time": "★ 4:35–5:20 PM · free street parking",
       "lat": 34.0006,
       "lon": -118.8065,
       "desc": "★ Short climb up the headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free."
@@ -887,17 +891,17 @@
     {
       "day": 7,
       "kind": "bonus",
-      "name": "Malibu Seafood — CUT for Walmart",
-      "time": "+ dinner was redundant anyway",
+      "name": "Malibu Seafood — CUT, Venice took the slot",
+      "time": "+ redundant against a 10 PM dinner",
       "lat": 34.0378,
       "lon": -118.6989,
-      "desc": "Traded for the Walmart stop, and it was the right thing to lose: eating at 6:35 and again at Din Tai Fung at 10 was always doubling up. Lunch happens at Walmart instead. Put this back only if the Griffith interior runs short and the afternoon opens up."
+      "desc": "Stayed cut when the spare hour appeared, and Venice took it instead — the right call with Walmart food already eaten and Din Tai Fung at 10. A fish counter at 5:30 would have been the third meal squeezed into six hours."
     },
     {
       "day": 7,
       "kind": "sight",
       "name": "🛒 Walmart Supercenter — supplies + lunch",
-      "time": "1:35–2:15 PM · 20 min from Griffith",
+      "time": "✅ DONE · before 10 AM",
       "lat": 34.178,
       "lon": -118.332,
       "desc": "🛒 PLACED HERE ON PURPOSE — this is the only point in the day with real slack, and doing it now keeps it well clear of the 9 PM car return. You are back at the hotel at 7:30, so anything bought here goes straight into a suitcase. ⚠ IT DOUBLES AS LUNCH — Malibu Seafood got cut to pay for this stop, so eat here, and grab plane snacks for tomorrow in the same trip while you are at it. ⚠ If Maps shows a Walmart closer to your actual line, take that one instead — Burbank is simply the one that fits between Griffith and Rodeo. The point is the 40 minutes, not the store.",
@@ -907,7 +911,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Beverly Hills — Rodeo Drive, DAYLIGHT",
-      "time": "★ 2:45–3:40 PM · shops open · garage free 2 hrs",
+      "time": "★ 10:30–11:30 AM · shops open · LEAVE BY 11:30",
       "lat": 34.0674,
       "lon": -118.4009,
       "desc": "★ The daylight version, and a genuinely different visit from the midnight photo stop — this time the street is open and alive. Rodeo Drive itself, VIA RODEO with its cobblestones and curving steps, the Beverly Wilshire at the foot of it, then two blocks north to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. 🅿️ USE THE CITY GARAGES, not the meters — 461 N Bedford or 345 N Beverly give the FIRST 2 HOURS FREE. (The free-meters-after-6 trick is a night-time thing only.) ⚠ MOST STORES CLOSE 6-7 PM, so 4:40 is close to the last useful hour. ⚠ This stop costs ~20 min of backtracking east and it cost Manhattan Beach — do not let it run past 5:40, because everything behind it stacks onto a 9 PM car return that does not move.",
@@ -915,12 +919,13 @@
     },
     {
       "day": 7,
-      "kind": "bonus",
-      "name": "Venice — CUT for the Griffith interior",
-      "time": "+ the price of getting inside",
+      "kind": "gem",
+      "name": "★ Venice Boardwalk + the CANALS",
+      "time": "★ 6:10–7:10 PM · free · back on",
       "lat": 33.985,
       "lon": -118.4695,
-      "desc": "The cost of rebuilding the day around a noon opening. Griffith inside + Rodeo Drive + all of Malibu does not leave room for it, and Santa Monica yesterday covered the boardwalk side of the day. The canals are the real loss here — they were the better half of this stop. Put it back only if Griffith runs short."
+      "desc": "★ BACK ON — Walmart and breakfast finishing before 10 handed the afternoon an hour, and this is the best thing to spend it on. Skate park right on the sand, Muscle Beach, buskers and the boardwalk circus — then walk two blocks inland to the VENICE CANALS: silent residential water, arched footbridges, and almost nobody finds them. GIVE THE CANALS 20 OF THE 60 MINUTES; they are the better half. 🅿️ PAID LOT on Washington or Venice Blvd, never a side street.",
+      "parking": "Washington Blvd or Venice Blvd paid lots"
     },
     {
       "day": 7,
