@@ -108,6 +108,10 @@
       {
         "when": "2026-08-13 19:00 PT",
         "what": "Day correction: it is Thursday, not Friday. Checked into the hotel at 7 PM straight from the beach (big win — luggage is out of the car for the rest of the trip, and it is the same room both nights). Leaving 8:30-9 PM, so Griffith sunset is lost; retimed Griffith to 9:15 PM as a night visit (building closes 10, terrace and view stay open and are the real draw, and late parking is easier). Beverly Hills downgraded to a conditional 15-min lit photo stop only if rolling by 8:30. Dinner pushed to Thai Town 10:30, Hollywood Blvd 11:15, In-N-Out ~12:30. Friday's tail restored to unrushed timing since nothing is behind there."
+      },
+      {
+        "when": "2026-08-13 19:20 PT",
+        "what": "Added clubbing as a Friday-night bonus. All three travelers are under 21, so it only works at a designated 18+/19+ event; those cluster Fri/Sat, which is why it went on Friday rather than tonight. Ticket must be bought online in advance for an explicitly 18+ event. Car is already returned by then, so Uber both ways. Cost is sleep: ends ~2 AM against a 7:30 alarm for DL2568."
       }
     ],
     "decisions_made": [
@@ -896,6 +900,15 @@
       "lon": -118.341,
       "desc": "★ Xiao long bao are the point — pork soup dumplings, eighteen folds each, made behind glass. ⚠⚠ CALL RIGHT NOW, FROM THE CAR. Del Amo commonly closes 10 PM on a Friday, which means last seating is nearer 9:30 — a 10:00 arrival by Uber may simply be too late, and they take walk-ins only. Ask one question: 'what is your last seating tonight?' If the answer is before 10, do not chase the Santa Monica branch — it is 25 min the wrong way from the hotel and you would be car-less. Fall back to a late kitchen you can reach: Torrance's Korean BBQ strip along Western Ave runs late on weekends (verify hours by phone, do not just show up). VEGETARIAN: vegan dumplings, veggie buns, green beans, cucumber salad, hot and sour soup.",
       "parking": "Din Tai Fung, Del Amo Fashion Center, Torrance"
+    },
+    {
+      "day": 7,
+      "kind": "bonus",
+      "name": "+ CLUBBING — 18+ night, buy the ticket first",
+      "time": "+ ~11:45 PM–2 AM · $20-40 cover · Uber only",
+      "lat": 34.0975,
+      "lon": -118.3265,
+      "desc": "+ ⚠ ALL THREE OF YOU ARE UNDER 21, so this only works at a venue running a designated 18+ or 19+ event. California puts alcohol service at 21, so a normal club night is closed to you — but LA genuinely has 18+ nights, and they cluster on FRIDAY AND SATURDAY, which is why this is a Friday plan and not a Thursday one. ⚠ BUY TICKETS ONLINE IN ADVANCE for a specific event whose page says 18+. The door is where under-21s get turned away; a paid ticket to an explicitly 18+ event is your protection, and a venue's age policy changes per event so never trust last month's answer. Bring PHYSICAL ID — 18+ nights still check it, they just wristband or X your hands instead of serving you. Venues that have historically run 18+ nights: AVALON HOLLYWOOD (1735 N Vine St), ACADEMY LA (6021 Hollywood Blvd), EXCHANGE LA (618 S Spring St, downtown). Sound, Nightingale and 1 OAK are 21+ — do not bother. ✅ You will be car-less by then, so Uber both ways is the only option anyway and the driving question never comes up. ⚠ COST: this ends around 2 AM and your alarm is 7:30 for DL2568. Repack BEFORE you go out, not after."
     },
     {
       "day": 7,
