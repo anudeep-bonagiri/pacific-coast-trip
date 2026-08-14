@@ -132,6 +132,10 @@
       {
         "when": "2026-08-13 22:00 PT",
         "what": "Beverly Hills added to Friday in daylight (4:40-5:40, shops open, city garage free 2 hrs) — a different visit from tonight's midnight photo stop. Paid for by CUTTING MANHATTAN BEACH, the bonus third swim; Santa Monica still gives a full 75 min in the water. Order set as swim at 3 while it is hottest, Rodeo at 4:40 in the last useful shopping hour, Venice at 6-7 for golden hour on the boardwalk. Costs ~20 min of backtracking east. Everything still stacks onto the immovable 9 PM Hertz return."
+      },
+      {
+        "when": "2026-08-14 09:00 PT",
+        "what": "Griffith recovered as a Friday MORNING exterior stop (9:50-10:50). Flagged that the building opens at noon Tue-Fri, so exhibits/pendulum/telescope are out — waiting for noon would have cost Malibu, which is the worse trade. Santa Monica cut (done Thursday), which is what makes room. Also corrected my own earlier routing claim: Malibu Seafood sits ~7 mi EAST of Point Dume, so lunch-before-headland was a genuine backtrack; order is now El Matador, Point Dume, then lunch at 2:25, running clean west-to-east down PCH. Rodeo 3:55, Venice 5:15, hotel 6:50, gas 7:50, Hertz 8:45."
       }
     ],
     "decisions_made": [
@@ -219,8 +223,8 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · El Matador · Point Dume · Santa Monica · RODEO DR · Venice",
-      "drive": "11 AM–2 AM · two beaches + Rodeo · CAR BACK 9 PM HARD · ~105 mi",
+      "title": "Aug 14 · GRIFFITH am · El Matador · Point Dume · Rodeo Dr · Venice",
+      "drive": "9 AM–2 AM · Griffith am · Malibu · Rodeo · CAR BACK 9 PM HARD · ~135 mi",
       "color": "#911eb4"
     },
     {
@@ -827,8 +831,18 @@
     {
       "day": 7,
       "kind": "gem",
+      "name": "★ Griffith Observatory — MORNING, exterior only",
+      "time": "★ 9:50–10:50 AM · ⚠ BUILDING OPENS NOON",
+      "lat": 34.1184,
+      "lon": -118.3004,
+      "desc": "★ RECOVERED after last night fell through — but know what you are getting. ⚠ THE BUILDING OPENS AT 12 PM Tue-Fri, so the exhibits, Foucault pendulum, Tesla coil and Zeiss telescope are all closed at this hour. The grounds, lawn, terrace and parking ARE open, and that is the part worth having: morning light lands well on the HOLLYWOOD SIGN, the building itself photographs beautifully, and the lot is empty enough that you park up top instead of climbing from Fern Dell. ⚠ DO NOT WAIT FOR NOON — three hours of standing around would cost you Malibu, and El Matador is worth more than the exhibits. 🅿️ Paid parking on the observatory lot on weekdays; free further down Fern Dell if you want the walk, which at 9:50 you will not.",
+      "parking": "Griffith Observatory, 2800 E Observatory Rd, Los Angeles"
+    },
+    {
+      "day": 7,
+      "kind": "gem",
       "name": "★ El Matador State Beach",
-      "time": "★ 11:00 AM–12:15 PM · $8",
+      "time": "★ 12:15–1:15 PM · $8 · 32350 PCH",
       "lat": 34.0369,
       "lon": -118.879,
       "desc": "★ The most photogenic beach in LA County — steep staircase and dirt path down to a cove of sea stacks, arches and caves, late-morning light angling through them. ⚠ REAL SHOES, the path is steep and sandy. ✅ Swimmable again now the tattoos are off — but this is open coast with NO LIFEGUARD, so nobody goes past their waist.",
@@ -836,37 +850,36 @@
     },
     {
       "day": 7,
-      "kind": "sight",
-      "name": "Malibu Seafood — lunch",
-      "time": "12:30–1:15 PM · $11-20pp",
-      "lat": 34.0378,
-      "lon": -118.6989,
-      "desc": "Walk-up counter with picnic tables straight across PCH from the water. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. Fast, no reservations."
-    },
-    {
-      "day": 7,
       "kind": "gem",
       "name": "★ Point Dume",
-      "time": "★ 1:30–2:15 PM · free street parking",
+      "time": "★ 1:30–2:10 PM · free street parking",
       "lat": 34.0006,
       "lon": -118.8065,
       "desc": "★ Short climb up the headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free."
     },
     {
       "day": 7,
-      "kind": "water",
-      "name": "🌊 Santa Monica Pier — properly this time",
-      "time": "🌊 3:00–4:15 PM · free · lifeguarded",
+      "kind": "bonus",
+      "name": "Santa Monica — CUT, did it yesterday",
+      "time": "+ swam and walked the pier Thursday",
       "lat": 34.0089,
       "lon": -118.4973,
-      "desc": "🌊 Yesterday you swam here and left. Today you get the pier itself: Pacific Park's Ferris wheel, the ROUTE 66 END OF THE TRAIL sign, the carousel, and the original Muscle Beach rings just south on the sand. SWIM SPOT: walk 3-4 blocks NORTH of the pier, toward the towers at the end of Wilshire/California (~34.014,-118.502). Do NOT swim at the pier pilings (rip currents, no-swim zone) and do NOT swim the stretch just SOUTH of the pier — the Pico-Kenter storm drain empties there and it's Santa Monica's dirtiest water. North side is lifeguarded, ~69°F, towers staffed to ~7 PM in August. 🅿️ Pier deck lot; bags are still in the car so nothing visible.",
-      "parking": "Santa Monica Pier Deck lot, 200 Santa Monica Pier"
+      "desc": "Done Thursday — the swim north of the pier, the Route 66 sign, the whole thing. Cutting it here is what makes room for Griffith this morning without touching the 9 PM car return. Venice still covers the boardwalk side of the day and is a genuinely different place."
+    },
+    {
+      "day": 7,
+      "kind": "sight",
+      "name": "Malibu Seafood — late lunch",
+      "time": "2:25–3:05 PM · $11-20pp · 25653 PCH",
+      "lat": 34.0378,
+      "lon": -118.6989,
+      "desc": "Walk-up counter with picnic tables straight across PCH from the water. ⚠ MOVED AFTER POINT DUME — it sits ~7 miles EAST of Point Dume, so eating before the headland meant doubling back west. This order runs clean west-to-east down PCH. Veggie burger and fries for the vegetarians; fish and chips, shrimp, or a chicken sandwich for the others. Fast, no reservations."
     },
     {
       "day": 7,
       "kind": "gem",
       "name": "★ Beverly Hills — Rodeo Drive, DAYLIGHT",
-      "time": "★ 4:40–5:40 PM · shops open · garage free 2 hrs",
+      "time": "★ 3:55–4:55 PM · shops open · garage free 2 hrs",
       "lat": 34.0674,
       "lon": -118.4009,
       "desc": "★ The daylight version, and a genuinely different visit from the midnight photo stop — this time the street is open and alive. Rodeo Drive itself, VIA RODEO with its cobblestones and curving steps, the Beverly Wilshire at the foot of it, then two blocks north to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. 🅿️ USE THE CITY GARAGES, not the meters — 461 N Bedford or 345 N Beverly give the FIRST 2 HOURS FREE. (The free-meters-after-6 trick is a night-time thing only.) ⚠ MOST STORES CLOSE 6-7 PM, so 4:40 is close to the last useful hour. ⚠ This stop costs ~20 min of backtracking east and it cost Manhattan Beach — do not let it run past 5:40, because everything behind it stacks onto a 9 PM car return that does not move.",
@@ -876,7 +889,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Venice Boardwalk + the CANALS",
-      "time": "★ 6:00–7:00 PM · GOLDEN HOUR · free",
+      "time": "★ 5:15–6:30 PM · free · boardwalk + canals",
       "lat": 33.985,
       "lon": -118.4695,
       "desc": "★ Ten minutes down from Santa Monica. Skate park right on the sand (worth watching even if nobody skates), Muscle Beach, buskers and the boardwalk circus — then walk two blocks inland to the VENICE CANALS: silent residential water, arched footbridges, and almost nobody finds them. Give the canals 20 of the 75 minutes; they are the better half. 🅿️ PAID LOT on Washington or Venice Blvd, never a side street.",
@@ -895,7 +908,7 @@
       "day": 7,
       "kind": "sight",
       "name": "🛏 Hotel — shower and change",
-      "time": "7:20–8:10 PM · same room as tonight",
+      "time": "6:50–7:45 PM · same room as last night",
       "lat": 33.9192,
       "lon": -118.4165,
       "desc": "Bags never left the room, so this is just a shower, a change of clothes, and clearing your own junk out of the car — sunglasses, chargers, the parking receipts, whatever slid under the seats. Do a proper sweep of the footwells and the trunk; this is the last time you are in that car in daylight. Repack for the flight AFTER dinner tonight, not now."
@@ -904,7 +917,7 @@
       "day": 7,
       "kind": "sight",
       "name": "⛽ GAS — Sepulveda in El Segundo",
-      "time": "8:15–8:27 PM · NOT at the airport",
+      "time": "7:50–8:05 PM · NOT at the airport",
       "lat": 33.925,
       "lon": -118.395,
       "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and sits directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
