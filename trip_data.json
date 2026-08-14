@@ -128,6 +128,10 @@
       {
         "when": "2026-08-13 21:40 PT",
         "what": "Ruen Pair said no too, so dinner is cancelled outright rather than hunting a second late kitchen — and that is exactly what made In-N-Out viable tonight: without the 50-min dinner stop, arrival is ~12:25 against a ~1 AM Thursday close instead of 1:35. In-N-Out pulled back off Friday and restored to Thursday as dinner. Night is now Hollywood Blvd 9:55-11:15, Via Rodeo 11:30-12:00, In-N-Out 12:25, hotel ~12:45. Flagged the food gap: last meal was pre-beach, so grab something small near Highland."
+      },
+      {
+        "when": "2026-08-13 22:00 PT",
+        "what": "Beverly Hills added to Friday in daylight (4:40-5:40, shops open, city garage free 2 hrs) — a different visit from tonight's midnight photo stop. Paid for by CUTTING MANHATTAN BEACH, the bonus third swim; Santa Monica still gives a full 75 min in the water. Order set as swim at 3 while it is hottest, Rodeo at 4:40 in the last useful shopping hour, Venice at 6-7 for golden hour on the boardwalk. Costs ~20 min of backtracking east. Everything still stacks onto the immovable 9 PM Hertz return."
       }
     ],
     "decisions_made": [
@@ -215,8 +219,8 @@
     },
     {
       "day": 7,
-      "title": "Aug 14 · El Matador · Point Dume · Santa Monica · Venice · Manhattan",
-      "drive": "11 AM–11:30 PM · three beaches · CAR BACK 9 PM HARD · ~95 mi",
+      "title": "Aug 14 · El Matador · Point Dume · Santa Monica · RODEO DR · Venice",
+      "drive": "11 AM–2 AM · two beaches + Rodeo · CAR BACK 9 PM HARD · ~105 mi",
       "color": "#911eb4"
     },
     {
@@ -843,7 +847,7 @@
       "day": 7,
       "kind": "gem",
       "name": "★ Point Dume",
-      "time": "★ 1:30–2:00 PM · free street parking",
+      "time": "★ 1:30–2:15 PM · free street parking",
       "lat": 34.0006,
       "lon": -118.8065,
       "desc": "★ Short climb up the headland to a boardwalk viewpoint: sea lions on the rocks below, the whole Santa Monica Bay curving away east, Catalina on a clear day. Also the beach from the end of Planet of the Apes. Free."
@@ -861,8 +865,18 @@
     {
       "day": 7,
       "kind": "gem",
+      "name": "★ Beverly Hills — Rodeo Drive, DAYLIGHT",
+      "time": "★ 4:40–5:40 PM · shops open · garage free 2 hrs",
+      "lat": 34.0674,
+      "lon": -118.4009,
+      "desc": "★ The daylight version, and a genuinely different visit from the midnight photo stop — this time the street is open and alive. Rodeo Drive itself, VIA RODEO with its cobblestones and curving steps, the Beverly Wilshire at the foot of it, then two blocks north to the BEVERLY HILLS SIGN and lily pond at Beverly Gardens Park. 🅿️ USE THE CITY GARAGES, not the meters — 461 N Bedford or 345 N Beverly give the FIRST 2 HOURS FREE. (The free-meters-after-6 trick is a night-time thing only.) ⚠ MOST STORES CLOSE 6-7 PM, so 4:40 is close to the last useful hour. ⚠ This stop costs ~20 min of backtracking east and it cost Manhattan Beach — do not let it run past 5:40, because everything behind it stacks onto a 9 PM car return that does not move.",
+      "parking": "Beverly Hills city garage, 461 N Bedford Dr"
+    },
+    {
+      "day": 7,
+      "kind": "gem",
       "name": "★ Venice Boardwalk + the CANALS",
-      "time": "★ 4:30–5:45 PM · free · 10 min south",
+      "time": "★ 6:00–7:00 PM · GOLDEN HOUR · free",
       "lat": 33.985,
       "lon": -118.4695,
       "desc": "★ Ten minutes down from Santa Monica. Skate park right on the sand (worth watching even if nobody skates), Muscle Beach, buskers and the boardwalk circus — then walk two blocks inland to the VENICE CANALS: silent residential water, arched footbridges, and almost nobody finds them. Give the canals 20 of the 75 minutes; they are the better half. 🅿️ PAID LOT on Washington or Venice Blvd, never a side street.",
@@ -870,19 +884,18 @@
     },
     {
       "day": 7,
-      "kind": "water",
-      "name": "🌊 Manhattan Beach — last stop",
-      "time": "🌊 6:00–6:45 PM · free · on the way in",
+      "kind": "bonus",
+      "name": "Manhattan Beach — CUT for Beverly Hills",
+      "time": "+ the third swim, traded away",
       "lat": 33.8847,
       "lon": -118.4109,
-      "desc": "🌊 The quiet one, and it is directly on the line from Venice back to the hotel. Lifeguarded, ~68°F, a short pier with the Roundhouse Aquarium at the end, and a beach path with none of the Venice chaos. LAST SWIM OF THE TRIP — this time as a bonus rather than the only one. Rinse off here; you shower at the hotel at 7.",
-      "parking": "Manhattan Beach Pier, 1 Manhattan Beach Blvd"
+      "desc": "Traded for a proper daylight hour on Rodeo Drive. It was always the bonus third swim rather than a headline — you still get a full 75 minutes in the water at Santa Monica, and Beverly Hills needed a real hour with the shops actually open. If Rodeo somehow collapses tomorrow, this is the stop to put back: it is free, lifeguarded, and directly on the line from Venice to the hotel."
     },
     {
       "day": 7,
       "kind": "sight",
       "name": "🛏 Hotel — shower and change",
-      "time": "7:00–8:15 PM · same room as tonight",
+      "time": "7:20–8:10 PM · same room as tonight",
       "lat": 33.9192,
       "lon": -118.4165,
       "desc": "Bags never left the room, so this is just a shower, a change of clothes, and clearing your own junk out of the car — sunglasses, chargers, the parking receipts, whatever slid under the seats. Do a proper sweep of the footwells and the trunk; this is the last time you are in that car in daylight. Repack for the flight AFTER dinner tonight, not now."
@@ -891,7 +904,7 @@
       "day": 7,
       "kind": "sight",
       "name": "⛽ GAS — Sepulveda in El Segundo",
-      "time": "8:20–8:32 PM · NOT at the airport",
+      "time": "8:15–8:27 PM · NOT at the airport",
       "lat": 33.925,
       "lon": -118.395,
       "desc": "⚠ NON-SKIPPABLE — Hertz bills unfilled tanks at roughly triple pump price. Sepulveda Blvd through El Segundo is lined with stations and sits directly on the line from the hotel to the return. Do NOT wait for a station on Century Blvd; the LAX-adjacent pumps are the most expensive and the most congested. Search: 'gas station Sepulveda Blvd El Segundo'."
